@@ -17,25 +17,26 @@ from email.utils import parsedate_to_datetime
 
 FEEDS = {
     "morning": [
-        # (方向, 信源名, RSS URL, 级别)
+        # (方向, 信源名, RSS URL, 级别) — 早间8:00·覆盖七大方向
         ("科技与AI", "TechCrunch", "https://techcrunch.com/feed/", "二级"),
         ("科技与AI", "WIRED", "https://www.wired.com/feed/rss", "二级"),
-        ("科技与AI", "Google News AI", "https://news.google.com/rss/search?q=artificial+intelligence+when:2d&hl=en-US&gl=US&ceid=US:en", "二级"),
         ("金融市场", "CNBC", "https://www.cnbc.com/id/100003114/device/rss/rss.html", "二级"),
         ("中国出海", "Google News", "https://news.google.com/rss/search?q=China+company+overseas+when:3d&hl=en-US&gl=US&ceid=US:en", "二级"),
+        ("地缘政治", "Google News", "https://news.google.com/rss/search?q=geopolitics+OR+%22trade+war%22+when:2d&hl=en-US&gl=US&ceid=US:en", "二级"),
         ("消费与数码", "Engadget", "https://www.engadget.com/rss-full.xml", "二级"),
-        ("消费与数码", "CNET", "https://www.cnet.com/rss/news/", "二级"),
         ("民生与社会", "BBC", "https://feeds.bbci.co.uk/news/rss.xml", "二级"),
+        ("政策与监管", "Google News", "https://news.google.com/rss/search?q=regulation+OR+tariff+OR+antitrust+when:3d&hl=en-US&gl=US&ceid=US:en", "二级"),
     ],
     "evening": [
+        # 晚间20:00·覆盖七大方向
         ("科技与AI", "The Verge", "https://www.theverge.com/rss/index.xml", "二级"),
-        ("科技与AI", "Ars Technica", "https://arstechnica.com/feed/", "二级"),
         ("科技与AI", "MIT Tech Review", "https://www.technologyreview.com/feed/", "二级"),
         ("金融市场", "CNBC", "https://www.cnbc.com/id/100003114/device/rss/rss.html", "二级"),
+        ("中国出海", "Google News", "https://news.google.com/rss/search?q=China+company+overseas+when:3d&hl=en-US&gl=US&ceid=US:en", "二级"),
         ("地缘政治", "Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "二级"),
-        ("消费与数码", "Tom's Hardware", "https://www.tomshardware.com/feeds/all", "二级"),
-        ("消费与数码", "Fast Company", "https://www.fastcompany.com/rss", "二级"),
+        ("消费与数码", "CNET", "https://www.cnet.com/rss/news/", "二级"),
         ("民生与社会", "Guardian", "https://www.theguardian.com/world/rss", "二级"),
+        ("政策与监管", "Google News", "https://news.google.com/rss/search?q=regulation+OR+tariff+OR+antitrust+when:3d&hl=en-US&gl=US&ceid=US:en", "二级"),
     ],
 }
 

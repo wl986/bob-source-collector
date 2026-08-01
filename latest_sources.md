@@ -575,3 +575,489 @@
 | 5 | Google News | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-08-01 11:16 |
 | 6 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-08-01 11:16 |
 | 7 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-08-01 11:16 |
+
+---
+
+# 信源缓存（云端自动采集 · 2026-08-01 21:18）
+
+> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
+> 采集时段：evening
+> 有效期：7天
+> 总条目：99条
+
+
+## 科技与AI（20条）
+
+### 1. The Mermaid Mask is a perfect vacation murder mystery
+- 摘要：The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It 
+- 信源：The Verge（二级）
+- 日期：2026-08-01T09:00:00-04:00
+- URL：https://www.theverge.com/games/971660/the-mermaid-mask-review
+
+### 2. The OG reading app just got a big update
+- 摘要：Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and a
+- 信源：The Verge（二级）
+- 日期：2026-08-01T08:00:00-04:00
+- URL：https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer
+
+### 3. With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC
+- 摘要：Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't
+- 信源：The Verge（二级）
+- 日期：2026-07-31T18:09:11-04:00
+- URL：https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock
+
+### 4. Apple’s new AirTags are back down to their best price
+- 摘要：We spotted a great deal on Tile trackers earlier this week that&#8217;s still live, but if you&#8217;re an iPhone owner, we ultimately recommend Apple
+- 信源：The Verge（二级）
+- 日期：2026-07-31T15:35:45-04:00
+- URL：https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale
+
+### 5. Google Earth&#8217;s AI deepfake tool only lasted one day
+- 摘要：Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essent
+- 信源：The Verge（二级）
+- 日期：2026-07-31T15:13:29-04:00
+- URL：https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
+
+### 6. The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports
+- 摘要：The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension 
+- 信源：The Verge（二级）
+- 日期：2026-07-31T14:33:39-04:00
+- URL：https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension
+
+### 7. Google might launch a ‘Pixel Tag’
+- 摘要：Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a "Google Pixe
+- 信源：The Verge（二级）
+- 日期：2026-07-31T14:27:24-04:00
+- URL：https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker
+
+### 8. The ban on robot vacuums won’t make them safer, only worse
+- 摘要：No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone 
+- 信源：The Verge（二级）
+- 日期：2026-07-31T13:30:49-04:00
+- URL：https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices
+
+### 9. Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount
+- 摘要：Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomod
+- 信源：The Verge（二级）
+- 日期：2026-07-31T13:09:13-04:00
+- URL：https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale
+
+### 10. Here’s the problem with putting an AI image generator in Google Earth
+- 摘要：A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feat
+- 信源：The Verge（二级）
+- 日期：2026-07-31T13:05:46-04:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images
+
+### 11. The Download: Montana’s new experimental drug rules
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 31 Jul 2026 12:16:00 +0000
+- URL：https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
+
+### 12. Montana’s new “right to try” law can’t come soon enough for some
+- 摘要：Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 31 Jul 2026 09:00:00 +0000
+- URL：https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
+
+### 13. Montana’s plan to become an experimental medical hub just pushed forward
+- 摘要：As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 30 Jul 2026 17:10:00 +0000
+- URL：https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
+
+### 14. The Download: tricking LLMs, and reviving geothermal plants
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 30 Jul 2026 12:10:00 +0000
+- URL：https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
+
+### 15. A fundamental flaw leaves LLMs strikingly vulnerable to attack
+- 摘要：It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 30 Jul 2026 10:15:19 +0000
+- URL：https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
+
+
+## 金融市场（20条）
+
+### 1. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'
+- 摘要：The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 12:00:01 GMT
+- URL：https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html
+
+### 2. Tankers near Oman come under fire as Iran threatens to choke off shipping routes
+- 摘要：The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 10:56:11 GMT
+- URL：https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html
+
+### 3. To keep growing, incoming Best Buy CEO says he first wants to go smaller
+- 摘要：As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experie
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 12:00:01 GMT
+- URL：https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html
+
+### 4. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
+- 摘要：As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 12:30:01 GMT
+- URL：https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html
+
+### 5. Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar
+- 摘要：Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 22:04:03 GMT
+- URL：https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html
+
+### 6. Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings
+- 摘要：Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 18:46:45 GMT
+- URL：https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html
+
+### 7. Iran's overlapping power centers make ending the war more complicated
+- 摘要：Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 06:52:42 GMT
+- URL：https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html
+
+### 8. How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days
+- 摘要：Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awar
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 20:19:03 GMT
+- URL：https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html
+
+### 9. 450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies
+- 摘要：Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal gov
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 15:45:15 GMT
+- URL：https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html
+
+### 10. EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers
+- 摘要：The prices for used electric vehicles have risen this year, which is unusual, experts said. Affordability and high gas prices help explain why, they s
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 12:15:01 GMT
+- URL：https://www.cnbc.com/2026/07/31/used-ev-prices.html
+
+### 11. Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'
+- 摘要：President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebration
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 23:19:16 GMT
+- URL：https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html
+
+### 12. As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years
+- 摘要：Trimmed mean measures are painting a different picture than the headline numbers.
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 16:51:30 GMT
+- URL：https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html
+
+### 13. Trump's AI executive order nears key deadline as regulation debate intensifies
+- 摘要：OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 21:46:32 GMT
+- URL：https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html
+
+### 14. Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks
+- 摘要：Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage 
+- 信源：CNBC（二级）
+- 日期：Fri, 31 Jul 2026 21:49:40 GMT
+- URL：https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html
+
+### 15. From a Fed decision to Big Tech earnings: What drove last week's volatile market
+- 摘要：Wall Street got back to its winning ways last week.
+- 信源：CNBC（二级）
+- 日期：Sat, 01 Aug 2026 12:16:13 GMT
+- URL：https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html
+
+
+## 地缘政治（20条）
+
+### 1. Spain says migrants leaving Ceuta after mass influx in which 67 died
+- 摘要：Spain’s foreign minister maintains &#039;the integrity of the Schengen area is absolutely guaranteed&#039;.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 12:57:13 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss
+
+### 2. Iran warns against ‘flames of war’ amid US strike threats on energy sites
+- 摘要：Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 12:44:54 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss
+
+### 3. Sde Teiman walkout lays bare an Israeli military running out of trust
+- 摘要：Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 12:40:36 +0000
+- URL：https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss
+
+### 4. FIFA World Cup crisis: Who could replace Infantino as president?
+- 摘要：Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 11:58:23 +0000
+- URL：https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss
+
+### 5. Vanishing forests: Why is the Philippines failing at reforestation?
+- 摘要：101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 11:30:00 +0000
+- URL：https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss
+
+### 6. Spain says migrants in Ceuta have returned to Morocco
+- 摘要：Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 11:29:41 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss
+
+### 7. Trump mimics sound of Patriot missile interceptions
+- 摘要：US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 11:21:32 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss
+
+### 8. India’s Modi says he forgives students who abused him in Cockroach protests
+- 摘要：PM says &#039;misled children&#039; need to be shown &#039;the right path&#039; as his supporters dox and abuse protesters on social media.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 11:08:17 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss
+
+### 9. Omani legend, US novice: Pakistan recovers bodies from Broad Peak
+- 摘要：Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 10:38:41 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss
+
+### 10. Iran: The Making of a War
+- 摘要：From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 10:30:00 +0000
+- URL：https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss
+
+### 11. Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership
+- 摘要：UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdown.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 10:05:45 +0000
+- URL：https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss
+
+### 12. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
+- 摘要：Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 09:47:39 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss
+
+### 13. Beneath Tunisia’s silence, public anger simmers
+- 摘要：Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 09:42:50 +0000
+- URL：https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss
+
+### 14. Sri Lanka sentences two officials to death for not stopping Easter bombings
+- 摘要：Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 09:19:47 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss
+
+### 15. FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
+- 摘要：Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 01 Aug 2026 07:33:33 +0000
+- URL：https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss
+
+
+## 消费与数码（19条）
+
+### 1. Today’s NYT Mini Crossword Answers for Saturday, Aug. 1
+- 摘要：Here are the answers for The New York Times Mini Crossword for Aug. 1, 2026.
+- 信源：CNET（二级）
+- 日期：2026-08-01T06:12:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-1/
+
+### 2. Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 1, #677
+- 摘要：Here are hints and the answers for the NYT Connections: Sports Edition puzzle No. 677 for Saturday, Aug. 1.
+- 信源：CNET（二级）
+- 日期：2026-07-31T23:09:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-1-677/
+
+### 3. Today’s NYT Strands Hints, Answers and Help for Aug. 1 #881
+- 摘要：Here are hints and the answers for the NYT Strands puzzle No.881 for Aug. 1.
+- 信源：CNET（二级）
+- 日期：2026-07-31T22:53:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-1-881/
+
+### 4. I Used Every AI Cheating App and Detector and Came to One Conclusion
+- 摘要：Can AI judge human work from robot slop, or is every AI-detection tool out there completely worthless?
+- 信源：CNET（二级）
+- 日期：2026-07-30T17:28:52Z
+- URL：https://www.cnet.com/tech/services-and-software/i-used-every-ai-cheating-app-and-detector-and-came-to-one-conclusion/
+
+### 5. Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash
+- 摘要：Gamers are planning a boycott called PSBlackout for the week of Aug. 23.
+- 信源：CNET（二级）
+- 日期：2026-07-31T21:26:31Z
+- URL：https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/
+
+### 6. Google Quickly Rolls Back a Feature That Could Make Deepfake Satellite Images
+- 摘要：Google Earth’s AI image generator let me put my dream home in Central Park, but other potential uses aren’t so innocent.
+- 信源：CNET（二级）
+- 日期：2026-07-31T19:23:00Z
+- URL：https://www.cnet.com/tech/services-and-software/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite-images/
+
+### 7. Apple’s CEO Hints That Heavy Use of Siri AI Could Cost You
+- 摘要：Apple’s already raising prices on products and services. Is Siri next?
+- 信源：CNET（二级）
+- 日期：2026-07-31T18:00:19Z
+- URL：https://www.cnet.com/tech/services-and-software/apples-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you/
+
+### 8. Who Will You Play in D&#038;D’s New World of Warcraft and Star Wars Sets? CNET Answers
+- 摘要：Wizards of the Coast announced new adventures coming from big franchises. CNET’s top TTRPG nerds weigh in.
+- 信源：CNET（二级）
+- 日期：2026-07-31T15:54:49Z
+- URL：https://www.cnet.com/tech/gaming/who-will-you-play-in-dds-new-world-of-warcraft-and-star-wars-sets-cnet-answers/
+
+### 9. D&#038;D Rolls a Natural 20 on Nerd Collabs, Announcing World of Warcraft and Star Wars Sets
+- 摘要：Dice rolls are headed to Azeroth and a galaxy far, far away — starting this year.
+- 信源：CNET（二级）
+- 日期：2026-07-31T03:01:47Z
+- URL：https://www.cnet.com/tech/gaming/dd-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-and-star-wars-sets/
+
+### 10. Today’s Wordle Hints, Answer and Help for Aug. 1, #1869
+- 摘要：Here are hints and the answer for today’s Wordle for Aug. 1 No. 1,869.
+- 信源：CNET（二级）
+- 日期：2026-07-31T20:00:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-1-1869/
+
+### 11. Today’s NYT Connections Hints and Answers for Aug. 1, #1147
+- 摘要：Here are hints and the answers for the NYT Connections puzzle No. 1147 for Aug. 1.
+- 信源：CNET（二级）
+- 日期：2026-07-31T20:00:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-1-1147/
+
+### 12. Today’s NYT Connections: Sports Edition Hints and Answers for July 31, #676
+- 摘要：Here are hints and the answers for the NYT Connections: Sports Edition puzzle No. 676 for Friday, July 31.
+- 信源：CNET（二级）
+- 日期：2026-07-30T01:05:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-30-675/
+
+### 13. Today’s NYT Strands Hints, Answers and Help for July 31 #880
+- 摘要：Here are hints and the answers for the NYT Strands puzzle No. 880 for July 31.
+- 信源：CNET（二级）
+- 日期：2026-07-30T20:00:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-31-880/
+
+### 14. Today’s NYT Connections Hints and Answers for July 31, #1146
+- 摘要：Here are hints and the answers for the NYT Connections puzzle No. 1146 for July 31.
+- 信源：CNET（二级）
+- 日期：2026-07-30T20:00:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-july-31-1146/
+
+### 15. Here’s Where Samsung Makes and Tests Its Galaxy Phones Before Shipping Them to You
+- 摘要：I got a rare peek into Samsung’s Gumi manufacturing facility, where phones like the Z Fold 8 Ultra are in production.
+- 信源：CNET（二级）
+- 日期：2026-07-31T13:00:00Z
+- URL：https://www.cnet.com/tech/mobile/where-samsung-makes-tests-galaxy-phones/
+
+
+## 民生与社会（20条）
+
+### 1. Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis
+- 摘要：Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north AfricaEurope live – latest updatesSpain’
+- 信源：Guardian（二级）
+- 日期：Sat, 01 Aug 2026 12:35:04 GMT
+- URL：https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing
+
+### 2. At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco
+- 摘要：Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentAt least 57 people have died trying to 
+- 信源：Guardian（二级）
+- 日期：Fri, 31 Jul 2026 17:52:11 GMT
+- URL：https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths
+
+### 3. Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement
+- 摘要：During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentanceAt a former British castle
+- 信源：Guardian（二级）
+- 日期：Fri, 31 Jul 2026 11:38:46 GMT
+- URL：https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement
+
+### 4. Ebola outbreak in DRC the fastest growing in the history of the virus
+- 摘要：As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle 
+- 信源：Guardian（二级）
+- 日期：Fri, 31 Jul 2026 08:00:08 GMT
+- URL：https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus
+
+### 5. US government map of Africa mislabels every country at global conference
+- 摘要：State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mi
+- 信源：Guardian（二级）
+- 日期：Thu, 30 Jul 2026 22:48:02 GMT
+- URL：https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries
+
+### 6. HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts
+- 摘要：Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwideSign up for the Breaking News US newsletter ema
+- 信源：Guardian（二级）
+- 日期：Fri, 31 Jul 2026 16:29:14 GMT
+- URL：https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts
+
+### 7. Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office
+- 摘要：Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to TrumpCanadians spent $3.3bn less on travel to the
+- 信源：Guardian（二级）
+- 日期：Tue, 28 Jul 2026 16:46:05 GMT
+- URL：https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump
+
+### 8. Past fires suggest effects of Europe and North America wildfires may linger for years
+- 摘要：Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study saysA spate of ferocious wildfires ac
+- 信源：Guardian（二级）
+- 日期：Tue, 28 Jul 2026 13:00:04 GMT
+- URL：https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects
+
+### 9. Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup
+- 摘要：President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran 
+- 信源：Guardian（二级）
+- 日期：Tue, 28 Jul 2026 10:21:46 GMT
+- URL：https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup
+
+### 10. Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago
+- 摘要：Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean fol
+- 信源：Guardian（二级）
+- 日期：Mon, 27 Jul 2026 16:27:44 GMT
+- URL：https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile
+
+### 11. Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout
+- 摘要：Tarona Taafaki makes history in women’s 75kg categoryAll boxers eliminated in semis receive bronze medalsA boxer has made history for ⁠Tuvalu by winni
+- 信源：Guardian（二级）
+- 日期：Sat, 01 Aug 2026 10:07:05 GMT
+- URL：https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning
+
+### 12. Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen
+- 摘要：Treasury secretary’s notepad, photographed by Reuters on Friday morning, prompts questions over US plansDuring a cabinet meeting at Camp David on Frid
+- 信源：Guardian（二级）
+- 日期：Sat, 01 Aug 2026 00:33:29 GMT
+- URL：https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen
+
+### 13. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
+- 摘要：Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest sinc
+- 信源：Guardian（二级）
+- 日期：Fri, 31 Jul 2026 14:10:52 GMT
+- URL：https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates
+
+### 14. Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts
+- 摘要：Soldiers and emergency teams search damaged shopping centre, paper mill and homes for survivorsEarthquake rocks southern Japanese island of Kyushu – i
+- 信源：Guardian（二级）
+- 日期：Thu, 30 Jul 2026 06:49:55 GMT
+- URL：https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises
+
+### 15. Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened
+- 摘要：Emergency workers are continuing their search for survivors in southern Japan after yesterday’s powerful earthquake ‘Race against time’: Japan earthqu
+- 信源：Guardian（二级）
+- 日期：Wed, 29 Jul 2026 14:27:33 GMT
+- URL：https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates
+
+
+## 信源采集日志
+
+| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
+|---|------|------|------|----------|----------|----------|
+| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-08-01 21:18 |
+| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-08-01 21:18 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-08-01 21:18 |
+| 4 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-08-01 21:18 |
+| 5 | CNET | 二级 | 消费与数码 | RSS自动 | 19条 | 2026-08-01 21:18 |
+| 6 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-08-01 21:18 |

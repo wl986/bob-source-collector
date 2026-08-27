@@ -1,4 +1,4 @@
-# 信源缓存（云端自动采集 · 2026-08-26 09:26）
+# 信源缓存（云端自动采集 · 2026-08-27 16:16）
 
 > 采集方式：GitHub Actions云端自动执行（电脑无需开机）
 > 采集时段：morning
@@ -8,819 +8,239 @@
 
 ## 科技与AI（40条）
 
-### 1. Robotics startup Generalist reaches $3B valuation, sources say
-- 摘要：The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
+### 1. Nvidia closes in on Hugging Face acquisition
+- 摘要：Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c
 - 信源：TechCrunch（二级）
-- 日期：Wed, 26 Aug 2026 00:40:59 +0000
-- URL：https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
+- 日期：Thu, 27 Aug 2026 06:32:51 +0000
+- URL：https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
 
-### 2. OpenAI loses a top data center exec, as stream of high-profile departures continues
-- 摘要：Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vi
+### 2. Viral AI startup Instinct has raised $350M at a $2.5B valuation
+- 摘要：The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
 - 信源：TechCrunch（二级）
-- 日期：Wed, 26 Aug 2026 00:06:20 +0000
-- URL：https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
+- 日期：Thu, 27 Aug 2026 00:24:57 +0000
+- URL：https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 
-### 3. X sends cease-and-desist to open source project Nitter over alleged scraping
-- 摘要：X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code reposito
+### 3. Amazon just tripled its order of Nvidia chips over ‘surging demand’
+- 摘要：Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buyin
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 20:44:12 +0000
-- URL：https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/
+- 日期：Wed, 26 Aug 2026 23:47:18 +0000
+- URL：https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 
-### 4. Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious
-- 摘要：Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creat
+### 4. Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well
+- 摘要：The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 19:22:52 +0000
-- URL：https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/
+- 日期：Wed, 26 Aug 2026 22:47:58 +0000
+- URL：https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/
 
-### 5. Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
-- 摘要：The company's new fundraising total now stands at $232 million.
+### 5. Anthropic continues compute-gobbling streak in $45B deal with Nscale
+- 摘要：The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 19:03:47 +0000
-- URL：https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
+- 日期：Wed, 26 Aug 2026 21:37:39 +0000
+- URL：https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
 
-### 6. SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana
-- 摘要：The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.
+### 6. Google’s Gemini has a branding problem, and so does the rest of AI
+- 摘要：Consumer AI apps need to stop making users learn their product architecture.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 18:26:55 +0000
-- URL：https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/
+- 日期：Wed, 26 Aug 2026 19:37:34 +0000
+- URL：https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/
 
-### 7. Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit
-- 摘要：Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no diffe
+### 7. How do we explain OpenAI’s executive exodus?
+- 摘要：Was Greg Brockman the right executive all along?
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 18:22:50 +0000
-- URL：https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/
+- 日期：Wed, 26 Aug 2026 19:34:04 +0000
+- URL：https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 
-### 8. Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass
-- 摘要：If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup communit
+### 8. OpenAI releases its official report on the Hugging Face breach
+- 摘要：The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 18:01:30 +0000
-- URL：https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/
+- 日期：Wed, 26 Aug 2026 19:05:22 +0000
+- URL：https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/
 
-### 9. Claude Cowork finally remembers what you told the app in chat
-- 摘要：Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and ot
+### 9. Flipboard acquires Graze, the feed builder working to monetize the open social web
+- 摘要：Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 17:50:33 +0000
-- URL：https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/
+- 日期：Wed, 26 Aug 2026 18:35:40 +0000
+- URL：https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/
 
-### 10. Waymo robotaxis are headed to Munich
-- 摘要：Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.
+### 10. Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations
+- 摘要：The company won't say if medical devices are affected or if any customer data was exfiltrated.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 17:32:03 +0000
-- URL：https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/
+- 日期：Wed, 26 Aug 2026 18:23:09 +0000
+- URL：https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/
 
-### 11. Life360 expands pet tracking with new $8 scannable tags and zoomie alerts
-- 摘要：Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features hel
+### 11. US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate
+- 摘要：The Justice Department said that the domain seizures made the botnet and its command and control servers "inoperable," as the domains were hardcoded i
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 16:35:00 +0000
-- URL：https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/
+- 日期：Wed, 26 Aug 2026 17:01:05 +0000
+- URL：https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/
 
-### 12. That fake Grand Theft Auto VI demo is actually just malware
-- 摘要：Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.
+### 12. Capital F closes $17M debut fund with goal to back the future of the ‘female economy’
+- 摘要：The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 15:48:38 +0000
-- URL：https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/
+- 日期：Wed, 26 Aug 2026 17:00:00 +0000
+- URL：https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/
 
-### 13. Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power
-- 摘要：Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.
+### 13. Apple is holding its iPhone launch event on September 9
+- 摘要：The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with Jo
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 15:30:00 +0000
-- URL：https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/
+- 日期：Wed, 26 Aug 2026 16:53:07 +0000
+- URL：https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/
 
-### 14. Gamma acquires Accel-backed design startup Lica
-- 摘要：Lica co-founders are going to work on Gamma's new research team.
+### 14. Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states
+- 摘要：One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permissi
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 15:00:00 +0000
-- URL：https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/
+- 日期：Wed, 26 Aug 2026 16:03:14 +0000
+- URL：https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/
 
-### 15. Apple rescues Hide My Email feature from the privacy scrap heap
-- 摘要：Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.
+### 15. What’s driving Sweden’s startup boom, from Lovable to Legora
+- 摘要：Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months
 - 信源：TechCrunch（二级）
-- 日期：Tue, 25 Aug 2026 14:46:32 +0000
-- URL：https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/
+- 日期：Wed, 26 Aug 2026 16:00:00 +0000
+- URL：https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/
 
 
 ## 金融市场（20条）
 
-### 1. Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary
-- 摘要：Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.
+### 1. Nvidia jumps 6% in premarket trading after blockbuster earnings boost AI confidence
+- 摘要：Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.
 - 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 01:07:28 GMT
-- URL：https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html
+- 日期：Thu, 27 Aug 2026 08:10:20 GMT
+- URL：https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
 
-### 2. Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war
-- 摘要：Investors shrugged off the latest developments in the U.S.-Iran war.
+### 2. Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'
+- 摘要：An oil tanker was struck by an unidentified projectile in the Strait of Hormuz, keeping alive risks deterring vessesl from the vital energy corridor.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 19:00:07 GMT
-- URL：https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html
+- 日期：Thu, 27 Aug 2026 05:29:52 GMT
+- URL：https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html
 
-### 3. OpenAI data center chief Chris Malone is out, the latest in a string of executive exits
-- 摘要：An OpenAI spokesperson said the company "recently reorganized our infrastructure organization to support the scale and pace of our work."
+### 3. CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO
+- 摘要：Russia and Ukraine have intensified long-range drone and missile strikes as fears of further escalation grow.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 21:26:00 GMT
-- URL：https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html
+- 日期：Thu, 27 Aug 2026 08:15:30 GMT
+- URL：https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html
 
-### 4. From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties
-- 摘要：Trump last Sunday instructed the Pentagon to cut military drills because they were "costly" and send "inappropriate and hostile" signals to North Kore
+### 4. Nvidia agrees to buy Hugging Face for $12.9 billion, report says
+- 摘要：Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.
 - 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 00:06:25 GMT
-- URL：https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html
+- 日期：Thu, 27 Aug 2026 07:29:46 GMT
+- URL：https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
 
-### 5. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
+### 5. Meta settles social media addiction case with California, other states for $16.7 billion
+- 摘要：Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental healt
+- 信源：CNBC（二级）
+- 日期：Wed, 26 Aug 2026 21:17:46 GMT
+- URL：https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html
+
+### 6. Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- 摘要：The Chinese AI company said it had already launched the model globally in stealth mode for a week.
+- 信源：CNBC（二级）
+- 日期：Thu, 27 Aug 2026 05:34:13 GMT
+- URL：https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html
+
+### 7. Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low'
+- 摘要：Nvidia CEO Jensen Huang defended the chipmaker’s growing role in financing AI companies, calling its investments a “once in a generation” opportunity.
+- 信源：CNBC（二级）
+- 日期：Thu, 27 Aug 2026 00:53:55 GMT
+- URL：https://www.cnbc.com/2026/08/26/jensen-huang-defends-nvidias-growing-financial-support-for-ai-ecosystem-says-the-risk-is-low-.html
+
+### 8. Salesforce stock jumps 12% on AI growth and Anthropic investment gain
+- 摘要：Salesforce's Anthropic stake led to higher profit in the latest quarter.
+- 信源：CNBC（二级）
+- 日期：Thu, 27 Aug 2026 01:01:00 GMT
+- URL：https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html
+
+### 9. Europe’s gas stores are running low — and prices could top 100 euros this winter
+- 摘要：Europe’s gas stores are historically low for this time of year, as disrupted Middle East LNG flows raise the risk of sharply higher prices this winter
+- 信源：CNBC（二级）
+- 日期：Thu, 27 Aug 2026 05:00:01 GMT
+- URL：https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html
+
+### 10. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
 - 摘要：Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
 - 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 00:34:03 GMT
+- 日期：Wed, 26 Aug 2026 13:15:24 GMT
 - URL：https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html
 
-### 6. Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
-- 摘要：Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taki
+### 11. Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause
+- 摘要：Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 21:26:01 GMT
-- URL：https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html
+- 日期：Wed, 26 Aug 2026 16:25:09 GMT
+- URL：https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html
 
-### 7. Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission
-- 摘要：Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.
+### 12. Qantas shares jump after earnings as airline unveils new business-class seats
+- 摘要：Qantas shares jumped 4% after the airline reported full-year earnings and introduced new business-class seats amid strong demand for premium travel.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 21:07:56 GMT
-- URL：https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html
+- 日期：Thu, 27 Aug 2026 05:02:44 GMT
+- URL：https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html
 
-### 8. Trump targets Iran’s trade lifelines — here are the countries most exposed
-- 摘要：Washington's threat of "economic D-Day" collides with a small group of governments that account for most of what remains of Iran's foreign trade.
+### 13. Okta pops 20% after topping estimates as AI threat spikes demand for identity security
+- 摘要：New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 06:24:36 GMT
-- URL：https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html
+- 日期：Wed, 26 Aug 2026 21:27:53 GMT
+- URL：https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html
 
-### 9. Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy
-- 摘要：Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.
+### 14. OpenAI releases sweeping report on Hugging Face AI agent hack
+- 摘要：The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 03:01:16 GMT
-- URL：https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html
+- 日期：Wed, 26 Aug 2026 21:17:34 GMT
+- URL：https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html
 
-### 10. Investor competition for commercial real estate sees strongest growth in a year
-- 摘要：Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.
+### 15. Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why
+- 摘要：Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.
 - 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 20:44:51 GMT
-- URL：https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html
-
-### 11. Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now
-- 摘要：CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 22:47:37 GMT
-- URL：https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html
-
-### 12. Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail
-- 摘要：The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 17:15:50 GMT
-- URL：https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html
-
-### 13. SpaceX plans to build a $100 billion spaceport in Louisiana
-- 摘要：SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will "support thousands of launches annually."
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 22:09:01 GMT
-- URL：https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
-
-### 14. CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand
-- 摘要：Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data b
-- 信源：CNBC（二级）
-- 日期：Mon, 24 Aug 2026 23:00:01 GMT
-- URL：https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html
-
-### 15. New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians
-- 摘要：India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 10:23:53 GMT
-- URL：https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html
+- 日期：Wed, 26 Aug 2026 22:47:37 GMT
+- URL：https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html
 
 
 ## 中国出海（20条）
 
-### 1. China targets offshore workarounds in new rules for individual investors - South China Morning Post
+### 1. China’s New Overseas Investment Rules: Can Your Chinese Investor Actually Get the Money Out? - Harris Sliwoski LLP
+- 摘要：China’s New Overseas Investment Rules: Can Your Chinese Investor Actually Get the Money Out?&nbsp;&nbsp;Harris Sliwoski LLP
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 16:17:31 GMT
+- URL：https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0l5UWJZLWxUeXM0SDlmTGZ6ZnRjUlE0TTBJNWtRWGk1YWFiVWs5b2NvQlZBU1R0eXAwZGtwODczRi1YQUxvUl9GNElGVE5QcVdvdUY1THNOMEVsbDU1ZU9lYXA2aFR6dWRVa05LOW1ZMWNuZ21nbzV4dHpqYllwckdIMWlWYWpUdW01Nw?oc=5
+
+### 2. Chinese green construction machinery gains traction in overseas markets - People's Daily Online
+- 摘要：Chinese green construction machinery gains traction in overseas markets&nbsp;&nbsp;People's Daily Online
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 01:31:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UZi12UWdCbEM0S01mZE1VczZVQVk0TUI5enFPc2UzUGR6ajlIOUNscGZWNHhZNkY3dHlpV2NuZF9HRDFhX08wVkdacnNBdkJGRHFiNGszaFhWQVBTajFOVEtyWWU?oc=5
+
+### 3. China targets offshore workarounds in new rules for individual investors - South China Morning Post
 - 摘要：China targets offshore workarounds in new rules for individual investors&nbsp;&nbsp;South China Morning Post
 - 信源：Google News（二级）
 - 日期：Tue, 25 Aug 2026 11:30:07 GMT
 - URL：https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWURRaDM1cmZmRXJHcDFyNUxvVWRYTmV1a0ViMUNSZzktSVRlQldpWjNjeVZEUHFiTzZLSTJlU0l5dEc5Q3lvbjVtVF9fQ3ROVFcwaTBuakZIdEoySnprRFIyOW1LU0hRdDZqUGZqSzl0MDRFZlJjLVJYaFBGbkxaVjVfY2ZkZ2xFSGtqQUV4TDRTcE5yYldzNDNpMWJ2cVpiZXNOUmtSTjFGTFptVXZmYlVUS3hjODRBZ0cwNTRRMWoyd3UxTUVuSUhfZDFoN20xRGFB0gHTAUFVX3lxTE1zcnZpMlRDT1dPOEYzc2F0cXdmYVdnWXp6RG5tb0Uya0M4ZzdQRm1zdjYwT3Z6RlJWcC02OTRCTmp4d29yeG81WXNxTVRyOV9FOGpzemtCR2p2dHVzYUNhaGZTQXdXSFY2Qm9ac0VsZ1NJQjVDR1NUV19faDlyMGRrTlVGTDBZQ25Pd3VvdEVDQ3dzT2lhSE9LR2p0YWQ0QmxjUV8ySzB1Z1IydU5IY1Q3RURmc2pRUWJsY2lZR1pkV2dYMmhNYmVFelQ0aFF5ZEpCNHc?oc=5
 
-### 2. 41Caijing Unveils AI Agent Cluster at China Cross-Border E-Commerce Forum, Joining Alibaba and Other Industry Leaders to Reshape Global Marketing - markets.businessinsider.com
-- 摘要：41Caijing Unveils AI Agent Cluster at China Cross-Border E-Commerce Forum, Joining Alibaba and Other Industry Leaders to Reshape Global Marketing&nbsp
+### 4. Guotai Haitong Reaffirms Their Buy Rating on China Overseas Property Holdings (CNPPF) - The Globe and Mail
+- 摘要：Guotai Haitong Reaffirms Their Buy Rating on China Overseas Property Holdings (CNPPF)&nbsp;&nbsp;The Globe and Mail
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 16:55:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiqwJBVV95cUxPU2o1Wm5jdnRpdFFpU0NSQ3VCZ05FQU5tLVlHUElyUk1wa2trQXEtLUdYVW56eU5SMG9ocnNSTTFpUkxLblVGOUhiaDNnRGFJOGJaYnFlQ0dScnEtOVd0UVhrUjB2b1Vxc3JyNkYwOVd5dGtJZDlnSENKSW85YTliNzAwUUJPUjdCQ1NLMW5iUmpaZ3N2UTEtMVZweDNQVDJ6NlV6UzU1bEIzV2dZdU9WVEVnUElKWTRTb0lyYldSNnNDU0VIVEUzemRkTUxLZE9xLXYtNnQzODdrZDZjRk00aGVHQTZhdHRyeXp5TVJDR1dWQ2Z4MUpjZm5NWGp0YVFOdXNwZGpudnFVRjRTSnBuOWh6UTBudWlTamp1Q0o5R0JTUkRKbExNYXV2NA?oc=5
+- 日期：Thu, 27 Aug 2026 05:25:07 GMT
+- URL：https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa2pBbVM0djJWalA5ZmY0Y19qaHZoaEJCakdfNjFFdER4d3J2VTNtV2g0SXEtclMtYWxqbndqZGpkYk9pUzZ0cVZjWEx2XzlQOHJDOTZjYlFuMTB1SEFpbmllRk1UcGo2SWFWamk3YlUteWJEa0JKZklWejlVdUQ0R0ZBY3c0dW50VXNZWlRhd3ZTR0c2c2lBVUhmcmxKVG85anZaYzd3VXJfQUpvZlJySWdRYXlEOXBLb1RaeWhzMGRhNWJtOE05c1A1clZzUURXMHFnNk9EX0pqRk1xQV9DdWY5czY4cmVwVEcwcWZibzJTWFVpcGI0?oc=5
 
-### 3. China proceeds legislation against cross-border corruption, closing legal gap in overseas probe, fugitive hunt and asset recovery: expert - Global Times
-- 摘要：China proceeds legislation against cross-border corruption, closing legal gap in overseas probe, fugitive hunt and asset recovery: expert&nbsp;&nbsp;G
+### 5. China Overseas Grand Oceans Group Limited Just Beat Revenue Estimates By 19% - simplywall.st
+- 摘要：China Overseas Grand Oceans Group Limited Just Beat Revenue Estimates By 19%&nbsp;&nbsp;simplywall.st
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 13:18:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fZVZBeEFoaVBnbFlGaWF3THB3MGY5WmlYMFJYZG1hVTY0MmRzbW52SHk0cDZ4LU9nQnBmY2ppeWlvSTQxTm5uTFlEajVBeUZUVHJ4c2dLdXpfY3RVS0lSV0xn?oc=5
+- 日期：Wed, 26 Aug 2026 22:52:34 GMT
+- URL：https://news.google.com/rss/articles/CBMikwJBVV95cUxQMU9oSUZGT1IyekxieU9Dc2dfOE5jaF96TDVjV21qRkhxd2UtY2htbTJzYW5lb2UzZ1lDMFFGUE9SR2xKcmxRcjYxay05em1fRVVhWXhnZ1lySDhPY0RleHo4dkdJcGstTm41RGxMVzdzNGFnZEhDSFlnODdFdEVuNHRxaTUzaDdsa3BBa2hndGtBN0pBel9GSU1kdlY4Y0tWU1l0WXlDUmpvTmwwcmFKTkJsR3cxZFRfcEFxaDhvVHN2Tmx3NEs2R1BMcmVzZjhjb3djYjhZSVFTOGZQMTNFaHdNaEs4MGFNdEtTajNGWEtHUGFRS2JmcUZya0dQSUVUZTFDdHE4OURhMFlhbzhyVVA0d9IBmAJBVV95cUxOeURMVkdVYlY3UDNtVkpiU09VUGR5dmpJeGtqd3VlNjhNVEhfbG5QaXdHYkNndFBWcVIyejA4T0Z1UGJSLWRKUzJfOWo1dWk1bnF0RkRmX214Yjh2NVZOS0tOMU5ET3dEb0JlU3RsS2QwYzVEcjk1a0VhQ1hRVnhZTmRCNmhVNFdMN2Q2ODdRbXdwSnRGVVpCclZncUZXOF9fWld2b1pVdThock5MMEJQdkc1aXlWdXFlZGdZeFYtby1qTjdYeVhGZEJvNGM0S3BHNlh2ZjRVYjJ1SWJZOFRCR256NGYyMk5LbFpfa1E0MmlfM3g3Zl9Bblo3UFJmZVl4Vm5mTGhabk5WU3Vta0NmbmRheFdPRzdq?oc=5
 
-### 4. China Overseas Grand Oceans Group (SEHK:81) Stock Trades Rich As Profits Steady - simplywall.st
-- 摘要：China Overseas Grand Oceans Group (SEHK:81) Stock Trades Rich As Profits Steady&nbsp;&nbsp;simplywall.st
+### 6. State Grid Changzhou Power Supply Company Assists Enterprise in Obtaining China's First 'Carbon Neutral' Transformer Certification - The Manila Times
+- 摘要：State Grid Changzhou Power Supply Company Assists Enterprise in Obtaining China's First 'Carbon Neutral' Transformer Certification&nbsp;&nbsp;The Mani
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 10:37:28 GMT
-- URL：https://news.google.com/rss/articles/CBMikgJBVV95cUxQOWxTUHBSdU00dzUyelJIVHlYb0VEYVhDMXYyWmJZZENyc3JCTmhuSXRwbG5XMXFDMEZTaE4xM3hGdW9pamRkMi0xMk9ZVGVUS1BNXzNHOHZVZGxEaUNrOWIzTlp3VkFvZHJKU0ZWWXVpalpQcWU0Sk9HeXlsZFFnRlFVUGYzSGM5cTJPbGRjc2tMNTVWVUh0b3JsaWlHQXZlb1kwV05BVWwzSDdKUzBpY0lkN0FOUWNqUndpbU00QTItRGRiZDlES1lWbDI2a0paWnJtM1o0SHVscTFNb2U5LWktMWhGUUl6OE81ZkdTaXdPc3pLQVgzY1Nobnp2aElyNkhPYUZhTmlkYzBfWkF6bGlR0gGXAkFVX3lxTE5HckZ5SHpqcGxJdGw0enUxTVJHWjhXcXp2bEJzUlpNS1IzUWZzdHk0c0NfVU84Y0tkcjFuVUY4Qm8zeVlXTmtXTmVvRkJ5LUdicHcydTd4cEtDLTQ2U1FlVmNMazROcG5SSnZwRHBUaEJBZTdDc0V0Z3Q2NGxfQnRYTVBrQ1h0YkdISTdCQlRLNEdBZUo4MjFtQWlHS0xidUQ3LU1TZ1RQUGhqQ0FBVWtMTllwNUt5WFNPbTdIb09TMm1zdHp6VzFHTktGY0ZXWkhaRjVLWHNlckwxb051ZDdNXzJyMWhtMGhQRjJRYVhteTJhcVB6MmUwNVlNNHZMTmp2djUzRTI5WlZmU2pwOXVrTTAzdFFEZw?oc=5
+- 日期：Thu, 27 Aug 2026 04:19:19 GMT
+- URL：https://news.google.com/rss/articles/CBMipgJBVV95cUxQbG02ekVzR18tZmpRVC0zR0oyREpRQzl4Y3czZ0dMRE50VjIyTUhCOXlYQTRUemFtb3ozWkpLLXBvU0FKanNMQ3l4VnhmX0dTY2ZlVUFyajJvVWlWU2thSE01bWV6NHhDQWktUnJWX0YxLUFZQVdIRUtTSE0yT19hcWZYU1BNMTJKU3FkdkdUbUNHc1l5SlVKUXVXUE53b2dFZkUzdXB6TUtyVzRneWZlZVkyNXJqUnQwTmItMl9lX1lRNWVZdkVHQ0FPOGlULUJWbDlQMkltV2gycFowSEwybzdfR3lFOGJYSlBDb2hWOXNSckRDN1NBSW5OeUN0Smt0c3ZKR0d1TDdkRGdKcUt2US1IN0RiT21WS19ZS1JqNDBjUVpXc1HSAasCQVVfeXFMT004YnVOMEdDM3lkcTZEZi13a3BqZmVMbjVwTFJsbHZRVnJtdk1sVUJ1akx4UGl5WTB5M0pTMWU0ZXRpa01LYU10QzlRbFZLN0dUdXlPemdzWXNrQWVCeEUzSlh0Zzk5enJmbVdRVU03bkdZWWR1bVF5anBTVmpxemNPd2I2NFU0U3FBS09xd3dpMHFnTE9IUDJaZ3dLbU41bmk4M0YtbkM2Y3lwWXFudGhhaVJydnNFcnBUZ3pBYjVjQWhBRnhRbXpYQ1JIMmZBNEc3Qk9ldnpVUnA0Q2pROHlqdHAzUm5DNks5dS1Bc20xeVVxMEhtd1pLUk9fQVBva3lQWUZaNmxVblV3eEJ0eTVFYWI1Ql9aeHMwcHlSQTNpYUdGd1BfbHJKSjA?oc=5
 
-### 5. Goldman Sachs Sticks to Its Sell Rating for China Overseas Property Holdings (CNPPF) - The Globe and Mail
-- 摘要：Goldman Sachs Sticks to Its Sell Rating for China Overseas Property Holdings (CNPPF)&nbsp;&nbsp;The Globe and Mail
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 11:32:59 GMT
-- URL：https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTI1SWd5Z3NIdXZyZUlLUTJVMHdFcGYtQVpER2hiYTRSY1VZb0J1Q2YySWtLNG01RVUwX0VKenJEcjZrZFZRcTFneW4yZlM0eVJoaTZ6eXhaMmwxMWFFQjR5aEdwcjFxS3RqeDNLU09FcDJMdDdKdTJPclU5WnY5Z2tjMURDUTVIcXlrMTRNRFlvV1U2MHZxVVctTmFzTS0tRHBMWlMxVGlQSmZ6TFIyOWtPM1R4bHF6bnpfT0ZsV3QtcWpEX2ZJcExQaU14TTR0OWRvSU5xVzBKeDhkWGZPeDFQVWJuSlhWaUd1M01rZ2JXRTF3ZHc?oc=5
-
-### 6. Will China Rewrite the Rules of Global Supply Chains? - The Diplomat – Asia-Pacific
+### 7. Will China Rewrite the Rules of Global Supply Chains? - The Diplomat – Asia-Pacific
 - 摘要：Will China Rewrite the Rules of Global Supply Chains?&nbsp;&nbsp;The Diplomat – Asia-Pacific
 - 信源：Google News（二级）
 - 日期：Mon, 24 Aug 2026 16:54:09 GMT
 - URL：https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFl6TUlPUjVqbk1vTDM1Y3ZfNTdlbWtHakFaTW1odmREdG1DenRRMVVmc1RrVDVZYjg4WDdFU2d2NXVvTmxnc05PLTlzYmJsZEoxWDZtVzl0YXYycG5tdkh4dWdwR2czSHNWN3prZzU2d0pseS1XTWRmQ1BsRW9oU3RDbjRCRUZsTkt1eHRR?oc=5
 
-### 7. A Shanghai slingshot for overseas expansion - chinadailyhk
-- 摘要：A Shanghai slingshot for overseas expansion&nbsp;&nbsp;chinadailyhk
-- 信源：Google News（二级）
-- 日期：Sun, 23 Aug 2026 13:18:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTmVCUWpaY0NSOUNqdnhpdjZ1cWhRNVRvc1VLMFo4R1pzSlRleW1Wei1CUERZQ0hLWlJJS1FaSTFwMlN4UTduN1BhNWRMRW10dk91Vk9PYzRuQQ?oc=5
-
-### 8. Nigerian content creator helps Chinese farm machinery reach overseas markets - China Daily
-- 摘要：Nigerian content creator helps Chinese farm machinery reach overseas markets&nbsp;&nbsp;China Daily
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 08:46:09 GMT
-- URL：https://news.google.com/rss/articles/CBMifkFVX3lxTE9pNE5KdTJmcGFtRUR5aUgtVi1TVXhGVFE0b0duQ2Rkak92MFhfUHhvMHFaQ0FWZHlmUTJlNkhyRFM4VHczWDBvV3NJdVZYS2VXOEVudWl6b0RwVGxCMlYxYWp2M2FuR0lUa2hRWUpCVWc5cXhkTWQzVnlhWTM3Zw?oc=5
-
-### 9. China's Bilibili takes on YouTube, drops passport verification for overseas users as it goes global - The Eastleigh Voice
-- 摘要：China's Bilibili takes on YouTube, drops passport verification for overseas users as it goes global&nbsp;&nbsp;The Eastleigh Voice
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:18:27 GMT
-- URL：https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNGlkRWljbEhOeXo3VHVnVkRDZTNraEtINkNSakIyT3l6Z0VwcEFfOENfR2kxUEpyOVNiYl9oZUhFa1RCR1lFZHhMUVpmTlVTaXh1S0xncEltQmpuM21HRDFLZkxSYk0zTTBpeU9Xa3ZXbGVEUHdUMXdRZjFRMktzUHJXQ2dveDFFN0xCRlNGeXpaVmN4YTF5dDlkZEhfejFrSEh4Z19kYndoOXowT2hiQjIzc0JoamRpcHJQcGYwSWplN3BaaDhmZ1ZXNl9WTG5VYUxYRW1fcVlfcGc?oc=5
-
-### 10. Shanghai Xiongda International Logistics to Showcase 20 Years of Cross-Border Expertise at the 2026 Zhengzhou E-commerce Expo - FinancialContent
-- 摘要：Shanghai Xiongda International Logistics to Showcase 20 Years of Cross-Border Expertise at the 2026 Zhengzhou E-commerce Expo&nbsp;&nbsp;FinancialCont
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 09:38:00 GMT
-- URL：https://news.google.com/rss/articles/CBMimgJBVV95cUxQbHFqTEJLbnlZRjFSRnJ6eVJqUlNTbnJ0MFE4UTM5T3FobmtMRFJlRUh1OGZMS05HcUk1TER5YldOR3NJYmNHWDNyb1AtSkJ6UzdjRG91dHAzdXhVQUlIZHlaN0tpVFJTUjFVSWp6dFMtZjVNUXBPb0JyZWZfZjRwUjEtLWxRSGVBQ2s1ZGZ4TjBZUzZUa3NmdGw5WjEtc1NVUG9fSC1GQkxaWlNvTmJCOWdpekZSVHVUMUFnVEpmMHhWbXdxRWpFSGo4OFhFdExYVDNjajVMaWtmUzBGcnctdXQ5T1JMbmF5cjJrXzZFWFF0TUpOcVY0SjNsY0NJUGt6d21VUGlRMTNIWG1WSXRqNk8zUjUxZkx3ZkE?oc=5
-
-### 11. CJ targets doubling DASIDA’s overseas sales share - 매일경제
-- 摘要：CJ targets doubling DASIDA’s overseas sales share&nbsp;&nbsp;매일경제
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 05:20:07 GMT
-- URL：https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wa01USVdtOXNmcVZtd2t0VnNaQ253SXNwT1h4TEFIZ0VoOTEyQUZ1S25hcGtkREJEWVZHVG53dmFlYXZMZE45SkdGU1ZIT3lXbjFYWW9raw?oc=5
-
-### 12. Zhejiang China Commodities City Group: Revenue up 33% and net profit up 17% in H1 2026, with strong digital and overseas growth - TradingView
-- 摘要：Zhejiang China Commodities City Group: Revenue up 33% and net profit up 17% in H1 2026, with strong digital and overseas growth&nbsp;&nbsp;TradingView
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 09:11:59 GMT
-- URL：https://news.google.com/rss/articles/CBMirwJBVV95cUxPalR3aXp6U1JaRTdzVmJuTjlBSllVQVZTakVPemdmcEo4YkZVMjdGOEtNMGpQMmxXOGx0VXF0S09leEVJOVhKMFBqYkNEbnRYTVdHamFkX3RDWUQ2LTdnRWx3YzFwMkhERFFPTHhqSXBrbjNJUlVuM1NiT2VxS19yQnE2MVBVdGJtU2xSQXdYYjh3THZlOGt6U1g5NHlMUnZYd3lIaFl4TG5NbnlYeEIwRVdxcHNBSzFiWTlFcnVxX1RXZ1ZLa3hPeWxpUFA4ZnJhajhPSGxWNGJsNTg5ZU1uTTBhNFdiTHhuYmJpRmdrYm1QZks3a0F2SFo5bjA1cVZhS2pDbjNZRy1TaGRrM3p6UGlzM01UUmFJZkt5dm5ma3RRN2NicUtHQ3drdDVOOTg?oc=5
-
-### 13. How a China gold vault network could promote the yuan’s international reach - South China Morning Post
-- 摘要：How a China gold vault network could promote the yuan’s international reach&nbsp;&nbsp;South China Morning Post
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 02:30:11 GMT
-- URL：https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRGxPdDBWNFpyZXNUaVJpOFRXNW9SUWdIZjB2VHRSVnN5LUt5WTA1Ump0cDNUeTJqSGt5N3BLTnFnS01oTVBlWG9wajJ6Q3JpZm1rS2pTUjc0cEJQSlBncHRZcFJDNmwwYUFtUi1sQm82Nmhualhqend6eXNuX1EzR3pEal96UmJpUkRCbjBia0tSR2xqLXUyOG1MQWg4Vk1rSnFEY3Frc1hRZkx4M09IeEJ3T3czVUFFNTBvQ0hMdkNHM3NFRUFsVVoyQ1RQdW02N3VmX3JR0gHWAUFVX3lxTE5ZN0JYNFcwSWgxUWEzN0xLQ0JNSnZKdnVaMVJOREdCczkzUzN5SWdCTEQ0aHZ4SjN3b2kwWkYyZkVlWUh0OExEbWh5YzNOUHdJSUtmU3lLeXZhdzZOZGxYMnNNR3pJMUZsV0tBRkFKXzZKSlJJLWw5ODMzdHdocmRYbHQxZDZkX1N0OExSVllKM0h3NTFzbUZWZDlKVjI1Y2NLQXNqSHNLY2phNDZQVTR2aVItRlBTY0R6WHFDNlROUDIyenczU2JJLTZDSlA3WVF4eTY3cWc?oc=5
-
-### 14. A Shanghai slingshot for overseas expansion - China Daily Global Edition
-- 摘要：A Shanghai slingshot for overseas expansion&nbsp;&nbsp;China Daily Global Edition
-- 信源：Google News（二级）
-- 日期：Sun, 23 Aug 2026 23:23:31 GMT
-- URL：https://news.google.com/rss/articles/CBMihAFBVV95cUxNREc2SlBkempEb3psNlNEbDB0eXhwRUFLQXFscjVQa09SNHp6Z1ZKbldWdjFJdnVtVUFKOFIxWmpwdFFwUFlUTUdxVE9LcG5BWFRpc3RUMGs4Q3NZbDJXOW52am1HYXpxTjEyMDdheUttVkZ5eTVGVmF4VXZXYlg4R3cxbUI?oc=5
-
-### 15. Hengdian Group Acquires Jiali Industry in Largest M&A in Company’s History - markets.businessinsider.com
-- 摘要：Hengdian Group Acquires Jiali Industry in Largest M&A in Company’s History&nbsp;&nbsp;markets.businessinsider.com
-- 信源：Google News（二级）
-- 日期：Mon, 24 Aug 2026 09:32:59 GMT
-- URL：https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFR3TzFyOG1YLUxuOWpZeVo4R2JDR1hkb19kWUF1Q3MtNk95UENidjZxQURMSU1zaE9OSEhXS2FyNXBTSWdRMDVnWGk0VGNBMEZhZGNTV0s0UkNGa0Vacjh1OGhXRnV0SmFUODBWVEVVN2xfN3lYNVBDdDBvR18ydkNBX0VHa25QUzlXM2NPWkNycWlWcmJ3RVAwQ2F5QlJrUWRsX194LS1iY0tqekZ5Nm5sOVBtOTlSczBMUEFSUWFSbUNoTllSYVNBWDEzUQ?oc=5
-
-
-## 地缘政治（20条）
-
-### 1. From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
-- 摘要：From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed&nbsp;&nbsp;The New York Times
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:42:58 GMT
-- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5
-
-### 2. Canada retaliates in rapidly escalating U.S. trade war - Los Angeles Times
-- 摘要：Canada retaliates in rapidly escalating U.S. trade war&nbsp;&nbsp;Los Angeles Times
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 21:03:00 GMT
-- URL：https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWRZWmgxMFZLSFJ4MGVEeHl3R245YVBYa3RxYm9MRUhaQkpkVS1OTlVPVkRMdERVZ1ZhRzI3SVJIVjVKaWpIeVQ2bkRNV2M0STRJRG5xWTUzRzBoNU15cXdvNU9oeHNkS2NiQjlNZXJoZk5sVXpRWGtqQUZJSG8xTXBjSDBUWWVra3EtcmNCNnZGcm04YTdveThmNi1WTGdBX0RTY3BCVGtxYmNBSGpteGptcURIQ2FVODJwMGQwY1lGRzQ5WEc0?oc=5
-
-### 3. WATCH: Rollins defends Trump's trade war with Canada while acknowledging 'concern' from farmers - PBS
-- 摘要：WATCH: Rollins defends Trump's trade war with Canada while acknowledging 'concern' from farmers&nbsp;&nbsp;PBS
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:10:57 GMT
-- URL：https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNtWXRTemFjdVh0d1pyMTZzRVVqdGVSN25iR1Frb2JuaTh1SG9RbTVwdnFoN0xBS25rdEtlb1huZVZhMUduSlBQMFpMcFhMV2NMekE3VHNkRUlWQ09GVlVJSkVFeDRJR08wUk9uOEJOcFAyOGY3am5Vck5WMlNaYmlPREFnY1A1MWJlYTFaNDJsNGh2ajBheVhxTU5Za1RldjBxVmVhak9talVXcnFwU3BLOHJDV3ZGT003WlNiTU5iVzdtczV0etIBzgFBVV95cUxNOVdtdGJaR2hmV01feGprMEFYZlN3TWFWdEcxSFRYbmVJMlRsdGhxc3ZHLTBhNXE1cGgtNVBsdjZVM0xTZ2JQR0RxMVgzOXl3UnhwZk16MnlRTWQxSUpjaXhZa2xodzgwaXUtNFI1V3Zvbk12Rm1RS3AwQTBTaW90MmlnUUprNkF4R2ZxN0VmbjdDazdsT1BSRWlIOXdfekdHVnFPWTlzMFBUZ3poZmRYZGlaYUlWX2pGMk1nN0loQjN4ZFVhd1RoaXlHd2ZfZw?oc=5
-
-### 4. The Escalating U.S.-Canada Trade War - U.S. News & World Report
-- 摘要：The Escalating U.S.-Canada Trade War&nbsp;&nbsp;U.S. News & World Report
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:24:42 GMT
-- URL：https://news.google.com/rss/articles/CBMingFBVV95cUxQcWQ3dUgxbVQ4QnJsa2dCbkJkMEc4anlESVI5QmRnejdKRnNWamliUW1LN0Z3RW5ENENtMFhVRjJGMnpCdXREQ3FMU0xkVjNoMUtocHRFV3Y1elNpcFJpanpidWE0WkhCdkJVMjZmVjdDaF9feHdZellVZno1UHA1MWhMdzBPMGt1SFpNZ282LWhIMXUySlRjZHJKa1Rkdw?oc=5
-
-### 5. Ignore the Childish Insults. Trump’s Latest Trade War With Canada Will Hurt Us All. - Slate Magazine
-- 摘要：Ignore the Childish Insults. Trump’s Latest Trade War With Canada Will Hurt Us All.&nbsp;&nbsp;Slate Magazine
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 21:49:00 GMT
-- URL：https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUxTNm1Eb0V3Wmd4aTRldGQ2eThwUVVyemEtb3lSRFV5R2lqX0tRdW0wc3pKNm9vRm9oZWd4VDNRemluTDNpZ3FkX1lhaUZnZFExeHVKYWRGcmZjYU50MjF3NUpvUHlFTTVUS1prcmJsakNkQ25DNExlQlhBLXhBdmpvVWR5cE00a1V1M2c3R1NDQjV3NTVraEVxZw?oc=5
-
-### 6. The Canadian Bad Cop on the Front Lines of the U.S. Trade War - WSJ
-- 摘要：The Canadian Bad Cop on the Front Lines of the U.S. Trade War&nbsp;&nbsp;WSJ
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 01:00:00 GMT
-- URL：https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19tdmM2TFJXRjRueWVDWDBUaEVOdEVmamN0blNpczFFakdkVWZNeElKVGViVXExOWpabFp6Tm9lRWdnb25tQkViVHFYZW9tRGI2bkZ3VUhvM3Q5U094aE5aalBYZmhaTldWbzNjNElVLUJTOHRTNkQ1T2ZkOUo0dURLclA4N0RFWnB3WTNEQklTUkQ5SHdSaHJKMzV6NFg0aFBHZENxRQ?oc=5
-
-### 7. Possible impact that the US-Canada trade war could have on the Wisconsin dairy industry - WEAU
-- 摘要：Possible impact that the US-Canada trade war could have on the Wisconsin dairy industry&nbsp;&nbsp;WEAU
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:13:00 GMT
-- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjJGTFNLcTBtRzNkOFRSU0lMSFhNMUZvNDFhQVFPM3pVelo1b2RVTjF1WGp4M0dBTVZFUVptNUJGYkV6WkFXVTRGS3JUU0czTjV5UHk4LXlvenRvVFZybzR6ZFpNUkJ0MHBCWDdwUnRJOGJyWWhOX1c2MFY3VHQ5UXgzUllaQVc5RVNrM2ZWQ1lGMEFSb2lET2x1cTZYdEh6R2QzSk5nZEFxRWNCb2fSAcIBQVVfeXFMUGtXa3NEa0xGM0YwcHpjelQwSVViNVRoRU8tOXRSaENzVmNBTjdKT0pPa1pjSGozdEwtQ1AxZ2lsaEtBX0dLT1dPODhYV3hERHRxRVVyclAzeFY3WnFzZHFhZlFENWZfUXNBMWZDMklvS0V0eDZFNlNSeTVIbnJtM3ZlU2N2Rkt3ZElfM0pVUkxXTk0weEtmbmxvLXVqblpLMENRcUpqVVRkZkJ1MThlRWlScjJZcnpzTDhXTkVXZnEwYWc?oc=5
-
-### 8. How Canada has been bracing for the trade war - NBC News
-- 摘要：How Canada has been bracing for the trade war&nbsp;&nbsp;NBC News
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:09:27 GMT
-- URL：https://news.google.com/rss/articles/CBMifEFVX3lxTE93MnF6WUpLcFVodmF3bGI4Q2ZDNW9kRWdiSU1pekwyWDBMSUgyT0xQdGtrLTE5RkVkTzZYSnh5UnJUR3AwTDdodXhJT2VqYVU1QnFxcjMtaXUyd0xHbVlqX1ZpblVUVFhOeFhwWkpJUkdRenA2YXRrQVFDNDk?oc=5
-
-### 9. Economic development expert Garry Douglas critical of U.S.-Canada trade war - Spectrum News
-- 摘要：Economic development expert Garry Douglas critical of U.S.-Canada trade war&nbsp;&nbsp;Spectrum News
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:30:00 GMT
-- URL：https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1A5Q2UtQnRxQmpKYXpBSm5ndHB0OGtqSlFlemd2Yi1fRHY1RS0wRkZUdXE4ZmpzM290UWFtTnZNblk4elBsWmo3bUl1YWhuOWlvVDkwQlZvOVFrbGhUM25vblprMlZnc1hZTzdjRktTSEFGb2dGQjU1T25wQTgzU2dEY0tWdFhxMERPclJ4ZGk3Y19BUmRVdDJCbmt2aUZMbTUyNFgydnNjRzhCTFdscHFSNUc4bWVUeHlsYTdIVnpKaXhXUzRwN2Y3Z3U3Yll2UkZ3Nml3OA?oc=5
-
-### 10. U.S.-Canada trade war: Arizona's agricultural industry braces for impacts - FOX 10 Phoenix
-- 摘要：U.S.-Canada trade war: Arizona's agricultural industry braces for impacts&nbsp;&nbsp;FOX 10 Phoenix
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 00:33:59 GMT
-- URL：https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHFKa05lYkdzbGFOSEVTT3oydVh3VkNiajc5LUVhcmtndFl2T3BIRnhlUS1iV3pFSzNLd0pjRWRBSHFqWHNTMEdVQ29UN0U5Q01CdWJReGFqS0d1Y01oTC1UbVBsbHlvZUdjRUFkOGdIcW9haEI0cl9VUkFZbFpWZGJBWVRUMUFYeG9pemhHSTFadkNkOE14NnhteEVLR2RtTHc?oc=5
-
-### 11. Canada announces retaliatory tariffs on U.S. products as trade war deepens - The Washington Post
-- 摘要：Canada announces retaliatory tariffs on U.S. products as trade war deepens&nbsp;&nbsp;The Washington Post
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 01:08:49 GMT
-- URL：https://news.google.com/rss/articles/CBMirwFBVV95cUxQN29kZkg1Q05EQ09rTHRnWHI1R3h0RlJXWW91ZjVRZTYwdzB2dEJkQlNuZmswRzFXNVFuNTJNZkNSZ3BkdVl3eGRxRkdGeXN1MEF2SE5NcTF6UnRsS1FaeTk1aVJmZndvQkxRZElXejNPLWZvQ1BTVWNzRC1Kc1MyVThqYWJXeFFNSmJTekEyUXNDbGJ5X21seGxxQlplcXBqVVFXR29ZSm55d1RhMUZj?oc=5
-
-### 12. Experts explain how a prolonged trade war with Canada can impact the country - WHSV
-- 摘要：Experts explain how a prolonged trade war with Canada can impact the country&nbsp;&nbsp;WHSV
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:09:00 GMT
-- URL：https://news.google.com/rss/articles/CBMipgFBVV95cUxPa29FeDNYdVhWdU9JbUxPSVFkOGdiaVphZWs5VnZnb2FkaF9lM3VLQ1Q3endXS2ttZDliWno4YWdSOTlYMzdzTGo5M0F4QXE2dkdJVk5wSTRMV0FFZkN1ek5IWFFXSlJia0licno5V0Nydnk2MDlTUTZEYzVuVzViSzdma2oyNElNRUhxamdYbGRZR0N6UXlBNXJWdTh0YTNBbm1uQ3p30gG6AUFVX3lxTE5CbGtxcFJJUFFHMEY4d3ZzWnRqRHdlczktU2ZCaXVhLUgwWU9waVk3QXdzUkRsaWdDSTgtQnZqTGIxS3NIN2Y5Q1lXeEdURURLRzktdW5idVdWZ3BTa1h1UHBaUGNqbW1wUm96TFdGZWxoUjl6eThsOFRRVjhxSXh6LUtNR2poZUd5NFJHakdMbHdoTkg2Z0JsaVQwSDN6eEpnWHJyaUVJbFI3X1lxcnFORVBONnQ3dVJkQQ?oc=5
-
-### 13. NJ Businesses Brace for Fallout from Escalating US-Canada Trade War - New Jersey Business & Industry Association
-- 摘要：NJ Businesses Brace for Fallout from Escalating US-Canada Trade War&nbsp;&nbsp;New Jersey Business & Industry Association
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:38:19 GMT
-- URL：https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEJTU0ZkRFJnOU9HV21tVlVRNWNKMDdtTXpoY2JrcW9PMXlaZmxsWlAxQ2dqVVJ4czhldWcya3JXM2xRSkIzQkZ3U1pOS05yTm4xVlNBa0x4Qzh6RUJBdEs4T0tmX1NHLVBHa1J6VWRnQUs5YmF4RGt5Y2ozVF9fZEl1ZnpBU3dPOXRvQg?oc=5
-
-### 14. What to know about the Canada trade war - CNN
-- 摘要：What to know about the Canada trade war&nbsp;&nbsp;CNN
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:11:27 GMT
-- URL：https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWU5RkNvRDZRLTFIbHVrTERmem9hSDFZYnFRTXpJamI0b1BlVko3Z0dMMGdLdVBtbHlXbHVKUWswOW5lWXR2ckZVZWExbEJJM3VGWEE3RmZ2MmZKRjNzMDFyZ01XNEV0MkYzT1pzMW9xVVgxT0EwT0s3OUJ0TE5uX002YnBOS3VXU3BQY0MtOVR1eFhLQ2Fyc2d4WHBWclZjVDlmVHVn?oc=5
-
-### 15. Canada’s tariffs: How it could affect Minnesota - FOX 9 Minneapolis-St. Paul
-- 摘要：Canada’s tariffs: How it could affect Minnesota&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:09:44 GMT
-- URL：https://news.google.com/rss/articles/CBMie0FVX3lxTFA1dlVBbm5XZ0RWUHZ1NlRIOG0zWS1abWdjZXNyZzE1MlVLWHBXZHpEbTcyVkNnbnVGVkFUYXR0M0cxUVJ0blBJenNxUTQ2NWhpcHZ5dFk0MjVmTExNMVJxTlJXVFpWdFYwR210Nmg2clhid2g5VEY5NEtuNNIBgAFBVV95cUxOUVVXZWhMT2k1c01GRVN5a09zcHR1RlpjVXBrcXhHd250bnB6RzZzU2M1RXk2ZGgyV0VHVkZYSUo0Nlh6VUhWMTltMmdCZ0xsa3FzUEZRM2s3M2dIZUdsYldZYm5lN0RNWm1fZXg3OTFhR3ItSl9WNU80bTdpY0Q4Qw?oc=5
-
-
-## 民生与社会（20条）
-
-### 1. Dolly Parton: The life of an iconic country singer
-- 摘要：Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 18:27:22 GMT
-- URL：https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss
-
-### 2. Father's house rammed before son died in A66 crash
-- 摘要：The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 17:30:40 GMT
-- URL：https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss
-
-### 3. CIA chief travels to Moscow for unannounced talks, US media reports
-- 摘要：Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 19:48:14 GMT
-- URL：https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss
-
-### 4. Winter energy prices expected to rise to three-year high
-- 摘要：Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:07:29 GMT
-- URL：https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss
-
-### 5. Why Pride is facing a backlash - from inside and outside the LGBT community
-- 摘要：Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:13:34 GMT
-- URL：https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss
-
-### 6. Yellow warnings in force as rain and thunderstorms hit parts of UK
-- 摘要：Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:11:15 GMT
-- URL：https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss
-
-### 7. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
-- 摘要：The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 19:50:57 GMT
-- URL：https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss
-
-### 8. Man dies in crash after police pursuit
-- 摘要：Two women are also hurt and one remains in hospital in critical condition.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 19:39:44 GMT
-- URL：https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss
-
-### 9. As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps
-- 摘要：Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:50:53 GMT
-- URL：https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss
-
-### 10. Nicotine vapes best chance to quit smoking, major review finds
-- 摘要：They work better than patches, gum or pills, the most up-to-date evidence suggests.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:40:38 GMT
-- URL：https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss
-
-### 11. Life of the music legend whose songs touched millions
-- 摘要：The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 18:14:13 GMT
-- URL：https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss
-
-### 12. How Dolly Parton told her story through six iconic songs
-- 摘要：A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 23:43:13 GMT
-- URL：https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss
-
-### 13. Elton John, Oprah Winfrey and Paul McCartney lead tributes to Dolly Parton
-- 摘要：The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the count
-- 信源：BBC（二级）
-- 日期：Wed, 26 Aug 2026 00:58:05 GMT
-- URL：https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss
-
-### 14. A life in pictures
-- 摘要：The singer rose from humble beginnings to become one of the most beloved entertainers in the world.
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 18:34:05 GMT
-- URL：https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss
-
-### 15. 'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview
-- 摘要：The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international st
-- 信源：BBC（二级）
-- 日期：Tue, 25 Aug 2026 20:31:20 GMT
-- URL：https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss
-
-
-## 政策与监管（20条）
-
-### 1. From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
-- 摘要：From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed&nbsp;&nbsp;The New York Times
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:42:58 GMT
-- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5
-
-### 2. US tariff threat upends copper surplus as prices test all-time peak - Reuters
-- 摘要：US tariff threat upends copper surplus as prices test all-time peak&nbsp;&nbsp;Reuters
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:49:37 GMT
-- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxOelM0dUNmR3Y2QjBqdkNNdmZ2LVJ5c3hwR1lIUk1kVHNJcFp6VEp0YmdROUh1ME9YN2syOEtEaF9yZDQzbmszWnNtU0toX01SaHItUmc1RWdHYUZMRFpmMGZDaXMxeGViRDlnbnFKY05aUzZ2SE5BWDRycVQtZDBybWRWTWVzTWU5anpIZS14SFlIRWFRSF9WdmNPeHZMSDlQT2NnZ25nQzNZcmdKcmc?oc=5
-
-### 3. Canada's tariff response could impact New York businesses, tourism - ABC7 New York
-- 摘要：Canada's tariff response could impact New York businesses, tourism&nbsp;&nbsp;ABC7 New York
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 21:57:14 GMT
-- URL：https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUVFc2xXVDR3T0loZUMwX3RCMXZCUFQ0cHgwci02VW1Fel9zX21HaF85cmJrcE45WV9XUVo0SzFtd29idkhVNVd5ZTBIUXB3aWR2QmtkNmpzdDc1Znh3dEo1Uk9taVBjdEV3WkRFclk4YkZRYzA3eE04b1I4akVKWmJzdTJHX0ROVXMxUVFxTnlQa21LTVJMZ0w5VTBva03SAaQBQVVfeXFMTTcxTGd4VHlocnhsRktzUG9TZWl6cnF2bkpyc0NiZEJ2dklVSmU1b05QUElTekdaWDJjTjlmeThSMUlSNFVXRXIxSmtzcWpreDlEWHFOREJROFhDXzJYZThTV1JBSFJUXzduQV9PN1J6X3NkaUdDS2tQdzVXZms5SUZkMWlUci1KT3RFWU5Ha1Rnam5mazJYNTlydXFDUktFWVo1Ty0?oc=5
-
-### 4. Canada’s trade minister: ‘We’re not waiting by the phone’ as tariff war escalates - NBC News
-- 摘要：Canada’s trade minister: ‘We’re not waiting by the phone’ as tariff war escalates&nbsp;&nbsp;NBC News
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:11:44 GMT
-- URL：https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEpUN3c3cDhnNmNlOG5jMENPTUowR0FKaGVWdkZHeDJ4QnJ0Vm5OSmY3Zmtqb1I1cms0cHpwak5PS2g1UXFTYUlMOXJfakZJTDgwSFFPV08yVl9WNk52REIzUG9jZ0dVckNqVlV0NjhjN1lFbHl3MmVCWXQxaGk2dkx4SjVCVF8wNm9EZnU5bXZyS3E0Z3JfNmhUeDlnTmdNY0FPVVQxRVNpX3JtRVlYX0didlBIQWU0dElDZl9uNlpmRWN1dzRQcjQwSjRiWHN4aFE?oc=5
-
-### 5. Cattle groups urge Trump to reconsider beef import tariff waiver - Capital Press
-- 摘要：Cattle groups urge Trump to reconsider beef import tariff waiver&nbsp;&nbsp;Capital Press
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:21:20 GMT
-- URL：https://news.google.com/rss/articles/CBMiowFBVV95cUxQdC1ZSnVoTXJveTc2QWREc3FFeHZzaTNtZjFoUWoyMTNyenc4eWFGdU40dV9vblFUTmNldXV2UVZUQ0Q0Wjg0VUJlVGV3ODZwMGZJWEM5QUhqWmluR2JETkJtSVFKZWVtbXV4OWJDTTIzS1VPS1FsRjAwT0pqMEt1enZKWThra2RDZkJpTWRwenlYenpld2RmWlRSLTlXVzVJYzR3?oc=5
-
-### 6. Trump suggests rebranding Lake Ontario during tariff dispute with Canada - KCRA
-- 摘要：Trump suggests rebranding Lake Ontario during tariff dispute with Canada&nbsp;&nbsp;KCRA
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 18:11:00 GMT
-- URL：https://news.google.com/rss/articles/CBMikwFBVV95cUxQalhQQnZieXVfV0R6U0ZvT1BsSFhwZlhFQS1mdU9xY1pEVWZpOE80clpjUTFWTVN4SGlOTmtGN0l3V3Rsd3U2UGhQemxhVTRxNzdVb2VGbkljeWUzNEZMMlVULVF0eGU1Y2k4bTI0Z3VvcXRzMkhnZ0g0bTE2QmgxREh5RWJzQ3B6X3Yxa2thN2otNzg?oc=5
-
-### 7. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% - BBC
-- 摘要：Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%&nbsp;&nbsp;BBC
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 19:50:57 GMT
-- URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VeElQUzlsWVpIZTVXd3VzQ1hEQ2RhNUxXTVFTaDVITG9Pb1VQbV84bVNzMjNmaG1zUy1rMUN1RDEtU3ZRWDZWN29MMjhkNzl2YVFhTE85dEttUQ?oc=5
-
-### 8. Trump tells Canadian leaders to ‘fall in line’ amid tariff fight - Fox Business
-- 摘要：Trump tells Canadian leaders to ‘fall in line’ amid tariff fight&nbsp;&nbsp;Fox Business
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:14:15 GMT
-- URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxY1E3aE1zR0JyNnhlVmVicTYyTEpCMTgyQkl0V0EwRU5BdmlWT1NvRXpRczg2Yks5V0tnd1RacElfSk96aTVwdldodTlnRGpPeFh1Qk1oZ0ZmSm8?oc=5
-
-### 9. Paramount’s Warner Bros. bid barrels toward antitrust trial: What to know - The Hill
-- 摘要：Paramount’s Warner Bros. bid barrels toward antitrust trial: What to know&nbsp;&nbsp;The Hill
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:29:00 GMT
-- URL：https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVNraFNSWkhlQVd6REFhZzU1LTF4UmZWUVgzYVdjcUJNM3FBazN0anBQY05IR2x2NEEwNm1NZ3lDdkpTcThqTFdSRUxOcElGRDlVWTVreEpDNXo0VUFrbHQ1aHZwS3pYOU9ZZXdtYUhiQXZoZmJGc0kwc1o1V25SSVVqOEJtMHNyeUx1NlluVjAxV0dVZkHSAZsBQVVfeXFMTXdtN3k3QVRWd1o4RVBKQ3gtNmpSbzkyNUEtdTJqRm9ianRERXUwWmpDa2pTdDE4Z3BGRWVTRy10dHlFcDdQajhHSEwxMENmcWFkeTY0Ykxrc09fbGRzSVozVGp2ampHNGoySWIzWEhLYjc5TkZTRmRlMUpocVpGUEx4RDhPSWtaZlE1VmhGWTZMcnIzYXE1MHMxUWs?oc=5
-
-### 10. DOJ Signals Increased Antitrust Scrutiny of Algorithmic Pricing in Willow Bridge Decision - Crowell & Moring LLP
-- 摘要：DOJ Signals Increased Antitrust Scrutiny of Algorithmic Pricing in Willow Bridge Decision&nbsp;&nbsp;Crowell & Moring LLP
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:40:55 GMT
-- URL：https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWVGMUY0MGo5R09Nc3ZqenhQOTRfZEEwVkEwNGdhYUVnREF2UUk2Ykllc2d3VG5palFVVFVCeEtYb0ozdXRrek9sNGkyc0ZqSFJYMnBWQ2JvcW5Kek95MlNqbVBQUThObTlVRDFHUm80dV85ajBNRmRyM1dnRWk4Nk9nN0JDaFJBZ3hYcENNd1BZOEJLaXlndTVQUXV6b1l5eFJ5Q05fUk5HMlVBUnlYZWE3SkVyc0hBakpqNkNlU0l0UDNtYXlxLTJxekMwRUVuSXpweVNB?oc=5
-
-### 11. UAW, Shawn Fain respond to Trump's 50% tariff threat on Canadian autos - The Detroit News
-- 摘要：UAW, Shawn Fain respond to Trump's 50% tariff threat on Canadian autos&nbsp;&nbsp;The Detroit News
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 18:31:00 GMT
-- URL：https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1dZQUR0cHFyVnJzNFRsY1VVaTRrd1FzdkktMmlCa2dVYk8zWHVMUHUtLW1nVF9Zcy1DT3lGU01kX09qc05sOFN6OU8yd29BUDMxN20yQS0wZlVBTEJxejRnc3FuT043aVp3djNCbmFDTEwxRHJVUEFWaXJDY2NvY2oyaHFhcXRtTGtUZTJoMmNteGlWX0FBaE1qYkltSVduNkgwSzZ3X2RqSkcwMFYyRDFOV21MN1M5V21UMmg0WWRhVW9XZWdyTXZDYkJ6NGluMzM2eXRFR1Y0Q0dHMHBZUlJCMXZaamM?oc=5
-
-### 12. Canada imposing tariffs of up to 50% on $20 billion in U.S. imports - CBS News
-- 摘要：Canada imposing tariffs of up to 50% on $20 billion in U.S. imports&nbsp;&nbsp;CBS News
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 15:40:00 GMT
-- URL：https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUFZXNFliTldfdEZjaExwclhhSk1iQS1Eby10X1JKc3gxbXRoN29KZlJrUlhIZEM0VVVSOW5wV0Q0OUlORWFBdlhsUjIwTEJyYmpvQUxLQkxTRXlJSzl3SGNXT2ROazFucEFTQ243dWw?oc=5
-
-### 13. Winston-Salem Food Bank Receives nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case - NCDOJ (.gov)
-- 摘要：Winston-Salem Food Bank Receives nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case&nbsp;&nbsp;NCDOJ (.gov
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 19:31:43 GMT
-- URL：https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0ZQVkpXczVPclFYNEFfVUJqbmNPMmhxdkxuYlAwckllU0hSZGJwTnRIMHRQVUx3OXBLTUJna1BNbzRaMFBLT0QtS1dnV3V0a09WMVBpYzgtWEx5YWtFQllLQlNIcFNwek1zQkZFSi1jRHBRaEpubk4zeWl4OVFPb2hBVEgxblZMSnd5UnFoN2xQWjhlQThPUmN3MHROb2otLWZITWpKR3FzWE4zSHpRX0FPSlRCVFZjODM1RlR2Z01OMnczRUgxdTRkcnA0SDktNzkxSkJGU3NCWVBH?oc=5
-
-### 14. HHS' Historical Approach to Head Start Regulation Following the 2007 Statutory Reauthorization has Increased Costs and Reduced Access, without Substantial Quality Gains - HHS.gov
-- 摘要：HHS' Historical Approach to Head Start Regulation Following the 2007 Statutory Reauthorization has Increased Costs and Reduced Access, without Substan
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 17:17:49 GMT
-- URL：https://news.google.com/rss/articles/CBMiekFVX3lxTE4ySnEwcThDeDN3ZWd5VlhvbXUtNnZJbFNrUkNpWGJaVDd5TS02U3Q2WlhHY250bzBNUEhxWm4zSl81VTZMSWxXM2YtNHk3TEhuaWcyVkhudkJhMDlTTHZaT3lOaXIzanhCNG9Kd2tXQXNHQ0hDNDdkRXBR?oc=5
-
-### 15. PPI: Yes to Stronger Sanctions on Russia and Support for Ukraine; No to Giving the Trump Administration New Tariff Authority - Progressive Policy Institute
-- 摘要：PPI: Yes to Stronger Sanctions on Russia and Support for Ukraine; No to Giving the Trump Administration New Tariff Authority&nbsp;&nbsp;Progressive Po
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 18:09:09 GMT
-- URL：https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWZjdHpRREFPbnpQdjQ0dlowMU1kS3VSd2FoaVVwdHkyOXF4UmcwWUdad0ZDQXlGeHA4UzJHN0lYR1Qwc0tISGZJeFQzU203b21zeFV2TzE1aE8xdlZtNEtRQk12UXRXb1JNSGE5UmtQUmdCaWZhbjhTOTlTWmJNRHBGSndqV2UwWE1PSHZPZWRGUW16cV9ha1MwM2t3elptT0JiWEgzcmZYZjU1YU1OcUFxX1JHMmx5UHVjVW9UOGZHdzhDQkRma0lQX1JTWV85YUp2NG5DTzFsSWZsbVA0Yzd6WFlPOFllR2xmTFhR?oc=5
-
-
-## 信源采集日志
-
-| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
-|---|------|------|------|----------|----------|----------|
-| 1 | TechCrunch | 二级 | 科技与AI | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 2 | WIRED | 二级 | 科技与AI | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 5 | Google News | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 6 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-08-26 09:26 |
-| 7 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-08-26 09:26 |
-
----
-
-# 信源缓存（云端自动采集 · 2026-08-26 20:49）
-
-> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
-> 采集时段：evening
-> 有效期：7天
-> 总条目：138条
-
-
-## 科技与AI（20条）
-
-### 1. The second-generation Bose QuietComfort Headphones are good, but don’t stand out
-- 摘要：Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headpho
-- 信源：The Verge（二级）
-- 日期：2026-08-26T08:00:00-04:00
-- URL：https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review
-
-### 2. Bill Gates is deeply worried about AI, and he’s no longer staying quiet
-- 摘要：Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounde
-- 信源：The Verge（二级）
-- 日期：2026-08-26T07:07:40-04:00
-- URL：https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet
-
-### 3. Ikea’s Xbox collection includes a giant thumbstick stool
-- 摘要：Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary o
-- 信源：The Verge（二级）
-- 日期：2026-08-26T06:00:00-04:00
-- URL：https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool
-
-### 4. Garmin’s new Fenix 9 adds brighter screens and smoother map panning
-- 摘要：Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3
-- 信源：The Verge（二级）
-- 日期：2026-08-25T18:20:17-04:00
-- URL：https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch
-
-### 5. Trump is upping the price of Big Tech’s favorite visa
-- 摘要：In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas
-- 信源：The Verge（二级）
-- 日期：2026-08-25T17:45:00-04:00
-- URL：https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration
-
-### 6. At just $8, you owe it to yourself to grab Inscryption
-- 摘要：If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Dan
-- 信源：The Verge（二级）
-- 日期：2026-08-25T16:38:37-04:00
-- URL：https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale
-
-### 7. The Witcher 3 is getting a remaster
-- 摘要：CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting Septe
-- 信源：The Verge（二级）
-- 日期：2026-08-25T16:24:24-04:00
-- URL：https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer
-
-### 8. Dreame’s dream of a rocket-powered car is dead
-- 摘要：Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from
-- 信源：The Verge（二级）
-- 日期：2026-08-25T14:52:53-04:00
-- URL：https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down
-
-### 9. Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories
-- 摘要：The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to th
-- 信源：The Verge（二级）
-- 日期：2026-08-25T14:16:29-04:00
-- URL：https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories
-
-### 10. Bose’s smallest Bluetooth speaker is a great deal at 35 percent off
-- 摘要：Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound an
-- 信源：The Verge（二级）
-- 日期：2026-08-25T13:39:20-04:00
-- URL：https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale
-
-### 11. The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
-- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
-- 信源：MIT Tech Review（二级）
-- 日期：Wed, 26 Aug 2026 12:10:00 +0000
-- URL：https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
-
-### 12. Raised on AI
-- 摘要：When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas
-- 信源：MIT Tech Review（二级）
-- 日期：Wed, 26 Aug 2026 09:00:00 +0000
-- URL：https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/
-
-### 13. AI models flub these intelligence tests. Can you fare any better?
-- 摘要：Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz
-- 信源：MIT Tech Review（二级）
-- 日期：Wed, 26 Aug 2026 09:00:00 +0000
-- URL：https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/
-
-### 14. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
-- 摘要：It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an
-- 信源：MIT Tech Review（二级）
-- 日期：Wed, 26 Aug 2026 07:01:00 +0000
-- URL：https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/
-
-### 15. Addressing a sticking point in sustainable adhesives
-- 摘要：Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even s
-- 信源：MIT Tech Review（二级）
-- 日期：Tue, 25 Aug 2026 21:00:00 +0000
-- URL：https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/
-
-
-## 金融市场（20条）
-
-### 1. Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July
-- 摘要：The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by 
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:49:11 GMT
-- URL：https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html
-
-### 2. Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe
-- 摘要：The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lake
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:48:40 GMT
-- URL：https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html
-
-### 3. Hyundai has grown more than any automaker in the U.S. — and it's not done yet
-- 摘要：The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:00:01 GMT
-- URL：https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html
-
-### 4. Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman
-- 摘要：Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:26:08 GMT
-- URL：https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html
-
-### 5. Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
-- 摘要：The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:48:51 GMT
-- URL：https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html
-
-### 6. Mortgage rates hit highest level in 3 weeks, weakening demand further
-- 摘要：Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 11:33:07 GMT
-- URL：https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html
-
-### 7. Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
-- 摘要：Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taki
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 21:26:01 GMT
-- URL：https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html
-
-### 8. Here's why markets are starting to care about the 2026 election 10 weeks out
-- 摘要：Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 23:35:24 GMT
-- URL：https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html
-
-### 9. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
-- 摘要：Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 12:10:02 GMT
-- URL：https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html
-
-### 10. Is the K-shaped economy ending? Finance pros weigh in
-- 摘要：The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 21:05:27 GMT
-- URL：https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html
-
-### 11. SpaceX plans to build a $100 billion spaceport in Louisiana
-- 摘要：SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will "support thousands of launches annually."
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 22:09:01 GMT
-- URL：https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
-
-### 12. Nvidia’s dependence on hyperscalers faces big test in earnings report
-- 摘要：Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 14:46:59 GMT
-- URL：https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
-
-### 13. Bond rout ending? Massive bets on bond rally dominate options market
-- 摘要：There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.
-- 信源：CNBC（二级）
-- 日期：Tue, 25 Aug 2026 19:42:17 GMT
-- URL：https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html
-
-### 14. Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary
-- 摘要：Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 01:07:28 GMT
-- URL：https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html
-
-### 15. HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech
-- 摘要：It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Goog
-- 信源：CNBC（二级）
-- 日期：Wed, 26 Aug 2026 04:20:31 GMT
-- URL：https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html
-
-
-## 中国出海（20条）
-
-### 1. China’s Amos Food hungry for Hong Kong capital to expand global sweets empire - South China Morning Post
-- 摘要：China’s Amos Food hungry for Hong Kong capital to expand global sweets empire&nbsp;&nbsp;South China Morning Post
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 08:00:11 GMT
-- URL：https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGNFSnpua1J2R3pNdEJJNE9iTVZGT2xnb1ZRSXVUR21Gck0xbXBRUlVscjA4NmRFVEtSWDFYTy1aT19YZmV1bnhmRGRETHAtdXdheHQzSXZsemJaeHF6Zjk4NzhVbEFCam1Oc1VkbnJQRDFYRVF4YjRqLVpoTVplUGNfQ2hlMFRaa2Y2UmtOMkZaVDM3LVBZa3dYaGcxdjlaZ0JqRlVUMjVYWVk4ZlRVejVFX1A1WUk5a0FsdG0tMDJZTi16SXJ1UDhn0gHKAUFVX3lxTE0wY0VKem5rUnZHek10Qkk0T2JNVkZPbGdvVlFJdVRHbUZyTTFtcFFSVWxyMDg2ZEVUS1JYMVhPLVpPX1hmZXVueGZEZERMcC11d2F4dDNJdmx6Ylp4cXpmOTg3OFVsQUJqbU5zVWRuclBEMVhFUXhiNGotWmhNWmVQY19DaGUwVFprZjZSa04yRlpUMzctUFlrd1hoZzF2OVpnQmpGVVQyNVhZWThmVFV6NUVfUDVZSTlrQWx0bS0wMllOLXpJcnVQOGc?oc=5
-
-### 2. China moves to extend anti-corruption reach across borders - 헤럴드경제
-- 摘要：China moves to extend anti-corruption reach across borders&nbsp;&nbsp;헤럴드경제
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 09:00:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiV0FVX3lxTE5odXhsYmNpTHFvMlY5X2lPelF4bDBySGZ5bVVGQXN2WWU3Y1U1d1FWR0JTeDVGQmpSTGMwaVNoeXBGR3hRZW1UeE85US1lMmducm5nbjZkbw?oc=5
-
-### 3. China Overseas Land & Investment core records 7.93 bn yuan - The Standard (HK)
-- 摘要：China Overseas Land & Investment core records 7.93 bn yuan&nbsp;&nbsp;The Standard (HK)
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 06:57:23 GMT
-- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWY4NUs4U0NRRE50N1VUVnYtMXl4RlJoYnk0b3pnTTNMeW5CZjlaZnVvMjN3WEt5NzdLWWxKaVBrTmFuTUFRWldnYTVBT29kdklvd2hkT2NFeF9laUNuXy1wdjk0R2lyOXZZNXJod1dLQjVRQnVGNXlqdHFpcmc5d0lXXzM2clI5OXdjTzJkQ3JuckpBZEtyZG9YSXRhZEJ5V0FiT2lBdTJDUy05Vnc?oc=5
-
-### 4. Will China Rewrite the Rules of Global Supply Chains? - The Diplomat – Asia-Pacific
-- 摘要：Will China Rewrite the Rules of Global Supply Chains?&nbsp;&nbsp;The Diplomat – Asia-Pacific
-- 信源：Google News（二级）
-- 日期：Mon, 24 Aug 2026 16:54:09 GMT
-- URL：https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFl6TUlPUjVqbk1vTDM1Y3ZfNTdlbWtHakFaTW1odmREdG1DenRRMVVmc1RrVDVZYjg4WDdFU2d2NXVvTmxnc05PLTlzYmJsZEoxWDZtVzl0YXYycG5tdkh4dWdwR2czSHNWN3prZzU2d0pseS1XTWRmQ1BsRW9oU3RDbjRCRUZsTkt1eHRR?oc=5
-
-### 5. 41Caijing Unveils AI Agent Cluster at China Cross-Border E-Commerce Forum, Joining Alibaba and Other Industry Leaders to Reshape Global Marketing - markets.businessinsider.com
+### 8. 41Caijing Unveils AI Agent Cluster at China Cross-Border E-Commerce Forum, Joining Alibaba and Other Industry Leaders to Reshape Global Marketing - markets.businessinsider.com
 - 摘要：41Caijing Unveils AI Agent Cluster at China Cross-Border E-Commerce Forum, Joining Alibaba and Other Industry Leaders to Reshape Global Marketing&nbsp
 - 信源：Google News（二级）
 - 日期：Tue, 25 Aug 2026 16:55:00 GMT
 - URL：https://news.google.com/rss/articles/CBMiqwJBVV95cUxPU2o1Wm5jdnRpdFFpU0NSQ3VCZ05FQU5tLVlHUElyUk1wa2trQXEtLUdYVW56eU5SMG9ocnNSTTFpUkxLblVGOUhiaDNnRGFJOGJaYnFlQ0dScnEtOVd0UVhrUjB2b1Vxc3JyNkYwOVd5dGtJZDlnSENKSW85YTliNzAwUUJPUjdCQ1NLMW5iUmpaZ3N2UTEtMVZweDNQVDJ6NlV6UzU1bEIzV2dZdU9WVEVnUElKWTRTb0lyYldSNnNDU0VIVEUzemRkTUxLZE9xLXYtNnQzODdrZDZjRk00aGVHQTZhdHRyeXp5TVJDR1dWQ2Z4MUpjZm5NWGp0YVFOdXNwZGpudnFVRjRTSnBuOWh6UTBudWlTamp1Q0o5R0JTUkRKbExNYXV2NA?oc=5
-
-### 6. Geely Auto shifts focus overseas with premium m... - Pluang
-- 摘要：Geely Auto shifts focus overseas with premium m...&nbsp;&nbsp;Pluang
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 07:49:52 GMT
-- URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZ0JSRC1ZUmVrREI3WEZldUMwLURsT1hoejF5STZZbHB2a21Qdk5HREVDaFJhZGRWRmlTUnJwbVZMNEZITTFRYS0wUjJMTjFZU1U5Y3BfcHVKNGxvbXItWEZZVXVUZElCYUgyNlk5Und6cVlCZlJ4Tmp0NlVpVUE?oc=5
-
-### 7. A Shanghai slingshot for overseas expansion - chinadailyhk
-- 摘要：A Shanghai slingshot for overseas expansion&nbsp;&nbsp;chinadailyhk
-- 信源：Google News（二级）
-- 日期：Sun, 23 Aug 2026 13:18:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTmVCUWpaY0NSOUNqdnhpdjZ1cWhRNVRvc1VLMFo4R1pzSlRleW1Wei1CUERZQ0hLWlJJS1FaSTFwMlN4UTduN1BhNWRMRW10dk91Vk9PYzRuQQ?oc=5
-
-### 8. China honey goes overseas, benefiting Xizang villagers - The Star
-- 摘要：China honey goes overseas, benefiting Xizang villagers&nbsp;&nbsp;The Star
-- 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 08:19:00 GMT
-- URL：https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHdvUkF2YkVsZXQzSkF5Q0doMGhfbmpqWmV0dHdTbGFMN0tBbVo2MkRDTjkwUUM0UlZ6aUxReGJVM3NqZ3dNdzhWVVg5bHVKeGQ4MkUwOW9EZzY4M3Y0alZSMmgweUZGUjloZ2ViQTh5ME5PMHJrQVpMSWNXVHMwcHptSlJ3ZDRCS3hVZmhNYnRCdUd1bXA5d1ljN0gycXV2RDNNZnNJZ20yOEVKamVBN0hNaF9CcDg?oc=5
 
 ### 9. China proceeds legislation against cross-border corruption, closing legal gap in overseas probe, fugitive hunt and asset recovery: expert - Global Times
 - 摘要：China proceeds legislation against cross-border corruption, closing legal gap in overseas probe, fugitive hunt and asset recovery: expert&nbsp;&nbsp;G
@@ -828,424 +248,330 @@
 - 日期：Tue, 25 Aug 2026 13:18:00 GMT
 - URL：https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fZVZBeEFoaVBnbFlGaWF3THB3MGY5WmlYMFJYZG1hVTY0MmRzbW52SHk0cDZ4LU9nQnBmY2ppeWlvSTQxTm5uTFlEajVBeUZUVHJ4c2dLdXpfY3RVS0lSV0xn?oc=5
 
-### 10. China targets offshore workarounds in new rules for individual investors - South China Morning Post
-- 摘要：China targets offshore workarounds in new rules for individual investors&nbsp;&nbsp;South China Morning Post
+### 10. Guangzhou pharma company opens international HQ in Singapore - China Daily
+- 摘要：Guangzhou pharma company opens international HQ in Singapore&nbsp;&nbsp;China Daily
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 11:30:07 GMT
-- URL：https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWURRaDM1cmZmRXJHcDFyNUxvVWRYTmV1a0ViMUNSZzktSVRlQldpWjNjeVZEUHFiTzZLSTJlU0l5dEc5Q3lvbjVtVF9fQ3ROVFcwaTBuakZIdEoySnprRFIyOW1LU0hRdDZqUGZqSzl0MDRFZlJjLVJYaFBGbkxaVjVfY2ZkZ2xFSGtqQUV4TDRTcE5yYldzNDNpMWJ2cVpiZXNOUmtSTjFGTFptVXZmYlVUS3hjODRBZ0cwNTRRMWoyd3UxTUVuSUhfZDFoN20xRGFB0gHTAUFVX3lxTE1zcnZpMlRDT1dPOEYzc2F0cXdmYVdnWXp6RG5tb0Uya0M4ZzdQRm1zdjYwT3Z6RlJWcC02OTRCTmp4d29yeG81WXNxTVRyOV9FOGpzemtCR2p2dHVzYUNhaGZTQXdXSFY2Qm9ac0VsZ1NJQjVDR1NUV19faDlyMGRrTlVGTDBZQ25Pd3VvdEVDQ3dzT2lhSE9LR2p0YWQ0QmxjUV8ySzB1Z1IydU5IY1Q3RURmc2pRUWJsY2lZR1pkV2dYMmhNYmVFelQ0aFF5ZEpCNHc?oc=5
+- 日期：Wed, 26 Aug 2026 13:52:02 GMT
+- URL：https://news.google.com/rss/articles/CBMifkFVX3lxTE9iYVRqMHBybmNseG5SVllBZ2tEUGRjYXkwOFRVTUxObzRreDR0WktObDluVzNhV2pyclIwZnhBYTdtQ0VIOWFFMFNjYVRwOGJzaEZOZWJrYWlHQnV6QzlRTEVFQUN5VHd4ejZENzdRVHNxdWJhSThpRGxGWmlLUQ?oc=5
 
-### 11. Nation's tech companies on global niche - China Daily
-- 摘要：Nation's tech companies on global niche&nbsp;&nbsp;China Daily
+### 11. China moves to extend anti-corruption reach across borders - 헤럴드경제
+- 摘要：China moves to extend anti-corruption reach across borders&nbsp;&nbsp;헤럴드경제
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 01:45:18 GMT
-- URL：https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ic2ctRXFRcDBWRlZSbzhsSTluYXdwSlNhcjBCNjlhNE5odjdzSWRTSU1VcVZTSTUtVDRWV3lzSUI0M2hIRHl5dnpTdjdNRkxYdVZhMGJOdFVwMmFkeEV4VWJ3MTZoQkVOam1mX1B1Nk16QkcyQl9wcHgyREl2dw?oc=5
+- 日期：Wed, 26 Aug 2026 09:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiV0FVX3lxTE5odXhsYmNpTHFvMlY5X2lPelF4bDBySGZ5bVVGQXN2WWU3Y1U1d1FWR0JTeDVGQmpSTGMwaVNoeXBGR3hRZW1UeE85US1lMmducm5nbjZkbw?oc=5
 
-### 12. China Overseas Grand Oceans Group (SEHK:81) Stock Trades Rich As Profits Steady - simplywall.st
-- 摘要：China Overseas Grand Oceans Group (SEHK:81) Stock Trades Rich As Profits Steady&nbsp;&nbsp;simplywall.st
+### 12. China Overseas Land & Investment core records 7.93 bn yuan - The Standard (HK)
+- 摘要：China Overseas Land & Investment core records 7.93 bn yuan&nbsp;&nbsp;The Standard (HK)
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 10:37:28 GMT
-- URL：https://news.google.com/rss/articles/CBMikgJBVV95cUxQOWxTUHBSdU00dzUyelJIVHlYb0VEYVhDMXYyWmJZZENyc3JCTmhuSXRwbG5XMXFDMEZTaE4xM3hGdW9pamRkMi0xMk9ZVGVUS1BNXzNHOHZVZGxEaUNrOWIzTlp3VkFvZHJKU0ZWWXVpalpQcWU0Sk9HeXlsZFFnRlFVUGYzSGM5cTJPbGRjc2tMNTVWVUh0b3JsaWlHQXZlb1kwV05BVWwzSDdKUzBpY0lkN0FOUWNqUndpbU00QTItRGRiZDlES1lWbDI2a0paWnJtM1o0SHVscTFNb2U5LWktMWhGUUl6OE81ZkdTaXdPc3pLQVgzY1Nobnp2aElyNkhPYUZhTmlkYzBfWkF6bGlR0gGXAkFVX3lxTE5HckZ5SHpqcGxJdGw0enUxTVJHWjhXcXp2bEJzUlpNS1IzUWZzdHk0c0NfVU84Y0tkcjFuVUY4Qm8zeVlXTmtXTmVvRkJ5LUdicHcydTd4cEtDLTQ2U1FlVmNMazROcG5SSnZwRHBUaEJBZTdDc0V0Z3Q2NGxfQnRYTVBrQ1h0YkdISTdCQlRLNEdBZUo4MjFtQWlHS0xidUQ3LU1TZ1RQUGhqQ0FBVWtMTllwNUt5WFNPbTdIb09TMm1zdHp6VzFHTktGY0ZXWkhaRjVLWHNlckwxb051ZDdNXzJyMWhtMGhQRjJRYVhteTJhcVB6MmUwNVlNNHZMTmp2djUzRTI5WlZmU2pwOXVrTTAzdFFEZw?oc=5
+- 日期：Wed, 26 Aug 2026 06:57:23 GMT
+- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWY4NUs4U0NRRE50N1VUVnYtMXl4RlJoYnk0b3pnTTNMeW5CZjlaZnVvMjN3WEt5NzdLWWxKaVBrTmFuTUFRWldnYTVBT29kdklvd2hkT2NFeF9laUNuXy1wdjk0R2lyOXZZNXJod1dLQjVRQnVGNXlqdHFpcmc5d0lXXzM2clI5OXdjTzJkQ3JuckpBZEtyZG9YSXRhZEJ5V0FiT2lBdTJDUy05Vnc?oc=5
 
-### 13. Goldman Sachs Sticks to Its Sell Rating for China Overseas Property Holdings (CNPPF) - The Globe and Mail
-- 摘要：Goldman Sachs Sticks to Its Sell Rating for China Overseas Property Holdings (CNPPF)&nbsp;&nbsp;The Globe and Mail
-- 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 11:32:59 GMT
-- URL：https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTI1SWd5Z3NIdXZyZUlLUTJVMHdFcGYtQVpER2hiYTRSY1VZb0J1Q2YySWtLNG01RVUwX0VKenJEcjZrZFZRcTFneW4yZlM0eVJoaTZ6eXhaMmwxMWFFQjR5aEdwcjFxS3RqeDNLU09FcDJMdDdKdTJPclU5WnY5Z2tjMURDUTVIcXlrMTRNRFlvV1U2MHZxVVctTmFzTS0tRHBMWlMxVGlQSmZ6TFIyOWtPM1R4bHF6bnpfT0ZsV3QtcWpEX2ZJcExQaU14TTR0OWRvSU5xVzBKeDhkWGZPeDFQVWJuSlhWaUd1M01rZ2JXRTF3ZHc?oc=5
-
-### 14. Shanghai Xiongda International Logistics to Showcase 20 Years of Cross-Border Expertise at the 2026 Zhengzhou E-commerce Expo - FinancialContent
+### 13. Shanghai Xiongda International Logistics to Showcase 20 Years of Cross-Border Expertise at the 2026 Zhengzhou E-commerce Expo - FinancialContent
 - 摘要：Shanghai Xiongda International Logistics to Showcase 20 Years of Cross-Border Expertise at the 2026 Zhengzhou E-commerce Expo&nbsp;&nbsp;FinancialCont
 - 信源：Google News（二级）
 - 日期：Tue, 25 Aug 2026 09:38:00 GMT
 - URL：https://news.google.com/rss/articles/CBMimgJBVV95cUxQbHFqTEJLbnlZRjFSRnJ6eVJqUlNTbnJ0MFE4UTM5T3FobmtMRFJlRUh1OGZMS05HcUk1TER5YldOR3NJYmNHWDNyb1AtSkJ6UzdjRG91dHAzdXhVQUlIZHlaN0tpVFJTUjFVSWp6dFMtZjVNUXBPb0JyZWZfZjRwUjEtLWxRSGVBQ2s1ZGZ4TjBZUzZUa3NmdGw5WjEtc1NVUG9fSC1GQkxaWlNvTmJCOWdpekZSVHVUMUFnVEpmMHhWbXdxRWpFSGo4OFhFdExYVDNjajVMaWtmUzBGcnctdXQ5T1JMbmF5cjJrXzZFWFF0TUpOcVY0SjNsY0NJUGt6d21VUGlRMTNIWG1WSXRqNk8zUjUxZkx3ZkE?oc=5
 
-### 15. China Overseas Property Holdings Limited (HKG:2669) Just Beat EPS By 20%: Here's What Analysts Are Forecasting For This Year - webull.com
-- 摘要：China Overseas Property Holdings Limited (HKG:2669) Just Beat EPS By 20%: Here's What Analysts Are Forecasting For This Year&nbsp;&nbsp;webull.com
+### 14. China’s Amos Food hungry for Hong Kong capital to expand global sweets empire - South China Morning Post
+- 摘要：China’s Amos Food hungry for Hong Kong capital to expand global sweets empire&nbsp;&nbsp;South China Morning Post
 - 信源：Google News（二级）
-- 日期：Sun, 23 Aug 2026 15:10:51 GMT
-- URL：https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhWDFvcy1NVnRSSzh0ZkNlbXlXdjBIVkZtU211b00wSW1IcHU0bk1BSDVJZ3lRNHJIU2Fub3VLRFVrM1BaOWxQVEtBVDJzQ0QyWEhTXzNwYlI?oc=5
+- 日期：Wed, 26 Aug 2026 08:00:11 GMT
+- URL：https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGNFSnpua1J2R3pNdEJJNE9iTVZGT2xnb1ZRSXVUR21Gck0xbXBRUlVscjA4NmRFVEtSWDFYTy1aT19YZmV1bnhmRGRETHAtdXdheHQzSXZsemJaeHF6Zjk4NzhVbEFCam1Oc1VkbnJQRDFYRVF4YjRqLVpoTVplUGNfQ2hlMFRaa2Y2UmtOMkZaVDM3LVBZa3dYaGcxdjlaZ0JqRlVUMjVYWVk4ZlRVejVFX1A1WUk5a0FsdG0tMDJZTi16SXJ1UDhn0gHKAUFVX3lxTE0wY0VKem5rUnZHek10Qkk0T2JNVkZPbGdvVlFJdVRHbUZyTTFtcFFSVWxyMDg2ZEVUS1JYMVhPLVpPX1hmZXVueGZEZERMcC11d2F4dDNJdmx6Ylp4cXpmOTg3OFVsQUJqbU5zVWRuclBEMVhFUXhiNGotWmhNWmVQY19DaGUwVFprZjZSa04yRlpUMzctUFlrd1hoZzF2OVpnQmpGVVQyNVhZWThmVFV6NUVfUDVZSTlrQWx0bS0wMllOLXpJcnVQOGc?oc=5
+
+### 15. Geely Auto shifts focus overseas with premium m... - Pluang
+- 摘要：Geely Auto shifts focus overseas with premium m...&nbsp;&nbsp;Pluang
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 07:49:52 GMT
+- URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZ0JSRC1ZUmVrREI3WEZldUMwLURsT1hoejF5STZZbHB2a21Qdk5HREVDaFJhZGRWRmlTUnJwbVZMNEZITTFRYS0wUjJMTjFZU1U5Y3BfcHVKNGxvbXItWEZZVXVUZElCYUgyNlk5Und6cVlCZlJ4Tmp0NlVpVUE?oc=5
 
 
 ## 地缘政治（20条）
 
-### 1. Iran, Oman agree on temporary Hormuz route: What we know
-- 摘要：Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 12:05:09 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss
+### 1. From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
+- 摘要：From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed&nbsp;&nbsp;The New York Times
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 08:14:52 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5
 
-### 2. Dead whale washes ashore on beach in Mexico
-- 摘要：A roughly 12-metre-long whale has been found dead on a beach in Tijuana, Mexico.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 12:04:22 +0000
-- URL：https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss
+### 2. Washington and British Columbia brace for US-Canada trade war impacts - KUOW
+- 摘要：Washington and British Columbia brace for US-Canada trade war impacts&nbsp;&nbsp;KUOW
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 01:08:00 GMT
+- URL：https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2p0Y1FONnJ6MnU2MlRLQmtkMldGM1dYbnZMcGZhNWVwWWNNbnN0Nm9LSzBnYThBV2p4MnB6U2JJQVlrRTI3bUtNSmIxc3cwSloyQVFfMlQ2X3JmbWNKU1RQSW01YTJUcFhvdTh5WHVlVThsbGV2NFNfdEVWZGRaZkdFdzVPdnp4VGdVWFl4bkotajZGdGxrNmNWaEstWXhMVWVUN2NucXVsWVlTMEpRdQ?oc=5
 
-### 3. Why India is sharing missile secrets with its private sector
-- 摘要：New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 11:32:35 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss
+### 3. Wisconsin businesses brace for impact as trade war with Canada heats up - WPR
+- 摘要：Wisconsin businesses brace for impact as trade war with Canada heats up&nbsp;&nbsp;WPR
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 21:51:51 GMT
+- URL：https://news.google.com/rss/articles/CBMib0FVX3lxTE5UY29RdTBXWGhSTjliamlheXdDckhRZU95U3V4bl9Mal9kUzhWU1lxdkU3R3Jucjd3OTdwMk80a2Z0cVJ4X2N3OGxwZExLc1dUY2JnNXJrQThoc3NyOEN0cUR2M0JIN1J3SzlZUjhqVQ?oc=5
 
-### 4. Mother and daughter detained by ICE in hospital after car crash
-- 摘要：Mother and daughter detained by ICE in hospital after car crash
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 11:25:08 +0000
-- URL：https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss
+### 4. ICYMI: On Trump’s Trade War with Canada, “Susan Collins Is Part of the Problem” - Maine Democratic Party
+- 摘要：ICYMI: On Trump’s Trade War with Canada, “Susan Collins Is Part of the Problem”&nbsp;&nbsp;Maine Democratic Party
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 21:44:11 GMT
+- URL：https://news.google.com/rss/articles/CBMingFBVV95cUxPeDVoemNUbEptVE53cXBWSG1BV2xuRlVBRmUzUlZKSEhOb2Jqb3J4al9zbHJwQTFpaFVJYUFrQmhDd1ltUTNhSk5GZ2hIaTVETGVWS0tMWkRIa01BUElmMHlQeEk5R0tfN1p2Um9YeW91clJPWF9vMU5SZWI2X1ZMZVFOUDNVSXVOQTNBUjFLYXA1WWdINlpheDFBOV9pUQ?oc=5
 
-### 5. Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle
-- 摘要：About 20,000 participants hurled 165 tonnes of tomatoes in Bunol&#039;s streets during Spain&#039;s famed La Tomatina festival.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 11:24:34 +0000
-- URL：https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss
+### 5. Mouthing Off | Why is the US-Canada trade war seemingly hinging on drinking games? - South China Morning Post
+- 摘要：Mouthing Off | Why is the US-Canada trade war seemingly hinging on drinking games?&nbsp;&nbsp;South China Morning Post
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 04:15:04 GMT
+- URL：https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWI0Wmo0UEluWm1aWkp6Sm5iZHo2cF9rcnB4Z1p4VUt4dnBoUnltWC15bmhsMkFIR3BUMEJOQTFWOFRRTDBVUHIyTHhaTnZJckNIZmRRRWhMVjZDSFdrTmFTV3R1b0JvZlNYaW9ad3BkeUVMVVZqVm5qaEZNZG9aVklmbjVRNFFLcmYyVF9SMmxndEk1Y1ZuNlRZSzBzRUJQUE16WU5ldFkwNU5mSi1Bem4xc3fSAbQBQVVfeXFMUFUyRVhISlN5VW9IME1CRVptUmw0Ql9EUllTRjJLcjV6NjJVQXVQbEJPeS1pb0VqejREbmhwNVN1ekV4UUhxczNpd29jTVgtajNoTU5GdlRObV9BS09WcDZtQm5DLVVyLTBqYnZ5Zk8zTTVoem11WHlhMGhjSHhIY1UzMzYwSmR1VVNvYVozZWVwTk9EZTd6M2F6a1psb1JqVnB0SG9fZmJuOGhXb0p3bURmX3Rz?oc=5
 
-### 6. Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille
-- 摘要：Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 11:06:28 +0000
-- URL：https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss
+### 6. LVCVA’s Canadian trip eclipsed by trade war - KLAS 8 News Now
+- 摘要：LVCVA’s Canadian trip eclipsed by trade war&nbsp;&nbsp;KLAS 8 News Now
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 02:30:21 GMT
+- URL：https://news.google.com/rss/articles/CBMifkFVX3lxTE8wa2ViR09PcmM2QldrMENpQzZRT05JMEcyVURoSF9peGtQWkwxenh0alZtODhJWHdFMmpBa0JGcHpjUHBKTGtoQThGYXExamJwLXNSUTZ0dXZjemdVSElpZ2R2N09Namo4TnJoUlNjSE9hNE1yd0VFclJSR1oyUdIBgwFBVV95cUxQWEVNbHNzUXgtaG5qU1dmMUlnYzAzeDlJNk5JTlBLdEphXzZoX3JudmN5dVE1bXlscUVicDRPRzVLZEtJSkl5M0F2QlY1dWxpUC1odFhZeTBUWWYyTEs0dEpvREFoSXB3N2gydFlYaGh2Tk5mcW11NzhxZ2FoOG9ybDd4SQ?oc=5
 
-### 7. Infantino has no future at FIFA, says European Leagues chief
-- 摘要：Claudius Schaefer insists the influence of the FIFA president has &#039;grown from year to year&#039;.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 10:42:01 +0000
-- URL：https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss
+### 7. PolitiFact: How Trump reignited a trade war with Canada that could affect North Carolina - WRAL
+- 摘要：PolitiFact: How Trump reignited a trade war with Canada that could affect North Carolina&nbsp;&nbsp;WRAL
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 20:37:24 GMT
+- URL：https://news.google.com/rss/articles/CBMikwFBVV95cUxQekxLclMwdXNxYWVLcENiVVpJWE5WbmVNTUtlN1hsbkdKT0VCajNBR2tOaUlPSkVmTTFTbHFQY0dnTVB4VVBYb0NqRjdUdlNJeG5oZ2NrNk9IZFN0VFl3c1hCNUpnRF85bjgxZFZmWE1pZi02cUt3OTloZ0hpNW9ZZ2dkRXFrN05uRVVtQl9PVkFMOXc?oc=5
 
-### 8. China’s Xi to visit Kyrgyzstan, Egypt
-- 摘要：The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 10:29:46 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss
+### 8. The US and Canada could pull back from an all-out trade war. It’s not clear that they will - Sentinel Colorado
+- 摘要：The US and Canada could pull back from an all-out trade war. It’s not clear that they will&nbsp;&nbsp;Sentinel Colorado
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 20:10:17 GMT
+- URL：https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXk1cktlb3RIOUtkbmtrdDBXV0tKSldzdG11SmRpcUg1TjBQOVU3blpHalYyNm5LV1RDUGJwRU1nTy1xcWg2a1V4cjlrQ0hCTGhEYWN0Z1VDeTVZTUY3d3JlMnRkMTlpVVk4RHc3Z3pEN3JKNnA1c1NEN05ScjBPZU9NeFZlYW0xeDdwaGVna3RnU21Ta3A1RE5mUlpJRXBfaWVuWW5VN1ZRUU8xal9OMDNHUk9hOTdCNWtvd1BWRlVrU0Q4TDdVNm5PcG0?oc=5
 
-### 9. Is Japan trying to build bridges with China after Taiwan spat?
-- 摘要：Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 10:28:52 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss
+### 9. ‘One more kick in the mouth:’ Wisconsin dairy farmer braces for trade war impact - Spectrum News
+- 摘要：‘One more kick in the mouth:’ Wisconsin dairy farmer braces for trade war impact&nbsp;&nbsp;Spectrum News
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 21:08:00 GMT
+- URL：https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGx3LS1GaS1xS0NnR0FaMTJqeDdncDQyMkVfU3JGZHdTRXVFWXBJY1RNQlNTcVhtYXczR3ZjbUdlT21jREdFc1ctV0luQ00xNVhjZnBUc3dtZk1QaGZ4b0EwQXZkRjBjdkhWT3kxLUp6b3Y5cGotTFpyc1NTdGRmOWxaRkNib2VtLXFRN3BRSURBbzFXVV9oMXR2cw?oc=5
 
-### 10. One US dollar now costs 2 million rials in Iran, and here’s what it can buy
-- 摘要：Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 10:00:05 +0000
-- URL：https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss
+### 10. Canada targets steel, fish and hundreds of other goods as trade war escalates - WTIP
+- 摘要：Canada targets steel, fish and hundreds of other goods as trade war escalates&nbsp;&nbsp;WTIP
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 23:55:25 GMT
+- URL：https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2txWGhGZ0E2YllFZUEwWmdibVB1T1UwMUJXS043Tmx6YW1HWjRseVZmUnRYMTcxTVpQNDJYRlpuZkVhc3hCT0xNazdRMlV2X2pPaEVOOXJTZGIzN3prdFNkNl80elBrdXBoNWFld3ZJeUdxdlF3Q3YzelZwcXZpVHV2SWlESlV6aExTSndSc3hyVTN2S3NlVFV3?oc=5
 
-### 11. At least eight killed, hundreds missing after Nepal flash flood
-- 摘要：Across the border, Tibet reported &#039;major casualties&#039; with people missing in the neighbouring county of Gyirong.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 09:48:36 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss
+### 11. Alcohol became a flashpoint in the US-Canada trade war. Now both sides say they're losing. - Business Insider
+- 摘要：Alcohol became a flashpoint in the US-Canada trade war. Now both sides say they're losing.&nbsp;&nbsp;Business Insider
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 08:11:19 GMT
+- URL：https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDJ3ZzAzcTM0NVYzUG5uUHliM0M2cEc3TGMzd2ZqSmppbnkzQy15Mk1IUTFkcDJSTDF6RjZKMGlwS1RtR0I4Z3FzVFF4bUNmcHpPZjJySFkyd19ZZzFGRm50SFVUMmxyYmJwcnFTSVpGMWNxcU9ReXVqMzBGQTBYNjRiYlpVTWZIOHMta3JZREpPVjhfSzlOcldSTQ?oc=5
 
-### 12. Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign
-- 摘要：Attacks spark fires at Lukoil&#039;s NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 09:36:08 +0000
-- URL：https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss
+### 12. Surviving the Latest Trade War … With Canada - The Robin Report
+- 摘要：Surviving the Latest Trade War … With Canada&nbsp;&nbsp;The Robin Report
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 04:01:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiekFVX3lxTE1OcmRqQzBhQUhyUjBLQXpXWFM4TDB1Qml1d3pFc3VIZm5DbmJyVnFQcnRadlRXaV9JakF0SFNEWnZDdzdNeHJUU2phRVYxNGZDanppTlNzdVVmcWFhRnNQT2hoem9LUHRHMURfcVRCWXZ2d3cyOVdMeHl3?oc=5
 
-### 13. The Bulgarian village that fears becoming an Iranian target
-- 摘要：US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 09:20:33 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss
+### 13. Trump Trade War with Canada Pits the U.S. Against a Once-Staunch Ally - KQED
+- 摘要：Trump Trade War with Canada Pits the U.S. Against a Once-Staunch Ally&nbsp;&nbsp;KQED
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 21:02:53 GMT
+- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDdIcHBESnk1NkZScWRRSkFDT082V3A1bTUxcmQ1UWE1T2thOXJXekZMN2tCelhuYXN4emtQUGhUdVlfTG9HdXRFT1JUSlRVcDJkOHMyek9DalRmOTYwaFRIT1J1UGc1cVFJRGpQVUc4VU9oU3gwVGlPR3BqckstRU1zRG56dFJUeE0wVzFKV2ZqcDVpaDVIclQ5NkNZbmo0LWlsMXlsX2VYeXMxYlE?oc=5
 
-### 14. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
-- 摘要：Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 09:00:35 +0000
-- URL：https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss
+### 14. OPINION: The U.S.-Canada trade war is lose-lose for all thos... - The Lewiston Tribune
+- 摘要：OPINION: The U.S.-Canada trade war is lose-lose for all thos...&nbsp;&nbsp;The Lewiston Tribune
+- 信源：Google News（二级）
+- 日期：Thu, 27 Aug 2026 07:03:20 GMT
+- URL：https://news.google.com/rss/articles/CBMipAFBVV95cUxNX292Z0FBdkdFRzRTTmdlYmV2cWRuMjhzenRZQ1MtZXVQMzNGODBVZ3F1cHg0d3RQekszNkFtbjl0UXVOek4xU2lmV3YxWHdJd1UxQmJDMC1wTVRWN1V5ZTkzT0JvMHdWY0tQUEMyQW93Z2hCSWlzcjdVVkNBZ2JaX01vcE5vZzZlb0ZpZXk2TVlVTl9INTNUWEFpcjN4WFE4ZDFkTg?oc=5
 
-### 15. US immigration agents arrested more than 49,500 people in July
-- 摘要：The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.
-- 信源：Al Jazeera（二级）
-- 日期：Wed, 26 Aug 2026 08:55:23 +0000
-- URL：https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss
-
-
-## 消费与数码（18条）
-
-### 1. Before Splurging on a $500 Vitamix, Consider This Cheaper Model. It Works Just as Well
-- 摘要：If you’re in the market for a Vitamix blender, you don’t need to shell out $500 to get the best model.
-- 信源：CNET（二级）
-- 日期：2026-08-26T11:02:00Z
-- URL：https://www.cnet.com/home/kitchen-and-household/before-splurging-on-a-500-vitamix-consider-this-cheaper-model-it-works-just-as-well/
-
-### 2. Garmin’s Fenix 9 Pro Goes All In on Titanium and Off-Grid Connectivity
-- 摘要：A stronger build, more storage, and a battery life that just won’t quit. Here’s what a $1,000-plus sports watch will get you.
-- 信源：CNET（二级）
-- 日期：2026-08-26T10:27:53Z
-- URL：https://www.cnet.com/tech/mobile/garmins-fenix-9-pro-goes-all-in-on-titanium-and-off-grid-connectivity/
-
-### 3. Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family
-- 摘要：You can link your entire family together with Luffu’s new wearable and app ecosystem.
-- 信源：CNET（二级）
-- 日期：2026-08-25T23:37:11Z
-- URL：https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/
-
-### 4. WhatsApp Adds Security Measures to Help Prevent Accounts From Being Hacked
-- 摘要：The world’s most widely used messaging app adds stronger two-step verification and allows for more than one passkey.
-- 信源：CNET（二级）
-- 日期：2026-08-25T23:21:04Z
-- URL：https://www.cnet.com/tech/services-and-software/whatsapp-adds-security-measures-to-help-prevent-accounts-from-being-hacked/
-
-### 5. Witcher 3 Remastered Will Be Free in September With New Expansion Coming in 2027
-- 摘要：Geralt’s story wraps up with new enemies, a mysterious region and a send-off before Ciri takes the spotlight in The Witcher 4.
-- 信源：CNET（二级）
-- 日期：2026-08-25T22:44:48Z
-- URL：https://www.cnet.com/tech/witcher-3-remastered-will-be-free-in-september-with-new-expansion-coming-in-2027/
-
-### 6. Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games
-- 摘要：The idea of ownership is becoming a relic of an earlier era.
-- 信源：CNET（二级）
-- 日期：2026-08-25T22:14:36Z
-- URL：https://www.cnet.com/tech/gaming/sony-is-reminding-us-again-that-we-dont-own-our-playstation-games/
-
-### 7. Our Robot Pool Vacuum Tests Show Why Suction Power Matters Less Than You Think
-- 摘要：Suction isn’t everything. Smart navigation and efficiency are what really define a great robotic pool cleaner.
-- 信源：CNET（二级）
-- 日期：2026-08-25T11:30:00Z
-- URL：https://www.cnet.com/home/yard-and-outdoors/our-robot-pool-vacuum-tests-show-why-suction-power-matters-less-than-you-think/
-
-### 8. Apple Quietly Fixes iCloud Private Relay Vulnerability in iOS 26.6.1
-- 摘要：The problem could leak your device’s IP address, even when the paid iCloud Plus feature was enabled.
-- 信源：CNET（二级）
-- 日期：2026-08-25T18:24:05Z
-- URL：https://www.cnet.com/tech/services-and-software/apple-quietly-fixes-icloud-private-relay-vulnerability-in-ios-26-6-1/
-
-### 9. Add the AirPods 5, Beats 360 to Rumored Apple Headphones Coming Soon
-- 摘要：There’s been a lot of chatter about new AirPods Pro buds with tiny IR cameras, but don’t sleep on the AirPods 5 and new Beats over-ear headphones.
-- 信源：CNET（二级）
-- 日期：2026-08-25T17:46:59Z
-- URL：https://www.cnet.com/tech/mobile/airpods-5-beats-360-rumors-apple-headphones-sept-2026/
-
-### 10. These Cookies Are 3D-Printed and Made of Recycled Plastic
-- 摘要：Scientists have engineered yeast that converts waste plastic and plant biomass into vanilla-flavored, 3D-printable protein cookies.
-- 信源：CNET（二级）
-- 日期：2026-08-25T17:20:38Z
-- URL：https://www.cnet.com/science/cookies-from-recycled-plastic-siu-carbondale-research/
-
-### 11. Anthropic Unifies Memory Across Claude and Cowork
-- 摘要：You can also allow Claude to generate memory topics as you chat.
-- 信源：CNET（二级）
-- 日期：2026-08-25T17:18:30Z
-- URL：https://www.cnet.com/tech/services-and-software/anthropic-unifies-memory-across-claude-and-cowork/
-
-### 12. Americans Want to Know When Their Healthcare Providers Use AI
-- 摘要：AI chatbots are changing the healthcare landscape, but privacy and transparency remain critical concerns.
-- 信源：CNET（二级）
-- 日期：2026-08-24T20:25:00Z
-- URL：https://www.cnet.com/tech/services-and-software/americans-want-to-know-when-their-healthcare-providers-use-ai/
-
-### 13. New M6 Mac Mini and Mac Studio With M5 Ultra Promise Needed Boost for AI and Graphics
-- 摘要：At higher prices, naturally.
-- 信源：CNET（二级）
-- 日期：2026-08-25T13:00:00Z
-- URL：https://www.cnet.com/tech/computing/new-m6-mac-mini-and-mac-studio-with-m5-ultra-promise-needed-boost-for-ai-and-graphics/
-
-### 14. Uber’s New Safety Feature Lets Parents Watch Teens’ Rides Live
-- 摘要：Guardians can access a live video stream to see how a trip is going. The feature will roll out across the US in the coming weeks.
-- 信源：CNET（二级）
-- 日期：2026-08-25T13:00:00Z
-- URL：https://www.cnet.com/tech/services-and-software/uber-lets-parents-watch-live-video-teen-rides/
-
-### 15. CNET Finds 75% of US Adults Couldn’t Care Less About a Foldable iPhone
-- 摘要：Apple’s first foldable, the iPhone Ultra (or Fold), could cost over $2,000 according to analysts. But US adults aren’t willing to pay that much.
-- 信源：CNET（二级）
-- 日期：2026-08-25T12:00:00Z
-- URL：https://www.cnet.com/tech/mobile/foldable-phone-survey/
+### 15. Kansas City predicted to be among hardest hit by trade war with Canada - FOX4KC.com
+- 摘要：Kansas City predicted to be among hardest hit by trade war with Canada&nbsp;&nbsp;FOX4KC.com
+- 信源：Google News（二级）
+- 日期：Wed, 26 Aug 2026 23:13:50 GMT
+- URL：https://news.google.com/rss/articles/CBMimwFBVV95cUxONlA5eU4wVFpsZmIyME56RDdoVHZDNzJ1SEFTMm9GeDl2RDBfdGtHc2ZDSDJmSXRMQ2NuSWM3amhuOUtGd2hKN2czUy10dGhfRHpaM2VxQnpwLXo0RDZFUDZkam84bDBxWndvUmhRV09MLXQwT2tqQnRCM1Zkc3pYblB6d1gyb2FNQy1iODk0OWQ4RjhkREpEcmJuONIBoAFBVV95cUxQTENzS0M1SHNaREIxWHBGSk9ZeUxHVGJ5WThWOGhrbnJfRzVCN2Qtei1CV2RfUF9XTGpMUW1JU0QtNkxkR05IbUJFZ2lYdmtsUVBOY1JhNFdvVHJ6b1V6ekloeVB4YmVtMENpSldrZzB0ZmtZTUtQQlYzVDkyN0JPUkVoRmJxLWdwMlN5eHQwR0JWUEtGNXVpWW42N3k5QlM2?oc=5
 
 
 ## 民生与社会（20条）
 
-### 1. Mpox is back – and in new countries. How can this outbreak be contained?
-- 摘要：The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affectedA fr
-- 信源：Guardian（二级）
-- 日期：Wed, 26 Aug 2026 11:00:12 GMT
-- URL：https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children
+### 1. Rescue teams pull survivors from thick mud
+- 摘要：At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 06:02:03 GMT
+- URL：https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss
 
-### 2. Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food
-- 摘要：In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at cater
-- 信源：Guardian（二级）
-- 日期：Wed, 26 Aug 2026 09:00:39 GMT
-- URL：https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food
+### 2. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
+- 摘要：Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 00:12:22 GMT
+- URL：https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss
 
-### 3. Prince Harry quits board of wildlife charity after rangers’ human rights abuses
-- 摘要：Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ missionThe Duke of Sussex has stepped down from the b
-- 信源：Guardian（二级）
-- 日期：Mon, 24 Aug 2026 17:34:50 GMT
-- URL：https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses
+### 3. World's first patient to undergo live AI-assisted brain surgery has tumour removed
+- 摘要：Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.
+- 信源：BBC（二级）
+- 日期：Wed, 26 Aug 2026 23:07:22 GMT
+- URL：https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss
 
-### 4. Video shows hundreds held captive after Nigeria mosque kidnapping
-- 摘要：Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠reside
-- 信源：Guardian（二级）
-- 日期：Mon, 24 Aug 2026 14:19:14 GMT
-- URL：https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping
+### 4. Japanese polka dot artist Yayoi Kusama dies aged 97
+- 摘要：Her colourful creations drew large crowds and fetched some of the highest ever prices for a female artist.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 05:47:44 GMT
+- URL：https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss
 
-### 5. Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads
-- 摘要：West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox c
-- 信源：Guardian（二级）
-- 日期：Mon, 24 Aug 2026 10:11:34 GMT
-- URL：https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa
+### 5. Plug-in solar panels are coming to a shop near you - here's what to know
+- 摘要：The UK government claimes panels could help homes "significantly cut" energy bills.
+- 信源：BBC（二级）
+- 日期：Wed, 26 Aug 2026 23:06:41 GMT
+- URL：https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss
 
-### 6. Wiped out: US faces surging toilet paper prices amid trade war with Canada
-- 摘要：Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimatedAre you a Canadian boycotting US products? 
-- 信源：Guardian（二级）
-- 日期：Wed, 26 Aug 2026 10:00:41 GMT
-- URL：https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada
+### 6. Two dead and 10 hurt after car rams into crowd in northern France
+- 摘要：A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:07:34 GMT
+- URL：https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss
 
-### 7. Wife of US soldier deported after Trump rollback on military family protections
-- 摘要：Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0The wife of an active-duty US soldier 
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 20:23:55 GMT
-- URL：https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras
+### 7. Meta's $18bn settlement may hasten reckoning for social media on child safety
+- 摘要：Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.
+- 信源：BBC（二级）
+- 日期：Wed, 26 Aug 2026 23:04:24 GMT
+- URL：https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss
 
-### 8. At least 47 killed and dozens kidnapped in gang attack near Haiti capital
-- 摘要：Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight‘A massacre’: Haiti gangs carrying out mass killing
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 17:35:16 GMT
-- URL：https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti
+### 8. Burnham calls summit of Welsh, Scottish and Northern Irish first ministers
+- 摘要：The announcement was made ahead of Andy Burnham's first official visit to Wales since becoming prime minster.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 05:05:52 GMT
+- URL：https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss
 
-### 9. Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing
-- 摘要：US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 12:31:53 GMT
-- URL：https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan
+### 9. Thunderstorm warnings continue for parts of UK with more rain expected
+- 摘要：The Met Office has updated its yellow warnings for Thursday with the chance of flash flooding and travel disruption across England and Wales.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:27:32 GMT
+- URL：https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss
 
-### 10. Colombia’s new president Abelardo de la Espriella announces immigration crackdown
-- 摘要：Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermathColo
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 00:34:47 GMT
-- URL：https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella
+### 10. What we know so far
+- 摘要：Hundreds are feared to have died in flooding and landslides on the border of Nepal and Tibet.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:43:04 GMT
+- URL：https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss
 
-### 11. ‘Major casualties’ feared after flash floods along Nepal-Tibet border
-- 摘要：Floods and mudslide sweep away houses, roads, bridges and power projectsHundreds are missing and at least 22 people have died after torrential floods 
-- 信源：Guardian（二级）
-- 日期：Wed, 26 Aug 2026 10:45:44 GMT
-- URL：https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border
+### 11. Two teenagers, 13 and 14, among 33 UK nationals missing
+- 摘要：Police in Nepal say 826 people are missing, with over 529 tourists among them
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:13:51 GMT
+- URL：https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss
 
-### 12. Typhoon Narra: record flood waters submerge homes and force mass evacuations in China
-- 摘要：Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and TaiwanWidespread flooding tr
-- 信源：Guardian（二级）
-- 日期：Wed, 26 Aug 2026 01:46:25 GMT
-- URL：https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china
+### 12. Video shows scale of flash floods as they hit
+- 摘要：This video has been edited by the BBC with white flashes, due to the distressing content.
+- 信源：BBC（二级）
+- 日期：Wed, 26 Aug 2026 12:36:04 GMT
+- URL：https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss
 
-### 13. Taiwan charges nine people for smuggling ‘high-end’ AI servers to China
-- 摘要：Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalryTaiwanese prosecutors charged 
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 19:02:42 GMT
-- URL：https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers
+### 13. Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
+- 摘要：Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:47:12 GMT
+- URL：https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss
 
-### 14. China denounces US threat of sanctions over trade with Iran
-- 摘要：Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate TehranExplainer: could US sanctions thre
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 17:11:21 GMT
-- URL：https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil
+### 14. 'The flood took everything': Survivors describe horror
+- 摘要：One woman says her father, mother, sister and sister's children were carried away before her eyes.
+- 信源：BBC（二级）
+- 日期：Thu, 27 Aug 2026 07:09:52 GMT
+- URL：https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss
 
-### 15. Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’
-- 摘要：Gao Zhen sentenced to three years in prison after already spending two years in detentionGao Zhen, a prominent Chinese artist known for provocative sc
-- 信源：Guardian（二级）
-- 日期：Tue, 25 Aug 2026 11:53:58 GMT
-- URL：https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china
+### 15. 'They're just glad it's not too hot': Scottish Highlands benefits from 'coolcation' trend
+- 摘要：Scotland and other northern European nations are seeing more tourists as people avoid the heat.
+- 信源：BBC（二级）
+- 日期：Wed, 26 Aug 2026 23:08:06 GMT
+- URL：https://www.bbc.co.uk/news/articles/cd9wp3p4301o?at_medium=RSS&at_campaign=rss
 
 
 ## 政策与监管（20条）
 
-### 1. World braces as Trump's Canada tariff stand-off escalates - Reuters
-- 摘要：World braces as Trump's Canada tariff stand-off escalates&nbsp;&nbsp;Reuters
+### 1. From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times
+- 摘要：From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed&nbsp;&nbsp;The New York Times
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 23:30:30 GMT
-- URL：https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ?oc=5
+- 日期：Thu, 27 Aug 2026 08:14:52 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5
 
-### 2. Opinion | The Ludicrous Argument Behind Trump’s Tariffs - The New York Times
-- 摘要：Opinion | The Ludicrous Argument Behind Trump’s Tariffs&nbsp;&nbsp;The New York Times
+### 2. Why carmakers are staying quiet despite 'cataclysmic' Canada tariff threat - Politico
+- 摘要：Why carmakers are staying quiet despite 'cataclysmic' Canada tariff threat&nbsp;&nbsp;Politico
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 18:47:06 GMT
-- URL：https://news.google.com/rss/articles/CBMiggFBVV95cUxOTnhYNzlOTHdUaTV6Unlhcm85QzQxSEdvVGxmbGNnZnFRVzlkWnkyS3lGaUFsUmxGcVpsOHFDVDhwcW5vWDk3aHdyQ3JDV3Jhalk0ZlE2bzc0eWpZaGFzakFBMjJpeExBN2pXSzZvSmFWb0xxRTJWWHE3R1E1NS1Jdjd3?oc=5
+- 日期：Wed, 26 Aug 2026 22:40:00 GMT
+- URL：https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXl5NlIzdDZuYkl5TFZwQkFhbXlHdFJBNjVtYk5oRGJqSzE0aFRsWHhXbFFsRDBoWTdNdm8xZEtrSUV1dWN1WGlpRVdWQllydjRpZFJReS1IandEaUh0LWtHSDFxVlQ0d1ROX2dmUWtGYWhNdm9zMEdmNlEwb0JCaTRFdVgyUQ?oc=5
 
-### 3. Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian
-- 摘要：Wiped out: US faces surging toilet paper prices amid trade war with Canada&nbsp;&nbsp;The Guardian
+### 3. KKR settles US antitrust case accusing it of merger filing violations for $250 million - Reuters
+- 摘要：KKR settles US antitrust case accusing it of merger filing violations for $250 million&nbsp;&nbsp;Reuters
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 10:00:00 GMT
-- URL：https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5
+- 日期：Thu, 27 Aug 2026 01:44:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEFaV2ZTWV9UM0wxUWFkaDNpdG9iZU54ZkVYOWVCaV82ajY0WGFFQ01kaEV6Nm1qeUhiX194anZTcWpLczRhS0x6V2Zpb1hvUUNoWHg2SnpzSGdLbGlUTE82dk5KQ1Zvbzd1NHZBWDlVU295bHZwU3NPQlRNSURDNVpCUjdOd0wwWU9ISTFfamxfN0w3cEJ5V1NLSEtJMEFlWGlGeUtqNFB0X2tWdU1ub0huUTVWUXdrOU9FakdJSlFkU1FFbm5jUkotRQ?oc=5
 
-### 4. The tariff war is colliding with Amazon's plan for growth in Canada - Business Insider
-- 摘要：The tariff war is colliding with Amazon's plan for growth in Canada&nbsp;&nbsp;Business Insider
+### 4. Toilet Paper, Cheese and Furniture: The Products Hit By Canada’s New Tariffs - U.S. News & World Report
+- 摘要：Toilet Paper, Cheese and Furniture: The Products Hit By Canada’s New Tariffs&nbsp;&nbsp;U.S. News & World Report
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 09:00:00 GMT
-- URL：https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVYyMGIzYkdLQ3A0b0pYWlRPNWpaVGo3OGZoVkR4Z2NuelE1ZkJBUVhjVkJzT0t1YXp1SF9tajJ6Nk9lRW9mcDJWdExoZXB5SEJpd3lXNXlrVUJrN0Rpc1Y1WmNPaEZTWmtDOVhnaHpJNnExRVc0eWNVMWVpUzd1VktPWlVvaElw?oc=5
+- 日期：Wed, 26 Aug 2026 21:19:36 GMT
+- URL：https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVVYdG03RU5QTmVuUHVQMWo2Z09ia05kb2hLVlVJRzg0WTduU1ZxQ3NOMXJyYW0wY2VlR0RWalY0ejFRa0tEZldEZmY3VjdmWlE1dVFFLVZ4Q01RbDRkc2k4RnNxdUhMU2hWWUhQZ0psZFdhSlZmcmpBdFF1WGZvdGhKTjNIVi1UVUlvdXBHMVhmbzZXQ0VqUlZQTF9MUjhBTE1aWXBpRWpISDdrRUJCQ21ZYW9Jc2l4b0ExcQ?oc=5
 
-### 5. Canada's tariff response could impact New York businesses, tourism - ABC7 New York
-- 摘要：Canada's tariff response could impact New York businesses, tourism&nbsp;&nbsp;ABC7 New York
+### 5. Kansas ranchers respond to Trump’s beef tariff pause - KWCH
+- 摘要：Kansas ranchers respond to Trump’s beef tariff pause&nbsp;&nbsp;KWCH
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 21:57:14 GMT
-- URL：https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUVFc2xXVDR3T0loZUMwX3RCMXZCUFQ0cHgwci02VW1Fel9zX21HaF85cmJrcE45WV9XUVo0SzFtd29idkhVNVd5ZTBIUXB3aWR2QmtkNmpzdDc1Znh3dEo1Uk9taVBjdEV3WkRFclk4YkZRYzA3eE04b1I4akVKWmJzdTJHX0ROVXMxUVFxTnlQa21LTVJMZ0w5VTBva03SAaQBQVVfeXFMTTcxTGd4VHlocnhsRktzUG9TZWl6cnF2bkpyc0NiZEJ2dklVSmU1b05QUElTekdaWDJjTjlmeThSMUlSNFVXRXIxSmtzcWpreDlEWHFOREJROFhDXzJYZThTV1JBSFJUXzduQV9PN1J6X3NkaUdDS2tQdzVXZms5SUZkMWlUci1KT3RFWU5Ha1Rnam5mazJYNTlydXFDUktFWVo1Ty0?oc=5
+- 日期：Thu, 27 Aug 2026 05:49:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREtLdEdxTDBqaHNKUVBWNURVdHJZTUpPaEdmRk9ZbDljWm83ZVItaTE2d0JFdVo1QW14SUZiclRpdHJTM2ktWHNadmtKRnlmbEJPRjE1TGhTX1I2b1RNT18tcVhEOXVteE85VVNVdUUybng5VkdtTmFPY0cyaExubjR0YklzejFW0gGcAUFVX3lxTFBxSmZ3MG45MTBNcGstZGhFWFJ2M0hseEtJYmRwcjE0ZUw2SkxBSTh0dmZLT0k1OXl3WkcwdkIxN2J3YVBJM0gyMFZvVVlEdEsxOE9pNGxJV0N4b0pKQTFoSEVIMDBFQUVyNWN2bnNvOERxWmRncjJObGNUMXNid1VQMHFITWl2R2NrZnhPZjM1ckZPdEpDeTJJSVlBcQ?oc=5
 
-### 6. Trump Latest: A tariff fight with our neighbor to the north - WKMG
-- 摘要：Trump Latest: A tariff fight with our neighbor to the north&nbsp;&nbsp;WKMG
+### 6. Canada’s tariff on American lobster has Maine industry officials concerned - WABI
+- 摘要：Canada’s tariff on American lobster has Maine industry officials concerned&nbsp;&nbsp;WABI
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 09:56:25 GMT
-- URL：https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9ZSk5TNmJqQ2hDRU5vTGtZUEJ6anFRVkdCa0YxcDdUSUZwWVVBRzZpQjVkR1lTM2UwODREbVVuRjUzVGJvSG9aS3oxckVVeW5Wb09hcGhIM1lvSFNQUVliYWtzb1NscnBVSGZjbHBjZnhnRWpuVjBJbTZoNENNSHlPcXVaazktZEFYTWRsdU5yRVE1YzFyWFdycEd2cXFzXzJDb1FkcGZVVVh2Y05B?oc=5
+- 日期：Wed, 26 Aug 2026 23:06:00 GMT
+- URL：https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0RNZDRUUHFOM05zTkhURkNScGtndnA0dFBITzM5S0huV04wNVQyNWw1Z3ZHbGhXM3VXT1EzTUZRTWRyS25SRzI3eHg5ZjFSMmd1LTV5UkNzWF90NEVjQ1hDY3RNV0lBbXBwTzE4TVdyd0V3Wmh4clpFZ3lxWmRtSm52TjJERklzQkNoUi1Qa1FfSUdSUzY3clVhTUF6ZHpkaDZ2edIBuAFBVV95cUxPOGFqWVpNcjZtY2JMWWlqR01USmJVLVNyMXphZ094OVdLYVFPb0hGRFEwQzhUeHJpaHk2alFuNlU3aFJaNlJoY0cxUlgwUVQxeDk2eThtODEzZl85bFptdEhwanRJNEtBdU4wYjFQRE1oTm1aV3pKaEN2dy1ySkpmd3hWd0plemFuMUFXUFI1ZFJBWjB3UU12N0loakg5dTBvUGR2ZUNhN0hzZjB5R0NfUEtCbFNVX21m?oc=5
 
-### 7. News | Tariff-driven supply chain shifts may reshape Western Canada's industrial markets - CoStar
-- 摘要：News | Tariff-driven supply chain shifts may reshape Western Canada's industrial markets&nbsp;&nbsp;CoStar
+### 7. Bitcoin’s macro case is strengthening even as regulation takes a back seat, says BlackRock’s digital assets head - CNBC
+- 摘要：Bitcoin’s macro case is strengthening even as regulation takes a back seat, says BlackRock’s digital assets head&nbsp;&nbsp;CNBC
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 11:55:06 GMT
-- URL：https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0x2NEUydEhTY1k0aEpxdlc3UlBoYzNVRzZOeVZKYTh6U1FYZ3kwN0xmaExiV3kxSnlwWHVoSThaYl9nOU15TDRPMWVpR2kzWHpyZzZvcGd6aXNoSEkwRlV6UlVnbDJQaUNHZjJzb0pVZmVydWQwWXZFbXFMZUowb0VMZGU4cjFsOEVPU2lCVlVKLWV4SWllWVVUVURKeHpLRWg2QnpxN2c3aUdPUkh4aWphWjFHQ3dUM2dwWkNoMA?oc=5
+- 日期：Wed, 26 Aug 2026 20:08:04 GMT
+- URL：https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjhDcTNWS24zQ0dEVTZQZVV0UUJUVDhRTGpZZGQ3MXFqSjEzUXdyYm1kMXdyTlMzbmFBNXV4U1BKQzJDQUlCN1FGUWxyZE5JdEQ5SW1mMzlFSWl6aEltNGRVdnY0c0xpUkR3bnl6ODNwbW01cXU0QnZLc1MzOE5lTktJbjlLQ2dpLTBrZDZ3cDJwNmNNV1FrTDlXSC10Ri1leFVmZ1dWWkpET00?oc=5
 
-### 8. After lawsuit, Kentucky updates rule to match voter registration with out-of-state records - Kentucky Lantern
-- 摘要：After lawsuit, Kentucky updates rule to match voter registration with out-of-state records&nbsp;&nbsp;Kentucky Lantern
+### 8. Primate-specific regulation of the human glycosphingolipid gatekeeper UGCG - Nature
+- 摘要：Primate-specific regulation of the human glycosphingolipid gatekeeper UGCG&nbsp;&nbsp;Nature
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 09:51:42 GMT
-- URL：https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkVEcTNSb3ZZRVowaXFNS0pFd3R0VDZiazVXSkdhdFJpVUg1QVJ1N3gweFZaX3FBTzdUdFlOcEVGck9oSlFrZjdpdjB0cEIyQ2tPbEs3QTRWMFVLQi1NejliX1E1UlpvdGxlV05FenY5QWZkMDVYTVdqaTZwRmVuUTZFdGZaNV8wN0FoWnEwTW5Sdjd5S2RjZ214MHBwMjRHemlhY2tRd0ZuWUdEaHJfVURVcGk3bHduVnc5LUhyeUNUOTZrNDdYaA?oc=5
+- 日期：Wed, 26 Aug 2026 18:57:02 GMT
+- URL：https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXY1gzOTNWRG1CSnNaZXlrejExQzlMM1ZUTGpnNElLSEN4M0dCSTc2Z1VhOVBhNTIteENfMDMtMG9qVlZHeXVPYzk4c2tZRFdIRTkxcC1yU0xTT0tpM2dj?oc=5
 
-### 9. Regulation lags rising private credit risks as retail access widens - InvestmentNews
-- 摘要：Regulation lags rising private credit risks as retail access widens&nbsp;&nbsp;InvestmentNews
+### 9. Michigan business leaders make adjustments amid trade war - FOX 2 Detroit
+- 摘要：Michigan business leaders make adjustments amid trade war&nbsp;&nbsp;FOX 2 Detroit
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 10:39:15 GMT
-- URL：https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEFnYUVmOXhLVURyU2IzbnU0Qkk4Z1NwS29GVGRzTHBhbEhfNGtUN0tyNWlTTnJSSW9vNUYzaEk2YUdJMC1tcERRNGw0a0w3MzJGYklnTUtCZkZtUkw1VW5qSkExMDFlTHlMbzV3aFNSYzRMY3B2cG00SmE5dnF3YnJJSzVBSjlXUnhVd0R1cmxXcnBFTFpnTUcyekd3czNYQlEzdjZVYllSdkhlVlpWTFZQMnRIZHU5aEE?oc=5
+- 日期：Thu, 27 Aug 2026 01:53:09 GMT
+- URL：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ044cVhFcHNaajNSRUUtZ0p5ZHBJT1JpUkRiMTBLS0FidzQyamhkSi1pR3JwU05PM1JHczBtVmY2OV9tYTdwU3VudEx2YkhEU0l6bGZIRnBkTHhDOVhNc1lRX2ZtYWpkZjFjamlmNVEwSGwyd0RSMGFHT0JwSW1HRkt0QjdaMTNvUGtsZ2NGM0p5aktfaFpjLXBTQy1md1hESW5NbzFNdHV1b25ndGZ2NFhtR2tYY1N0Z3ltUHpGOFAzQ0HSAcgBQVVfeXFMTi1pWFE3YTQ4Q1FUOXpBcWxzU254eEIyejBtRUxKRURxeDdDdzdaeHEtaEp3TExKbllSczVHcHM5OURiWjM5NHBtc0pDY2Z3bVc4amlkZU4wcUNIYnNqazJaV3pmbjMxWFhrZnpQTHZZc1cxd3lqbm0xeEsyYkJJVDYwWXdONUhJSzg4dW5DNzBKWi1zM0d2cmZNVk1kSkhRTmE0YkpUd1JhWjNQSHZIWXhnZ2sxQ1c4TEhIT0Roc2VRTnhwMlBDNUE?oc=5
 
-### 10. Kohl’s Profit, Sales Fall Despite Tariff Refund Boost - WSJ
-- 摘要：Kohl’s Profit, Sales Fall Despite Tariff Refund Boost&nbsp;&nbsp;WSJ
+### 10. Kansas ranchers say Trump beef tariff plan could hurt local producers - WIBW
+- 摘要：Kansas ranchers say Trump beef tariff plan could hurt local producers&nbsp;&nbsp;WIBW
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 11:49:00 GMT
-- URL：https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1luZ1lLLXFrNHotSFB3U2dNeGhwUWpJUHRMOWlHbVZZOWFndlFxX0tTeHlNLXJMMmhWWVR4WUhtYlF3V1l5STlJaFl3QmZ2dTNBSUptS1hGVG9Sc013N29RbWF4NFBjOXFxSTBxTkE1SGpESVdJLS02RVQtSGJLOXJnVFYtSVdkUFlXTUd2bVUyM3pnZF9iQ2x2R2tlRXc?oc=5
+- 日期：Wed, 26 Aug 2026 23:37:00 GMT
+- URL：https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkZacDl1NGIydWU5WXRaVVZNWXBjVHlQVHJsd1RNc3lheUoxQzI1WTdtcVk0bGJqeFJLbzZWSU1BQWFDREZCTXVKaWdFakRrU2xuSkd0djN3YVFTTlZZQk9xblZTTGRyTFBRdUlfNld6eWJJQ0lfaklsdkFyYndiVl9kVXNTS0VINE1ZWWtUeDIwSkZORFpkZFlMNDE0NkdmdVo3QtIBuAFBVV95cUxNekwxTXE0VlVqdEVMS3RiWDdNV1Q5QmZRZnNrbTY4MUFKckFMT01xYVF0UWtvV3M0YWVaQjRQQ0E5MDFrR2x6c2lTYUo0NXM3aXkzUVdpUkV3alFxa2NxVE1nYzlMMU5tdFR6X2stanQ5d0x1UmxGTXFuMURVLTBZRkE1VUw2ZzdaYk9ORWdOMTlDZG1jbUtGekhzSzNKN3B6RGtkT2gwc1FwZFpSRnJWdDlKRTM3aEx0?oc=5
 
-### 11. Canada’s trade minister: ‘We’re not waiting by the phone’ as tariff war escalates - NBC News
-- 摘要：Canada’s trade minister: ‘We’re not waiting by the phone’ as tariff war escalates&nbsp;&nbsp;NBC News
+### 11. Plant City burger owner weighs impact of beef tariff pause - Bay News 9
+- 摘要：Plant City burger owner weighs impact of beef tariff pause&nbsp;&nbsp;Bay News 9
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 22:11:44 GMT
-- URL：https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEpUN3c3cDhnNmNlOG5jMENPTUowR0FKaGVWdkZHeDJ4QnJ0Vm5OSmY3Zmtqb1I1cms0cHpwak5PS2g1UXFTYUlMOXJfakZJTDgwSFFPV08yVl9WNk52REIzUG9jZ0dVckNqVlV0NjhjN1lFbHl3MmVCWXQxaGk2dkx4SjVCVF8wNm9EZnU5bXZyS3E0Z3JfNmhUeDlnTmdNY0FPVVQxRVNpX3JtRVlYX0didlBIQWU0dElDZl9uNlpmRWN1dzRQcjQwSjRiWHN4aFE?oc=5
+- 日期：Wed, 26 Aug 2026 20:59:00 GMT
+- URL：https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1RZVXJ1TTloQ25xZjB5aGQzcHh5dGlIRmdRNmhNVVZVdUVqVDVpaUVIa3lzTVZBV3NoeXFQNldDY0NpSFpZcl9fSHBQR0N6X1JqQm0yeUtMeTM5QzlzaTBnYTd1c01WdlZacjR4QlZtQkRDUWtac1hSNzBoc2lUSGNQNVI3ZzBaM3JkdDYwS2s5VWtBUnJDWWNQMnNLazdxUmk1WTdFdw?oc=5
 
-### 12. Gov. Spanberger asks Trump Administration to reconsider tariff-free beef imports - Cville Right Now
-- 摘要：Gov. Spanberger asks Trump Administration to reconsider tariff-free beef imports&nbsp;&nbsp;Cville Right Now
+### 12. Paramount-WBD Antitrust Suit Heads To Supreme Court In Red State Vs. Blue State Showdown Over $111B Merger - Deadline
+- 摘要：Paramount-WBD Antitrust Suit Heads To Supreme Court In Red State Vs. Blue State Showdown Over $111B Merger&nbsp;&nbsp;Deadline
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 10:37:03 GMT
-- URL：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVg3Y1NUWkhlUk53alZqUDRSM1QxQ01CeVNjTlNWdHBObU9HcUFlMnFQTzdkejg2MnhMSktTVFRJd1ZsNVFqSVh0LXdiTVZSTm50WHp4U0lUanVYdmVSMXBTSTVRdHpHZXZhOXA3M0M2ckpCT2J5RF94eVNKbXpfb1A5Mkc0bHQ1T29oWTMwWC1PN1NjeVFyTkdKb0hUamtpUEJtMDVJb2FuSnhhMHhBYnZiRHludWR5NXpv?oc=5
+- 日期：Wed, 26 Aug 2026 15:03:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0xFcjRnSmQzb3EyazNob0dETEQyT21tYmVIR2JteFp4M1owNEFNWFVkUlpYSF91WkkybFUyVDg2c1AxUkRPOVVJMW1oX2VENmpEcF95eENnSkVzYnllT0VxdzhhWXdlUjloc2hyUFZMLXEzU3MxU0Z5NGRsR0tSb0lWTW81eTBvRnJV?oc=5
 
-### 13. DOJ Signals Increased Antitrust Scrutiny of Algorithmic Pricing in Willow Bridge Decision - Crowell & Moring LLP
-- 摘要：DOJ Signals Increased Antitrust Scrutiny of Algorithmic Pricing in Willow Bridge Decision&nbsp;&nbsp;Crowell & Moring LLP
+### 13. Focus at Four: Texas ranching advocate warns Trump’s beef tariff pause is a ‘short-term’ solution - KBTX News 3
+- 摘要：Focus at Four: Texas ranching advocate warns Trump’s beef tariff pause is a ‘short-term’ solution&nbsp;&nbsp;KBTX News 3
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 20:40:55 GMT
-- URL：https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWVGMUY0MGo5R09Nc3ZqenhQOTRfZEEwVkEwNGdhYUVnREF2UUk2Ykllc2d3VG5palFVVFVCeEtYb0ozdXRrek9sNGkyc0ZqSFJYMnBWQ2JvcW5Kek95MlNqbVBQUThObTlVRDFHUm80dV85ajBNRmRyM1dnRWk4Nk9nN0JDaFJBZ3hYcENNd1BZOEJLaXlndTVQUXV6b1l5eFJ5Q05fUk5HMlVBUnlYZWE3SkVyc0hBakpqNkNlU0l0UDNtYXlxLTJxekMwRUVuSXpweVNB?oc=5
+- 日期：Wed, 26 Aug 2026 23:13:00 GMT
+- URL：https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVhKc3FXazF2NHdpX3EtUHRLRDAtSV8wX1AtZnFaQ2JtLXJtVFFHZHpaUTNwRG1nVi1kOGx5X0FuUmVEdF9rWFQ3VS1aMVF5dG40OU1YOGNCS04tdGhOeGdHWFU4SjhfNFdIWUQtd0dEOFI1VnRxVHMxNzRoSTBGYzY3Wl9jQklzMWxsZERyWjRzT2NlN25LYnU2MVE3bWloOHNFaFVBdWEzNnNwX1p1Z1dEWXJFNXR2c3RUbk1n0gHSAUFVX3lxTE1OSDB0X1dKS3ZqVWc1czJ4S1pzOW10OTJuM1pLR2tXYkdYdE84OWd1X2ZXbGtjVUJmQjI4eEhwYTJmOHV3cU1qdHFuV3RGUHItNm9GX0hVVDZmNU5tYU1qU0U4aGZRZVB2WU4yQlZaZXVWWms4aWE0TDJrZWcyLVBySVBoR0MtMGc3bWpEaFhfaWpCLUhKbDA3T0FyRmFYT3c4T0t1MGQ2M0tPUTE3RE5lNjVfZGFJTnBvblFENjJlR2tpdzdkMWVQLXE3all0ZkdIZw?oc=5
 
-### 14. Beef tariff pause sparks market volatility warnings from Illinois producers - Jacksonville Journal-Courier
-- 摘要：Beef tariff pause sparks market volatility warnings from Illinois producers&nbsp;&nbsp;Jacksonville Journal-Courier
+### 14. Portland video game company surprises customers with tariff refund - OregonLive.com
+- 摘要：Portland video game company surprises customers with tariff refund&nbsp;&nbsp;OregonLive.com
 - 信源：Google News（二级）
-- 日期：Wed, 26 Aug 2026 09:42:34 GMT
-- URL：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlhxdEVCWG5uUVdCS3pCc2JlN3JDaUx5d3JGeWlrMElmRWFhTjh0Z1BsOFlsUUI3dHg3STdtUHRKbS1kWEdndnUtQ2tncV9DTGpHN3JTWDNZSzhBaFF2MlhFRmplYklMTmd6NjQ0OFhsRzhzZkpBLTFMUmtZTWRwSzBmTU9oSU1udkdMaGh5S2kya0VhZl91M3NsbW1PR2JGUGltZlNoMzFZVlk?oc=5
+- 日期：Wed, 26 Aug 2026 22:53:00 GMT
+- URL：https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFwa014ZXBIUk9vLTc3RkZyU1U5MVpLZzNHYldzaENlV1h5T3VUSUw0ZWh5TlNsUUwxeVJRb0cxb1Z3Q3BhU1JQVHF4SF9KSjFtVHN3ak5mWF82NXgtZUs3dnd0RndiYktKNzlvcTdGOG5HUGMwSHQ0ckpPVzN6RFBPYXkxWHpwNEJfVlVObVVubEN0eXhIck5RcmQzNm9reEVSUDVWUk0zZDM0ajNhMGZvNGhrX25wTHI4d1lR?oc=5
 
-### 15. Winston-Salem Food Bank Receives nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case - NCDOJ (.gov)
-- 摘要：Winston-Salem Food Bank Receives nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case&nbsp;&nbsp;NCDOJ (.gov
+### 15. California Farmers Urge USMCA Renewal and Canadian Tariff Exemptions - AG INFORMATION NETWORK OF THE WEST
+- 摘要：California Farmers Urge USMCA Renewal and Canadian Tariff Exemptions&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST
 - 信源：Google News（二级）
-- 日期：Tue, 25 Aug 2026 19:31:25 GMT
-- URL：https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0ZQVkpXczVPclFYNEFfVUJqbmNPMmhxdkxuYlAwckllU0hSZGJwTnRIMHRQVUx3OXBLTUJna1BNbzRaMFBLT0QtS1dnV3V0a09WMVBpYzgtWEx5YWtFQllLQlNIcFNwek1zQkZFSi1jRHBRaEpubk4zeWl4OVFPb2hBVEgxblZMSnd5UnFoN2xQWjhlQThPUmN3MHROb2otLWZITWpKR3FzWE4zSHpRX0FPSlRCVFZjODM1RlR2Z01OMnczRUgxdTRkcnA0SDktNzkxSkJGU3NCWVBH?oc=5
+- 日期：Thu, 27 Aug 2026 07:01:31 GMT
+- URL：https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjN3TFh5eE9KTVV3YnMtVnJzMEpLVm8zUVhyUExsek5FTXlmTEl4bDY4OWFDU2UxR19NY0xzV2lxQWFqWVhOUXFUd2tyZnE0ZGZvMlJJNkF1eE9wX2hIUXZ1S29meTRTNVRGN2NGcC0yS3ozazJLelpDWl9jQjhvbG5ESTk0bENhUjR1YWYzVWFVcDVLdlBRQ2lqX2tqUnVqdWZkZ1ktWGMwZmdwQ09KYzBRcXBSOVg3OXlqV0R6akZrTnQyT2xN?oc=5
 
 
 ## 信源采集日志
 
 | # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
 |---|------|------|------|----------|----------|----------|
-| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-08-26 20:49 |
-| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-08-26 20:49 |
-| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-08-26 20:49 |
-| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-08-26 20:49 |
-| 5 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-08-26 20:49 |
-| 6 | CNET | 二级 | 消费与数码 | RSS自动 | 18条 | 2026-08-26 20:49 |
-| 7 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-08-26 20:49 |
-| 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-08-26 20:49 |
+| 1 | TechCrunch | 二级 | 科技与AI | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 2 | WIRED | 二级 | 科技与AI | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 5 | Google News | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 6 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-08-27 16:16 |
+| 7 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-08-27 16:16 |

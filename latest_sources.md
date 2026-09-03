@@ -575,3 +575,489 @@
 | 5 | Google News | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-09-03 11:36 |
 | 6 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-09-03 11:36 |
 | 7 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-09-03 11:36 |
+
+---
+
+# 信源缓存（云端自动采集 · 2026-09-03 23:51）
+
+> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
+> 采集时段：evening
+> 有效期：7天
+> 总条目：100条
+
+
+## 科技与AI（20条）
+
+### 1. The best tech and gadgets announced at IFA so far
+- 摘要：The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin
+- 信源：The Verge（二级）
+- 日期：2026-09-03T11:37:59-04:00
+- URL：https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones
+
+### 2. ChatGPT, Grok, and Claude all went down at the same time
+- 摘要：OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for user
+- 信源：The Verge（二级）
+- 日期：2026-09-03T11:35:14-04:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down
+
+### 3. Google says its AI weather model is getting better
+- 摘要：Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In th
+- 信源：The Verge（二级）
+- 日期：2026-09-03T11:00:00-04:00
+- URL：https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update
+
+### 4. Dyson’s new straightener has liquid cooling pipes to reduce hair damage
+- 摘要：After expanding its health and beauty lineup earlier this week with a camera-equipped electric toothbrush, Dyson is also introducing two new hair care
+- 信源：The Verge（二级）
+- 日期：2026-09-03T11:00:00-04:00
+- URL：https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling
+
+### 5. Hohem’s tiny steadycam has a removable action cam
+- 摘要：Hohem is trying something new with its Eyepic handheld stabilized camera to differentiate it from existing offerings from companies like DJI and Insta
+- 信源：The Verge（二级）
+- 日期：2026-09-03T10:00:00-04:00
+- URL：https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam
+
+### 6. How Sonos rebooted itself
+- 摘要：Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer of Pandora
+- 信源：The Verge（二级）
+- 日期：2026-09-03T10:00:00-04:00
+- URL：https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign
+
+### 7. SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it
+- 摘要：SwitchBot has launched a new retrofit smart lock that gives owners multiple ways to enter European homes without a traditional key. Announced at IFA t
+- 信源：The Verge（二级）
+- 日期：2026-09-03T10:00:00-04:00
+- URL：https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch
+
+### 8. DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy
+- 摘要：DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and ot
+- 信源：The Verge（二级）
+- 日期：2026-09-03T09:06:10-04:00
+- URL：https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa
+
+### 9. Nvidia is buying Hugging Face for almost $13 billion
+- 摘要：Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and 
+- 信源：The Verge（二级）
+- 日期：2026-09-03T08:12:06-04:00
+- URL：https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal
+
+### 10. TCL’s new Nxtpaper phone offers both e-reader and OLED
+- 摘要：With the P80 Ultra, TCL's E Ink-esque Nxtpaper phones are finally going OLED. Just like previous LCD models, the phone can switch to a low power, mono
+- 信源：The Verge（二级）
+- 日期：2026-09-03T08:00:00-04:00
+- URL：https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled
+
+### 11. The Download: rethinking child safety and fossil-fueled farming
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 03 Sep 2026 12:10:00 +0000
+- URL：https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/
+
+### 12. Agriculture relies on fossil fuels. It’s costing us.
+- 摘要：If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farm
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 03 Sep 2026 10:00:00 +0000
+- URL：https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/
+
+### 13. Scaling agentic AI pilots across the enterprise
+- 摘要：As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the syst
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 03 Sep 2026 09:30:32 +0000
+- URL：https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/
+
+### 14. Facilitating AI integration with simplicity at scale
+- 摘要：As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe
+- 信源：MIT Tech Review（二级）
+- 日期：Wed, 02 Sep 2026 14:00:00 +0000
+- URL：https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/
+
+### 15. The Download: AI puzzles and a path to our nearest star system
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Wed, 02 Sep 2026 12:10:00 +0000
+- URL：https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/
+
+
+## 金融市场（20条）
+
+### 1. Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC
+- 摘要：Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will "expand access to AI for developers and institutions worldwide."
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 14:38:25 GMT
+- URL：https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+
+### 2. Fed Governor Waller indicates he will support holding rates steady at September meeting
+- 摘要：In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 14:06:52 GMT
+- URL：https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html
+
+### 3. The world appears to be entering a higher-rate era. Here’s who will pay the price
+- 摘要：The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of hig
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 04:20:20 GMT
+- URL：https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html
+
+### 4. Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday
+- 摘要：Black's attorneys say the NDAs being sought by the panel have nothing to do with his dealings with notorious sex offender Jeffrey Epstein.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 15:12:24 GMT
+- URL：https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html
+
+### 5. How Meta will pull off massive changes to its social media apps
+- 摘要：Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 12:00:01 GMT
+- URL：https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html
+
+### 6. Anthropic's distillation battle turns to the dark web as China concerns swell
+- 摘要：Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 11:45:01 GMT
+- URL：https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html
+
+### 7. 'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update
+- 摘要：Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 15:23:27 GMT
+- URL：https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html
+
+### 8. Brent oil price above $96 per barrel after Iran fires missiles at Kuwait
+- 摘要：Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 13:40:13 GMT
+- URL：https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html
+
+### 9. NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
+- 摘要：The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 04:52:41 GMT
+- URL：https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html
+
+### 10. NFL set for first-ever game in Melbourne, Australia, in international expansion
+- 摘要：The San Francisco 49ers and the L.A. Rams are playing the NFL's first-ever game in Australia, marking an expanded push to grow the game internationall
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 15:38:01 GMT
+- URL：https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html
+
+### 11. Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
+- 摘要：On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 14:32:47 GMT
+- URL：https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html
+
+### 12. Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
+- 摘要：Retirement account balances rose in the second quarter amid market gains, according to Fidelity. At the same time, more savers tapped their accounts f
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 15:42:37 GMT
+- URL：https://www.cnbc.com/2026/09/03/401k-ira-retirement-balances-leakage-fidelity.html
+
+### 13. Trump and Xi are set to meet in DC. Why some China watchers have low expectations
+- 摘要：Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in C
+- 信源：CNBC（二级）
+- 日期：Wed, 02 Sep 2026 22:10:15 GMT
+- URL：https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html
+
+### 14. Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’
+- 摘要：DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 09:38:05 GMT
+- URL：https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html
+
+### 15. Jim Cramer's top 10 things to watch in the stock market Thursday
+- 摘要：Snowflake is the big earnings winner, and Broadcom CEO Hock Tan offered bullish long-term AI targets.
+- 信源：CNBC（二级）
+- 日期：Thu, 03 Sep 2026 12:48:42 GMT
+- URL：https://www.cnbc.com/2026/09/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html
+
+
+## 地缘政治（20条）
+
+### 1. Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
+- 摘要：Supporters of those who participated in a raid on an Israeli weapons maker say the sentences set a dangerous precedent.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 15:09:38 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences?traffic_source=rss
+
+### 2. Five killed, dozens more feared dead in boat adrift off Canary Islands
+- 摘要：Spanish migrant NGO says more than 80 people likely perished on the boat that left The Gambia 27 days ago.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 15:00:24 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/five-killed-dozens-more-feared-dead-in-boat-adrift-off-canary-islands?traffic_source=rss
+
+### 3. Iranian drone damages residential building in Kuwait City
+- 摘要：An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 14:47:52 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss
+
+### 4. Ukrainian intel agencies in Kyiv firefight: What happened and why?
+- 摘要：Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:54:02 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss
+
+### 5. Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?
+- 摘要：They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:49:02 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss
+
+### 6. Somalia repels armed assault on Baidoa amid regional political tensions
+- 摘要：Explosions and gunfire rock Baidoa as armed groups strike during South West State&#039;s political tensions.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:40:42 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss
+
+### 7. Ukraine takes the war to Russia’s space programme in tactical shift
+- 摘要：From Moscow to Plesetsk, Ukraine appears to be trying to hit infrastructure that powers Russia’s war from space.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:30:28 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss
+
+### 8. Kais Saied’s economic experiment has failed Tunisia
+- 摘要：Saied’s promised path to self-reliance has deepened Tunisia’s economic crisis rather than resolving it.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:09:47 +0000
+- URL：https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss
+
+### 9. Victims sue South African government over 1960 Sharpeville massacre
+- 摘要：Victims sue South African governed over 1960 Sharpeville massacre
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:07:13 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss
+
+### 10. ‘Can I take the door?’ woman pleads at Syrian prison exhibit
+- 摘要：A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 13:02:59 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss
+
+### 11. Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?
+- 摘要：Ex-Real Madrid and Manchester United stars, Karim Benzema, Paul Pogba and Jadon Sancho among post-deadline free agents.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 12:52:54 +0000
+- URL：https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss
+
+### 12. UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood
+- 摘要：Guendouzi and Greenwood made provocative gestures towards the Lyon ‌supporters after their Champions League playoff.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 12:38:40 +0000
+- URL：https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss
+
+### 13. Why has the Netherlands moved $10bn of its gold from the US?
+- 摘要：The Netherlands has $83.7bn worth of gold in domestic and foreign reserves.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 12:25:29 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/why-has-the-netherlands-moved-10bn-of-its-gold-from-the-us?traffic_source=rss
+
+### 14. Feminist icon Gloria Steinem dies aged 92
+- 摘要：Cofounder of Ms Magazine was a strong advocate for women&#039;s rights throughout her life.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 12:13:54 +0000
+- URL：https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss
+
+### 15. Families perform symbolic funerals for missing Nepal flood victims
+- 摘要：Families in Nepal are performing symbolic funerals for loved ones still missing a week after the devastating floods.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 03 Sep 2026 11:58:26 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss
+
+
+## 消费与数码（20条）
+
+### 1. Dyson’s New Robot Vacuums Aim at Shark with UV Stain Detection and Powerful Scrubbing
+- 摘要：Smarter AI chops and triangular brushes may clean your floors better.
+- 信源：CNET（二级）
+- 日期：2026-09-03T15:03:36Z
+- URL：https://www.cnet.com/home/kitchen-and-household/dysons-new-robot-vacuums-aim-at-shark-with-uv-stain-detection-and-powerful-scrubbing/
+
+### 2. Dyson’s Huge Pipe-like Air Purifier Moves Like a Dune Sandworm and Blows Air Across the Room
+- 摘要：These combo models can heat, cool and clean air all in the same unit.
+- 信源：CNET（二级）
+- 日期：2026-09-03T15:03:12Z
+- URL：https://www.cnet.com/home/kitchen-and-household/dysons-huge-pipe-like-air-purifier-moves-like-a-dune-sandworm-and-blows-air-across-the-room/
+
+### 3. Dyson Unveils Its First-Ever Dryer Brush and a New Hair Straightener
+- 摘要：Dyson’s new hair tools were designed to provide sleek, soft locks without frizz or heat damage.
+- 信源：CNET（二级）
+- 日期：2026-09-03T15:01:06Z
+- URL：https://www.cnet.com/health/personal-care/dyson-unveils-first-dryer-brush-new-hair-straightener/
+
+### 4. TCL Supercharges Its Stunning Nxtpaper Displays With the P80 Ultra
+- 摘要：The TCL P80 Ultra and Pro will be the company’s first phones to use its fancy paper-like displays.
+- 信源：CNET（二级）
+- 日期：2026-09-03T14:43:00Z
+- URL：https://www.cnet.com/uncategorized/tcl-supercharges-its-stunning-nxtpaper-displays-with-the-p80-ultra/
+
+### 5. These Meta Glasses Alternatives Found a Way to Last Longer With Snap-On Batteries
+- 摘要：HTC’s Vive Eagle do a lot of what Meta’s glasses do, cameras included. But the extra battery boost might be a sign of where Meta and others head.
+- 信源：CNET（二级）
+- 日期：2026-09-03T13:05:13Z
+- URL：https://www.cnet.com/tech/mobile/these-meta-glasses-alternatives-found-a-way-to-last-longer-with-snap-on-batteries/
+
+### 6. One of Our Top Robot Vacuum Brands Is Diving into Pool Care
+- 摘要：The RockAqua P1 made its splashdown at IFA 2026 in Berlin, and we saw it first.
+- 信源：CNET（二级）
+- 日期：2026-09-03T11:42:10Z
+- URL：https://www.cnet.com/tech/computing/one-of-our-top-robot-vacuum-brands-is-diving-into-pool-care/
+
+### 7. The Weirdest and Wackiest Tech We Found at IFA 2026
+- 摘要：From AI intimate companions to a smartphone for your dog, here’s what raised our eyebrows the most at this year’s IFA.
+- 信源：CNET（二级）
+- 日期：2026-09-03T11:00:00Z
+- URL：https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/
+
+### 8. These New Robot Vacuums, Mops, Mowers and Pool Cleaners Will Try to Convince Us They’re Maintenance-Free
+- 摘要：Roborock’s new lineup at IFA 2026 is all about improving navigation and hands-free maintenance. I’ll be the judge.
+- 信源：CNET（二级）
+- 日期：2026-09-03T11:14:32Z
+- URL：https://www.cnet.com/home/kitchen-and-household/these-new-robot-vacuums-mops-mowers-and-pool-cleaners-will-try-to-convince-me-its-maintenance-free/
+
+### 9. I Was Disappointed by Miele’s Last Vacuums, but the New IFA Lineup Changed My Mind
+- 摘要：The previous model fell short in our lab tests, so I went into my hands-on trial skeptical. I left impressed.
+- 信源：CNET（二级）
+- 日期：2026-09-02T22:00:27Z
+- URL：https://www.cnet.com/home/kitchen-and-household/i-was-disappointed-by-mieles-last-vacuums-but-the-new-ifa-lineup-changed-my-mind/
+
+### 10. As a Pet Parent to 3 Asthmatic Cats, I’m Eyeing This New AAFA-Certified Vacuum at IFA 2026
+- 摘要：Eufy’s sterilization-focused robot vacuum is the product I’m most looking forward to checking out in Berlin.
+- 信源：CNET（二级）
+- 日期：2026-09-03T07:30:00Z
+- URL：https://www.cnet.com/home/kitchen-and-household/as-a-pet-parent-to-3-asthmatic-cats-im-eyeing-this-new-aafa-certified-vacuum-at-ifa-2026/
+
+### 11. Anker’s Eufy Strides Into IFA With a New AI Ecosystem and Devices to Match
+- 摘要：Anker’s security division has big plans, and the company is prepping an even bigger AI management system for your home — without relying on cloud data
+- 信源：CNET（二级）
+- 日期：2026-09-03T07:30:00Z
+- URL：https://www.cnet.com/home/security/ankers-eufy-strides-into-ifa-with-a-new-ai-ecosystem-and-devices-to-match/
+
+### 12. These Sleep Headphones Are My Best Redeye Flight Hack. They Just Got a Nifty Upgrade
+- 摘要：Anker announces the Sleep Earbuds 4 Pro at IFA, along with a stylish bedside sleep speaker, a hearing aid and a bunch of headphones.
+- 信源：CNET（二级）
+- 日期：2026-09-03T07:30:00Z
+- URL：https://www.cnet.com/tech/mobile/anker-sleep-earbuds-4-pro-sleeplab-pro-ifa-2026/
+
+### 13. I’m Honestly Shocked Every Gaming Desk Doesn’t Have This Feature
+- 摘要：The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.
+- 信源：CNET（二级）
+- 日期：2026-09-03T07:40:00Z
+- URL：https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/
+
+### 14. Xiaomi’s Passport Foldable Phone Takes Aim at Apple and Samsung
+- 摘要：Xiaomi has big plans for its push into Europe.
+- 信源：CNET（二级）
+- 日期：2026-09-03T08:26:00Z
+- URL：https://www.cnet.com/uncategorized/xiaomis-passport-foldable-phone-takes-aim-at-apple-and-samsung/
+
+### 15. Narwal’s New Robot Vacuums and Floor Cleaners Are All About Better Mopping
+- 摘要：Mops that can remove old and dried stains are everyone’s concern at IFA Berlin this year.
+- 信源：CNET（二级）
+- 日期：2026-09-03T08:00:00Z
+- URL：https://www.cnet.com/home/kitchen-and-household/narwals-new-robot-vacuums-and-floor-cleaners-are-all-about-better-more-comprehensive-mopping/
+
+
+## 民生与社会（20条）
+
+### 1. Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach
+- 摘要：Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has see
+- 信源：Guardian（二级）
+- 日期：Thu, 03 Sep 2026 12:52:08 GMT
+- URL：https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach
+
+### 2. ‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation
+- 摘要：Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South AfricaThe day dawned brightly on 21 
+- 信源：Guardian（二级）
+- 日期：Thu, 03 Sep 2026 10:11:37 GMT
+- URL：https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid
+
+### 3. New constitution in Guinea-Bissau will undermine democracy, opponents say
+- 摘要：Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new con
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 09:20:55 GMT
+- URL：https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections
+
+### 4. Almost half of world’s farmers poisoned by pesticides every year, experts find
+- 摘要：Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s far
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 06:00:25 GMT
+- URL：https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts
+
+### 5. South African airline defends dramatic low-level flyby before rugby union clash
+- 摘要：Cape Town stunt sparks major debate over safety risksAirlink insists flyby conducted according to regulationsA pre-game stunt involving two passenger 
+- 信源：Guardian（二级）
+- 日期：Mon, 31 Aug 2026 13:44:39 GMT
+- URL：https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand
+
+### 6. Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?
+- 摘要：Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in countryDozens of protesters converged on Pe
+- 信源：Guardian（二级）
+- 日期：Thu, 03 Sep 2026 12:00:29 GMT
+- URL：https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei
+
+### 7. The US and Venezuela: a century-old relationship drenched in oil
+- 摘要：A visual look at how Washington’s relationship with Caracas has gone from cordial to ‘predatory’Trump ally defends Venezuela oil deal amid ‘gunpoint d
+- 信源：Guardian（二级）
+- 日期：Thu, 03 Sep 2026 10:00:50 GMT
+- URL：https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil
+
+### 8. Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
+- 摘要：Tech company submits to controversial Trump order to rename body of water amid US trade spat with CanadaApple has renamed Lake Ontario as “Lake Americ
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 21:15:12 GMT
+- URL：https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america
+
+### 9. Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism
+- 摘要：Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil, saying deal is transformation of relationsThe US energy secretary, Chris Wright
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 14:44:39 GMT
+- URL：https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright
+
+### 10. Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’
+- 摘要：US defense secretary faces backlash for attempting to mock Canada’s armed forces amid trade warA social media post by Pete Hegseth, the US secretary o
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 14:44:31 GMT
+- URL：https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post
+
+### 11. Yen soars as Bank of Japan tipped to raise interest rates
+- 摘要：Jump lifts currency to highest level against dollar in a month, while global markets remain jitteryBusiness live – latest updatesThe Japanese yen has 
+- 信源：Guardian（二级）
+- 日期：Thu, 03 Sep 2026 14:33:58 GMT
+- URL：https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates
+
+### 12. China’s falling emissions amid Iran war spark hope of decarbonisation watershed
+- 摘要：Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price fallsChina’s carbon dioxide emissions fell 
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 23:01:37 GMT
+- URL：https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war
+
+### 13. Japan halves speed limit to 30km/h on all narrow city streets
+- 摘要：Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities saferDrivers on residential roa
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 05:15:00 GMT
+- URL：https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets
+
+### 14. Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case
+- 摘要：Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong, one of Hong Kong’s 
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 04:57:27 GMT
+- URL：https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china
+
+### 15. USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea
+- 摘要：Ship has been plagued by reports of deteriorating living conditions and poor mental health because of lengthy deploymentThe USS Abraham Lincoln, a US 
+- 信源：Guardian（二级）
+- 日期：Wed, 02 Sep 2026 03:59:56 GMT
+- URL：https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea
+
+
+## 信源采集日志
+
+| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
+|---|------|------|------|----------|----------|----------|
+| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-09-03 23:51 |
+| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-09-03 23:51 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-09-03 23:51 |
+| 4 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-09-03 23:51 |
+| 5 | CNET | 二级 | 消费与数码 | RSS自动 | 20条 | 2026-09-03 23:51 |
+| 6 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-09-03 23:51 |

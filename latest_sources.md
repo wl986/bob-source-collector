@@ -575,3 +575,677 @@
 | 5 | Google News | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-10-22 11:52 |
 | 6 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-10-22 11:52 |
 | 7 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-10-22 11:52 |
+
+---
+
+# 信源缓存（云端自动采集 · 2026-10-23 00:41）
+
+> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
+> 采集时段：evening
+> 有效期：7天
+> 总条目：140条
+
+
+## 科技与AI（20条）
+
+### 1. Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’
+- 摘要：Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fanta
+- 信源：The Verge（二级）
+- 日期：2026-10-22T12:16:15-04:00
+- URL：https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion
+
+### 2. Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean
+- 摘要：After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the li
+- 信源：The Verge（二级）
+- 日期：2026-10-22T12:00:29-04:00
+- URL：https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google
+
+### 3. Microsoft shuts down its beloved maker space
+- 摘要：Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new
+- 信源：The Verge（二级）
+- 日期：2026-10-22T12:00:00-04:00
+- URL：https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad
+
+### 4. OpenAI, Anthropic, and Nvidia had record lobbying quarters
+- 摘要：It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, fede
+- 信源：The Verge（二级）
+- 日期：2026-10-22T11:50:30-04:00
+- URL：https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records
+
+### 5. Apple’s Magic Keyboards for iPad are about half off, with a small catch
+- 摘要：You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I w
+- 信源：The Verge（二级）
+- 日期：2026-10-22T11:14:20-04:00
+- URL：https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale
+
+### 6. PHP: The three little letters wreaking havoc across the web
+- 摘要：Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of website
+- 信源：The Verge（二级）
+- 日期：2026-10-22T11:12:27-04:00
+- URL：https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down
+
+### 7. You could just get a refurbished Samsung phone on Amazon
+- 摘要：I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified 
+- 信源：The Verge（二级）
+- 日期：2026-10-22T10:55:29-04:00
+- URL：https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon
+
+### 8. Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off
+- 摘要：I’m not sure when bird-watching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about 
+- 信源：The Verge（二级）
+- 日期：2026-10-22T10:41:02-04:00
+- URL：https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale
+
+### 9. Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold
+- 摘要：The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditi
+- 信源：The Verge（二级）
+- 日期：2026-10-22T10:24:49-04:00
+- URL：https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china
+
+### 10. Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption
+- 摘要：Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news mo
+- 信源：The Verge（二级）
+- 日期：2026-10-22T10:00:00-04:00
+- URL：https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation
+
+### 11. The Download: computing’s next leap and permafrost’s climate threat
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 22 Oct 2026 12:10:00 +0000
+- URL：https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/
+
+### 12. Making the case for context-aware AI
+- 摘要：Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a busine
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 22 Oct 2026 10:00:00 +0000
+- URL：https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/
+
+### 13. Three things you should know about permafrost
+- 摘要：How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 22 Oct 2026 10:00:00 +0000
+- URL：https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/
+
+### 14. AI’s hidden storage bill: What inference leaves behind
+- 摘要：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. Bu
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 22 Oct 2026 08:41:18 +0000
+- URL：https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/
+
+### 15. The Download: introducing the Impossible issue
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Wed, 21 Oct 2026 12:10:00 +0000
+- URL：https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/
+
+
+## 金融市场（20条）
+
+### 1. Meta stock sinks 6% as AI spend pushes free cash flow negative
+- 摘要：Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:45:57 GMT
+- URL：https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html
+
+### 2. Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist
+- 摘要：Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:08:47 GMT
+- URL：https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html
+
+### 3. Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey
+- 摘要：Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 13:18:36 GMT
+- URL：https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html
+
+### 4. Jobless claims near the lowest since the 1960s as low-fire trend continues
+- 摘要：Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 16:40:09 GMT
+- URL：https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html
+
+### 5. Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again
+- 摘要：Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:16:05 GMT
+- URL：https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html
+
+### 6. Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease
+- 摘要："We're going to have an amazing 2027," he said.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 16:33:26 GMT
+- URL：https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html
+
+### 7. Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports
+- 摘要：Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 16:34:53 GMT
+- URL：https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html
+
+### 8. CoreWeave’s market confidence erodes as bond yields spike and stock sinks
+- 摘要：CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:35:55 GMT
+- URL：https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html
+
+### 9. Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.
+- 摘要：Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:52:00 GMT
+- URL：https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html
+
+### 10. Cruise lines chase luxury travelers with suites for up to $25,000 a night
+- 摘要：CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:16:48 GMT
+- URL：https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html
+
+### 11. American Express brings Airbnb bookings and rewards to Amex Travel platform
+- 摘要：More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 12:00:02 GMT
+- URL：https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html
+
+### 12. Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot
+- 摘要：OpenAI CEO Sam Altman pledged to grant independent evaluators "employee-like access" to the company to help address mounting safety concerns.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 16:04:43 GMT
+- URL：https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html
+
+### 13. Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce
+- 摘要：Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is "off the charts," but scarce capital is holding back growth.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 10:49:16 GMT
+- URL：https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html
+
+### 14. Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case
+- 摘要：The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrow
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:20:12 GMT
+- URL：https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html
+
+### 15. Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia
+- 摘要：The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.
+- 信源：CNBC（二级）
+- 日期：Thu, 22 Oct 2026 15:36:13 GMT
+- URL：https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html
+
+
+## 中国出海（20条）
+
+### 1. China’s NDRC issues updated outbound investment rules as overseas investment stock tops $3.4 trillion - Global Times
+- 摘要：China’s NDRC issues updated outbound investment rules as overseas investment stock tops $3.4 trillion&nbsp;&nbsp;Global Times
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 15:22:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zQ3JkaFIySnNOVEsxOVVGSHlCRl9ESjBWcElGd0dWcmV5ZTllOVlSMWtLUm5nLTcyYkZtRmtkMmhZZy1lVGNrdDZmRU5qd1FpQzR2VkdlZ25oZE15eXh1ZElR?oc=5
+
+### 2. China Tightens Outbound Investment Rules As Overseas Investment Stock Nears US$3.4 Trillion - BusinessToday Malaysia
+- 摘要：China Tightens Outbound Investment Rules As Overseas Investment Stock Nears US$3.4 Trillion&nbsp;&nbsp;BusinessToday Malaysia
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 14:25:50 GMT
+- URL：https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYk9MTTNnX2I0Y0dxeVlOa1Z2NC14eF92UFdGOHA5cXBzTFkxb29IMXgxMDRrQzI2SnltbFV4bHNEa1I2cnM4NmxuMG4tS2h5Y3lEckw4ekdwWFpRZjljR2tBRkI4aUlYanNqSjVyUkxFcUdWak1OdEJGallzRFkxSnBad19CUHR1U1hmek4tX2Y2RjhDbmo2NHRNa1RLZkk3MktVdlVaSFJiR0N3OUhCQ3FkbmZVVjlscTN4Y0Q3Y1hkMXBSNUdBYW1QSzZMbUlR?oc=5
+
+### 3. Greenfield investment to drive FDI - China Daily Global Edition
+- 摘要：Greenfield investment to drive FDI&nbsp;&nbsp;China Daily Global Edition
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 01:16:18 GMT
+- URL：https://news.google.com/rss/articles/CBMiggFBVV95cUxNeENKbGdXZWJrNHo1RUFodlFfb2lDclY4Q1RTY1BuUnN0WHRvM2IzemtTcWgzUUJpV0x4V0pGcDZHaHZNdlFtME5RWEZEYmtuZGFkOVhXYU9aaEFUUjFJa2hUUlBBRzF1eU9SVUY0V2Q3bVVUSGJwVlhtUV9jOG1qYUxB?oc=5
+
+### 4. Global Market: China's Lingjun Investment attracts $300 million from overseas investors - The Economic Times
+- 摘要：Global Market: China's Lingjun Investment attracts $300 million from overseas investors&nbsp;&nbsp;The Economic Times
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 10:36:44 GMT
+- URL：https://news.google.com/rss/articles/CBMihAJBVV95cUxOS1NpSzgxaWlqRjVqbGNLVWtaSTVaYlVXRjVHWXhfUExVQWpQWmNvWld6NWRrWTYwTHZkQ2hzRExnUlNBU0RnOTNWVkVuQ1VYcUhNUTZ4dkVJbkJjT3dFM19mWGpzS1FzVkYxdm0tQ0xuSEl3T1A2V0tVUHVHMkxvTm54elpidVpxYnB5Y0xCUWQ0QU1Oa0UzQmJxd0ppbnY3cktmR1hXUW01LVJFSURaZFk2a2hTTFpsdGFDT2dnTjBnb0M2S3VJMVRyQWd0NndOU0lGRjlxQndwMFR1ZUpTVUo5b3AwLU9vMWFIenF2d3YyU3JvTkQzRWZzemN4WjRpT2NtY9IBigJBVV95cUxQc1Y0dUtrbFVZVVhSV2NOelBrSkRWc3F4ZXlnVVl5QkdIeXRuVGRhdXZJdTVuX3hnRF93c0hnWWJrdGkwYTNPUGczNmtCZjJlOXI2WUZNVTYwNEFEaGk2ZjRfNldPbkN6OFVVN0FVdDc5MUwza1A4SEFKbkM0d2steTVQNVVTaXdPRmdaWWQzeEJVUGM2Q3ZJelFrd0RRMmIxUjFMd3BwdUVwWTdmQm5iQTRRZ2dfV3Nld2FLVElPMjVfNHdlTmFBTnZMS1JmdFNlOElnZE5XWW5NeFR4Q0ZhQXpOeXFoaGpmMUdFcmlLb21KcV9RZzJoNFZ4dXFWSnIzR2FqNmFWcHZBUQ?oc=5
+
+### 5. China’s battery makers race to invest abroad to avoid western barriers - Financial Times
+- 摘要：China’s battery makers race to invest abroad to avoid western barriers&nbsp;&nbsp;Financial Times
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 01:27:36 GMT
+- URL：https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnFTeUtwMHBxZFMyRmNZbzBBendLVHcyWGM1c3o3U2YyTkd0QVdvTVM5djVNVGFVTFBOcWRkbktRQ1RKVW96aHRaT0hYTDVoRmdmSFJ3UlRTZkZZS0ZWOW1fUml1SHJpUjhKLUxZZ0pzTW9SZjFmYmZ1djY5S2k1Yk5oY24?oc=5
+
+### 6. Shifting ground: Human rights, Chinese investment and the rush for transition minerals - Business and Human Rights Centre
+- 摘要：Shifting ground: Human rights, Chinese investment and the rush for transition minerals&nbsp;&nbsp;Business and Human Rights Centre
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 07:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTdQTFUwZGZMTVg0WEFuNVhfeTFHVDlyc2hTeENlWHE2OGhlOEtSZHdON09oZjNVWlZsZW1SbS1CdkFvT1p5THJidWFnMGdQUGwwVVg5b0ZpSWM0VnQzczZzN2dlY1FpeU5Dakh2bmt3a2NYZjItV1h2aEtEcm5qVnZWaTRNNklCMld2V09BdmdSSFFOeVlGcGpqN3NDLTRuWFdWaHZPQ1JVVHR0cGttejZqLThwZ2FXR05LZ1dHajdxOFZEMjdOR19NT0RUUDk5UnBxOGpCRDg5ajg?oc=5
+
+### 7. China's Chery picks Omoda C4 as its first vehicle to be built in South Africa - Reuters
+- 摘要：China's Chery picks Omoda C4 as its first vehicle to be built in South Africa&nbsp;&nbsp;Reuters
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 13:10:12 GMT
+- URL：https://news.google.com/rss/articles/CBMivwFBVV95cUxNZF9uM3dSYi1XSG4xMUp0enJFWnotOFVHU2Nxcmw0QzBESXVuR2tUOW5SSGxHWS1ITzExOFpaQVJmYW1VeDNjS2FwLUo2LXlNcUl6Nko3MDZnOVlidTJWTTZNYlJLLWpjZjB4eGYtZGJYTU1WMHpsb29DZ0JqZ2JhRGxsd1E5NWhFUGtXaml3MFpxOG4ycnZhU3lFZWNCcUNzeWU5VUtieVNCQVlfS0RJeFEwNWJ1aVBNcExaTGJPSQ?oc=5
+
+### 8. China’s Expanding Carbon Market Could Spur Demand for Overseas Credits - Caixin Global
+- 摘要：China’s Expanding Carbon Market Could Spur Demand for Overseas Credits&nbsp;&nbsp;Caixin Global
+- 信源：Google News（二级）
+- 日期：Tue, 20 Oct 2026 20:50:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDExc29ENDkyTy1Qc25TdlNRalJHcVd6ell4RHFmM2ZMR1N6ZGlXUnlTX1ROWTExRm8yblhxQ3ZWMDJGYTNrRkxHanB1Q2JhVDZTd2h4Sng4NFpXc0kybmkwMzRlTjhjbzVzdktwcklUdWtpendtYnVfbDZPQU5qejhsdTVyanBuSTV2NTNNdWdtM1A2bHF2NC1ocDNLUmhnOGhlSElYb0xHSmxqcG1lYnZkWUEyaUNHZjJfM3FIb3I1UQ?oc=5
+
+### 9. AcroBiosystems leans on overseas sales in renewed Hong Kong listing bid - Bamboo Works
+- 摘要：AcroBiosystems leans on overseas sales in renewed Hong Kong listing bid&nbsp;&nbsp;Bamboo Works
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 08:05:41 GMT
+- URL：https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE96dHV0OFlGOFpJdUFhZmgwOXUtTWlVVllTMEY5MXNBeEFtOGpqbTBnRHVjem0zZkptcThieVd0X2kzc1hGX1FrTDdabGxmLXRYVDF3U2NjcERLNjNNTURZVHdOd0F2MDZQTUNFMl9XMUtLbmhhUVZzdFBPS2hZNlVta1ctUHFlcjVldWloUDNkMExkQW80YzVTelJJWlZv?oc=5
+
+### 10. China attracts 15.6% surge in foreign visitors as visa-free policies pay dividends - South China Morning Post
+- 摘要：China attracts 15.6% surge in foreign visitors as visa-free policies pay dividends&nbsp;&nbsp;South China Morning Post
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 06:30:41 GMT
+- URL：https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzZNSnQ0azFwbEtkS2VYcml6b2FNb0JKX0xJb3dadEJjcjJJaDllTS0tRi1Ib0k0eTY4TjJZQVhiWElwZWJxQm1QLVktOHVEX2dQWFUtTjZ2VXJrdXd4NEI2WmxObkJzb2d3UDMzMVR3M09iYW4xdklSY3p6eTBza1c4Zk1sQTM5X2ZPMnA1ZExyLW9kTHRZZXRyaGdGVUplZUdaSGx2OUh2Y3Z6czM4LUh1WDBMamJaYU5Z0gG7AUFVX3lxTFBlLTVjR0FpQXNBcU5obW0wZzI3dFFyRXNPd25JYS1kRU1PTFY2X0xFakt6dXZZRlZJSGhkVXVNbXo5RURYTzIyQWcyUmRaSHBqblI3MXYtOGVXazVTTkdHaDkwYVBWX290Y3JXNmNRd04wb2hwS0RrQnNVS0RybWdaR0p0aW5mRTAyUjlVa0JLV0xReUFkMjBnMTZTNDI2Y0Y5akdvMEhBeWYtckpROFBSM0t2NHhfOVhnUUU?oc=5
+
+### 11. ACM Research Is Gaining Ground as China Replaces Foreign Semiconductor Equipment - 24/7 Wall St.
+- 摘要：ACM Research Is Gaining Ground as China Replaces Foreign Semiconductor Equipment&nbsp;&nbsp;24/7 Wall St.
+- 信源：Google News（二级）
+- 日期：Mon, 19 Oct 2026 19:37:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFdBb2hvSHJmVVdmeWk5QTJ3UlZHSUtIOUpWRk1WOTFfbi1XY3ppUXNQWjg3XzhHWVBZbUozRkF4d0pZQnpScXBpQkNCY1BPM1Q5cy1KeWxyNk03UDdWeXAtQ0J5a2dRaUo1NTRWT1JCZG8tVkRVRTFFNHNfNmhnYkV4bGc2bklZM3VWMThMREVQaUNLV2RZbTgtdU1MNVpCZEd2MVgxWTQ3ZUlOWWo3TkdEZXFFOWhOV1pmMWE4RUVvQQ?oc=5
+
+### 12. How to Increase America’s AI Lead Over China - Institute for Progress (IFP)
+- 摘要：How to Increase America’s AI Lead Over China&nbsp;&nbsp;Institute for Progress (IFP)
+- 信源：Google News（二级）
+- 日期：Mon, 19 Oct 2026 21:00:11 GMT
+- URL：https://news.google.com/rss/articles/CBMibEFVX3lxTE8zVmlYVVlKak1CanhXNEc1NkstUU9LOTQwTE9yMlBlRTliVEtENUpmaG9TclB4eFpKbVdLVklZbzgxaHVLR2wtbHZxNXQ4UFZFVUkzaFRyZ2UyaWhZZU8yUFJndlI3VTVGQU14eA?oc=5
+
+### 13. Chinese travel firms' overseas boom comes with a cross-border payments catch - China Travel News
+- 摘要：Chinese travel firms' overseas boom comes with a cross-border payments catch&nbsp;&nbsp;China Travel News
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 02:44:22 GMT
+- URL：https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uNkU0aUdVQWIzaG1EV2RIRmZSZnZOYlFmQWd0bnZsV3ZmWWVsTzlnYV96am5fSVpBcFFiRDJrd3Y2YktOODd5TVp4ZDAwcnFISm9UajNWMExrM2M?oc=5
+
+### 14. “There’s no keeping up with China’s capacity offensive” ... Korea’s fleet capacity remains just one-third of China’s, despite continued growth - 매일경제
+- 摘要：“There’s no keeping up with China’s capacity offensive” ... Korea’s fleet capacity remains just one-third of China’s, despite continued growth&nbsp;&n
+- 信源：Google News（二级）
+- 日期：Wed, 21 Oct 2026 20:59:11 GMT
+- URL：https://news.google.com/rss/articles/CBMiU0FVX3lxTE03ME9hZXdqRlFUa3V6MmJOVTlyRGpPT19WajZBNmw3dHN1a3h4WlUtaWZ3RHZhN0k3SkNkZ3czZVB6OWZyb3dCODJ4c2VacnphNmM4?oc=5
+
+### 15. Chinese Tycoons With $140 Billion Overseas Face Wider Tax Net - Bloomberg.com
+- 摘要：Chinese Tycoons With $140 Billion Overseas Face Wider Tax Net&nbsp;&nbsp;Bloomberg.com
+- 信源：Google News（二级）
+- 日期：Mon, 19 Oct 2026 22:00:32 GMT
+- URL：https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHJaVjgyYUlJaW12ZE8wQmc4YmUxVnpUSEZucEp1aWtpNHIzNmNhX0JTcy1Oc1BLMlQzSGxjQTBvRFhING96VzdYUVBKYVR0R18zQ3o4d29YUkw0TjZuRWFsT25TYjdhZmFicWJUZS1EbUZ4Vm9NY0p4U1haS2g4NlBaTmNLS2g0bFNnS0pZX2NBNEZLbUY4OWUzTzRSNFg0QklpZWVBZU50dkVLclFadFdWNVNmdXRaUjMzbUd4TTVZaDJJ?oc=5
+
+
+## 地缘政治（20条）
+
+### 1. South Africa crush Australia by an innings to level cricket Test series
+- 摘要：South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 16:09:44 +0000
+- URL：https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss
+
+### 2. Israeli attacks in Gaza kill four, including a young girl
+- 摘要：Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 16:06:55 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss
+
+### 3. Italy and Spain lift border controls after months of tension over Ceuta
+- 摘要：More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 16:04:21 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss
+
+### 4. Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal
+- 摘要：La Liga ⁠chief ⁠Javier Tebas compared Real Madrid&#039;s communication to Nazi propaganda and now faces a tribunal in Spain.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:35:07 +0000
+- URL：https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss
+
+### 5. 16-year-old Malaysian student attacks his teacher with axe
+- 摘要：A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:31:58 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss
+
+### 6. From the streets to the ballot box: Serbia’s students hope for election win
+- 摘要：Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:13:34 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss
+
+### 7. Fatal Custody
+- 摘要：Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:08:32 +0000
+- URL：https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss
+
+### 8. Rising costs and tight budgets strain Americans ahead of midterm elections
+- 摘要：Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:07:38 +0000
+- URL：https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss
+
+### 9. Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership
+- 摘要：On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 15:00:37 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss
+
+### 10. Netanyahu promises Iran regime change: Can Israel topple Tehran government?
+- 摘要：Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 14:55:59 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss
+
+### 11. Germany arrests Ukrainian man accused of spying for Russia
+- 摘要：Military has raised the threat level of ​Russian sabotage against German troops and facilities.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 14:36:06 +0000
+- URL：https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss
+
+### 12. Ilhan Omar home raid, Haines attack: Inside rise in violence on officials
+- 摘要：US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 14:34:46 +0000
+- URL：https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss
+
+### 13. FIFA’s Infantino made to wait on Asian support as chief coy at AFC session
+- 摘要：&#039;We’re not against anyone and we’re not in favour of anyone,&#039; says AFC President Sheikh Salman bin Ebrahim Al Khalifa.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 14:31:28 +0000
+- URL：https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss
+
+### 14. India resist New Zealand fightback to win record-setting T20 cricket opener
+- 摘要：New Zealand reach their highest home total against India, 225-4, but Sanju Samson hits fifty to top the record in chase.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 14:09:56 +0000
+- URL：https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss
+
+### 15. Yemenis face severe shortages in Taiz amid Houthi blockade
+- 摘要：Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.
+- 信源：Al Jazeera（二级）
+- 日期：Thu, 22 Oct 2026 13:42:26 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss
+
+
+## 消费与数码（20条）
+
+### 1. Americans Say Rising Utility Costs Are Straining Their Budgets. They’re Blaming Data Centers
+- 摘要：1 in 5 households have cut back on groceries because of energy bills, according to a new Consumer Reports survey.
+- 信源：CNET（二级）
+- 日期：2026-10-22T15:38:02Z
+- URL：https://www.cnet.com/home/energy-and-utilities/americans-say-rising-utility-costs-are-straining-their-budgets-theyre-blaming-data-centers/
+
+### 2. The Mori Is a Mushroom-Shaped AI Lamp Companion, and I’m Smitten
+- 摘要：The $849 Mori is designed to respond to your environment, knowing when to play and when to stay quiet.
+- 信源：CNET（二级）
+- 日期：2026-10-22T13:00:00Z
+- URL：https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/
+
+### 3. I Went From AI Prompt to 3D-Printed Armor in 18 Hours
+- 摘要：What started off as a dare became a fully fledged app in less than a day
+- 信源：CNET（二级）
+- 日期：2026-10-22T12:31:35Z
+- URL：https://www.cnet.com/tech/computing/i-went-from-ai-prompt-to-3d-printed-armor-in-18-hours/
+
+### 4. Test Driving an iPhone Duo? 6 Things to Try at the Apple Store
+- 摘要：Apple’s first foldable has a lot going for it, but there may be some compromises you aren’t expecting. See for yourself if the Duo is for you.
+- 信源：CNET（二级）
+- 日期：2026-10-22T12:00:00Z
+- URL：https://www.cnet.com/tech/mobile/test-iphone-duo-things-to-try-at-apple-store/
+
+### 5. Apple Limits iPhone Duo Purchases to 2 Foldable Phones Per Person
+- 摘要：For the first time in many years, Apple is limiting how many phones you can buy.
+- 信源：CNET（二级）
+- 日期：2026-10-22T02:43:08Z
+- URL：https://www.cnet.com/tech/mobile/apple-limits-iphone-duo-purchases/
+
+### 6. A Privacy Company Just Saved the Clearest Flock Surveillance Map I’ve Seen
+- 摘要：The creator of Proton Mail now hosts a powerful, professional Flock camera mapping tool on its site.
+- 信源：CNET（二级）
+- 日期：2026-10-22T02:00:41Z
+- URL：https://www.cnet.com/news/privacy/proton-hosts-flock-surveillance-map/
+
+### 7. EA Shutters BioWare, Creator of Mass Effect, Dragon Age, KOTOR and More
+- 摘要：The legendary studio has been shut down just months after EA was acquired by a private equity consortium.
+- 信源：CNET（二级）
+- 日期：2026-10-22T01:24:17Z
+- URL：https://www.cnet.com/tech/gaming/ea-shutters-bioware-creator-mass-effect-dragon-age-kotor-layoffs/
+
+### 8. Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them
+- 摘要：A quarter of Meta Muse’s 10 million users are shopping online via the AI agent with an average spend of $200 per purchase, according to Mark Zuckerber
+- 信源：CNET（二级）
+- 日期：2026-10-22T00:30:25Z
+- URL：https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/
+
+### 9. AI and Data Centers Will Impact Midterm Voting, According to Experts
+- 摘要：Americans are mostly negative on AI and oppose new data centers near them, another poll shows.
+- 信源：CNET（二级）
+- 日期：2026-10-22T00:24:08Z
+- URL：https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/
+
+### 10. Google Chrome Will Notify You If You’re on a Scam Website
+- 摘要：You’ll need to opt into Chrome’s Enhanced Protection mode to use the new features.
+- 信源：CNET（二级）
+- 日期：2026-10-21T23:32:54Z
+- URL：https://www.cnet.com/tech/computing/google-chrome-enhanced-protection-mode/
+
+### 11. Lawsuits Allege Delivery Robots Recorded Biometric Data Without Permission
+- 摘要：As delivery robots roll through cities like Chicago, they’re fueling fears about unregulated surveillance in public spaces.
+- 信源：CNET（二级）
+- 日期：2026-10-21T23:30:33Z
+- URL：https://www.cnet.com/tech/services-and-software/coco-serve-robots-biometric-data-lawsuit/
+
+### 12. The 3-in-1 Alloop Wearable Could Replace Both Your Wellness Wristband and Ring
+- 摘要：The Alloop Trio also comes with a personal AI health agent.
+- 信源：CNET（二级）
+- 日期：2026-10-21T22:00:00Z
+- URL：https://www.cnet.com/tech/mobile/alloop-wearable-replace-fitness-tracking-wristband-ring/
+
+### 13. Tech Issues Are on the Ballot This Midterm Election Season: What to Know
+- 摘要：AI, data centers and Flock cameras are key tech policy issues shaping the campaigns, candidates and voters.
+- 信源：CNET（二级）
+- 日期：2026-10-21T20:26:02Z
+- URL：https://www.cnet.com/tech/services-and-software/tech-issues-midterm-elections-2026-news/
+
+### 14. Apple’s iPhone Duo Should Get Reachability Accessibility in an Upcoming Update
+- 摘要：The $1,999 foldable phone is harder to use for left-handed people and those with smaller hands.
+- 信源：CNET（二级）
+- 日期：2026-10-21T21:16:59Z
+- URL：https://www.cnet.com/tech/mobile/apples-iphone-duo-reachability-accessibility-upcoming-update/
+
+### 15. Is It Worth Getting AppleCare for the iPhone Duo? Repairs Could Cost as Much as the Phone Itself
+- 摘要：If something happens, you could be facing a $1,500 repair on top of the foldable’s $2,000 price.
+- 信源：CNET（二级）
+- 日期：2026-10-14T22:41:44Z
+- URL：https://www.cnet.com/tech/mobile/iphone-duo-repair-prices-foldable-applecare/
+
+
+## 民生与社会（20条）
+
+### 1. Controversial US-backed vaccine trial in African newborns halted
+- 摘要：Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine
+- 信源：Guardian（二级）
+- 日期：Wed, 21 Oct 2026 17:18:56 GMT
+- URL：https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b
+
+### 2. Severely ill ICE detainees face imminent deportation to unknown African states, advocates say
+- 摘要：Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigrat
+- 信源：Guardian（二级）
+- 日期：Wed, 21 Oct 2026 13:40:08 GMT
+- URL：https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida
+
+### 3. Nigeria confirms Ebola case as outbreak spreads into western Africa
+- 摘要：Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja,
+- 信源：Guardian（二级）
+- 日期：Wed, 21 Oct 2026 00:14:55 GMT
+- URL：https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest
+
+### 4. RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau
+- 摘要：Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newbornsControversial vaccine researchers who have
+- 信源：Guardian（二级）
+- 日期：Tue, 20 Oct 2026 19:18:03 GMT
+- URL：https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau
+
+### 5. US grants deportation reprieve to migrants from Ukraine and Sudan
+- 摘要：DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the mi
+- 信源：Guardian（二级）
+- 日期：Mon, 19 Oct 2026 22:34:43 GMT
+- URL：https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan
+
+### 6. Alberta voters overwhelmingly reject plan to leave Canada in referendum
+- 摘要：Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal 
+- 信源：Guardian（二级）
+- 日期：Tue, 20 Oct 2026 16:24:05 GMT
+- URL：https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum
+
+### 7. ‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel
+- 摘要：Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old birdA Canadian man was convicted of anim
+- 信源：Guardian（二级）
+- 日期：Tue, 20 Oct 2026 16:11:21 GMT
+- URL：https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel
+
+### 8. Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff
+- 摘要：Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicist
+- 信源：Guardian（二级）
+- 日期：Tue, 20 Oct 2026 15:41:44 GMT
+- URL：https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff
+
+### 9. Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds
+- 摘要：Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practicesA pioneering proje
+- 信源：Guardian（二级）
+- 日期：Tue, 20 Oct 2026 12:00:36 GMT
+- URL：https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study
+
+### 10. Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods
+- 摘要：Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurr
+- 信源：Guardian（二级）
+- 日期：Mon, 19 Oct 2026 10:07:09 GMT
+- URL：https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods
+
+### 11. North Korea prepares to restart propaganda loudspeakers as ties sour with South
+- 摘要：Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers a
+- 信源：Guardian（二级）
+- 日期：Thu, 22 Oct 2026 03:56:46 GMT
+- URL：https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea
+
+### 12. Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes
+- 摘要：Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a 
+- 信源：Guardian（二级）
+- 日期：Wed, 21 Oct 2026 16:13:53 GMT
+- URL：https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes
+
+### 13. China’s economy grows faster than forecast after AI boom boosts exports
+- 摘要：Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandRoaring exports lifted China’s economic growt
+- 信源：Guardian（二级）
+- 日期：Mon, 19 Oct 2026 09:27:04 GMT
+- URL：https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports
+
+### 14. Three deaths from float crushes raise safety concerns over Japanese festivals
+- 摘要：Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of 
+- 信源：Guardian（二级）
+- 日期：Mon, 19 Oct 2026 09:08:34 GMT
+- URL：https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents
+
+### 15. Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees
+- 摘要：Expedition was drawn to Nikumaroro after spotting what was described as a metallic glint in waters off uninhabited islandA US expedition that voyaged 
+- 信源：Guardian（二级）
+- 日期：Mon, 19 Oct 2026 04:43:41 GMT
+- URL：https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati
+
+
+## 政策与监管（20条）
+
+### 1. Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms - Reuters
+- 摘要：Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms&nbsp;&nbsp;Reuters
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 14:23:50 GMT
+- URL：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5
+
+### 2. Hydro Flask maker aims tariff refunds at inventory, packaging - Supply Chain Dive
+- 摘要：Hydro Flask maker aims tariff refunds at inventory, packaging&nbsp;&nbsp;Supply Chain Dive
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 15:13:11 GMT
+- URL：https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVV9QdUQtVjc0dzBOT2hQc1RKakJzOU1HajVkOHdvdU53VFZqWkJBcTNzZXY4ME1aTk1NNmw0TE5hTGE0VGJIMFhMZWNoTTNULURFa1FhT2xnVWk2aFlJYldubzM0LV93MW1HdmJINmJxTHk4ZlU5NEtBWkFYTGtTX2p3NXdFM0FXWlh6QThaamFmTE56LWFwMm00SlRFTkxVVTNvMG52Zk4?oc=5
+
+### 3. FTC Use of Long-Dormant Antitrust Statute Heightens Legal Risks - Bloomberg Law News
+- 摘要：FTC Use of Long-Dormant Antitrust Statute Heightens Legal Risks&nbsp;&nbsp;Bloomberg Law News
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 16:01:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnpOVDZMTVZleVJVZHJabFhYWWd5RTEzZVhNOWZJS3JIRExWeEFRc0ZEWkIxaEE2dk9aUHhVUXkwTkcweDRpcEZsMnhwM2FDNWhXLWdBZXBFR05NcXRGanBlYUdONmxIN1VnWkhYRnRLTkh2SVYxNW9hZ2FnXzF2c19vYnFsMzVmMlpubUdmNjJja0Q2RDRLVEE4bV9mNTNETUwycGNiNkR6Y0hXcDFhbTdXTW4tcWZVZHVj?oc=5
+
+### 4. Trump's DOJ is using antitrust law to punish the free press | Opinion - USA Today
+- 摘要：Trump's DOJ is using antitrust law to punish the free press | Opinion&nbsp;&nbsp;USA Today
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 09:09:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVlFcS1PSlVZR09kV3FvSC0wUV9qajF5T1FGZXFUNHRFS1haWmRlZFBTakJYNXlWYmwwLU9jSkpIR3pDZjduQ3pwZlUtdUxxMTktUHU4d3pYY1V3NGlhQkdncXBnRS1LNXdlMHpPX2paTWNablR5RzVoZkdpOVZzdWZjVFdVaXpYSlJ4UnZoVEtVODlSZnBpb2R1YWdGN0RPVUV6VTUwcXlOejdZWTgwUFhUcUpVQnpYRnpvSkVOa041UQ?oc=5
+
+### 5. The Deference Schism - Yale Journal on Regulation
+- 摘要：The Deference Schism&nbsp;&nbsp;Yale Journal on Regulation
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 13:04:43 GMT
+- URL：https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTVnBLeVNkRDBmS2JIdzlMSlp0NmFOTWtzQ1llS2plNVBNcEZnMUpUV0YzdThYOFZpMkpwYnRMWFpITWRvRlphREFQbXNrN1FOcnNBRThnM0lKMmprY2c?oc=5
+
+### 6. Pokémon Champions Regulation M-C Overview - Pokemon.com
+- 摘要：Pokémon Champions Regulation M-C Overview&nbsp;&nbsp;Pokemon.com
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 16:12:10 GMT
+- URL：https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXdPeDFIbGxwa1hhWDl3WGhuLTA2OVFYeHRYOUxQWGl1T2JZYU1lejQ0dDBVdEFnWDZmeDIybmVKX2prSnNKNV96Z19OYzRDd1RQaTFGSl9UdEhVTzg4dXVQbVB0WVpBN08yQzhUZTZNWW5jQ0tOU0FUS0N2YTEtRHRFcw?oc=5
+
+### 7. Co-regulation confounds direction of genetic effects in transcriptome-wide association studies - Nature
+- 摘要：Co-regulation confounds direction of genetic effects in transcriptome-wide association studies&nbsp;&nbsp;Nature
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 10:13:56 GMT
+- URL：https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tZTBtZVlmN0RMNlViYkdIamRXb1g3VEM3STJXd2d4Szhva1VZVC03LW9WaEM1THNhNVE0bXg0UE9vS1dHMGVPamF3VGFOSDZfSXByeVZRTEtfby12ckZ3?oc=5
+
+### 8. OG&E’s large load tariff case decision delayed by regulators to 2027 - Oklahoma Energy Today
+- 摘要：OG&E’s large load tariff case decision delayed by regulators to 2027&nbsp;&nbsp;Oklahoma Energy Today
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 15:27:53 GMT
+- URL：https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDMxbzdVZTdhTlNvMWg2YUs2YllscWw2WlJ3aFJvY2pVODNodlZtYzVNak05TVQ1ekxScGx3QkU5d2ZMVmFXc3FiVUk1cUotXzlJS0pKWklWc0tTajVESC1zWk1BVDc2b0xlNktGTERTTndQa1RKMDJ0SVdaVmhxc0g5VExfeTZBQUdmUDdrZGY0WDB5RnpuUHJKY0pCR0ZHeDkw?oc=5
+
+### 9. Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation - Petrie-Flom Center
+- 摘要：Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation&nbsp;&nbsp;Petrie-Flom Center
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 13:07:50 GMT
+- URL：https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5
+
+### 10. Regulation is growing more popular — but history suggests the details will matter - Inquirer.com
+- 摘要：Regulation is growing more popular — but history suggests the details will matter&nbsp;&nbsp;Inquirer.com
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 11:01:00 GMT
+- URL：https://news.google.com/rss/articles/CBMingFBVV95cUxNbFh4djhFVkdXNjhhYjU2SXdXelE1NHRLTFVDMEVLU2FLWlctRm5ZdEFvOFlnOFBQTHZFU1Y1UHlMZ3lZNHlzaW92UWlUc3BwZFN6NnJrUWYwVTliU0FRcURuSnU3RmYwSEkwM1dRd2JwXzktYUdzQXhFS1hobFVITE00WDh0d00zcGZRZnFWUW82dXBfOEFEOEZJTi1hUQ?oc=5
+
+### 11. Age Checks, AI Regulation and Censorship Put Internet Freedom Under Pressure - Tech Policy Press
+- 摘要：Age Checks, AI Regulation and Censorship Put Internet Freedom Under Pressure&nbsp;&nbsp;Tech Policy Press
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 12:33:41 GMT
+- URL：https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0wtcGQyY0dvY3pBMmRSNEd2ZXNpcmx5T2tRcGJDaEN4WUt6amxvTHg1ZFJtSXpNeUpILVJCNlRtVkY2RkN6aS1hYXdGQ3E4RWxRdWFudm90U3Q2REloU1pZbHlTaVV3VlFOcXVFR01mbFFicldTc2poTExxV2RtQUYtajk2em4zZGMwdnBscWxET2VuZnVJNnUwSzItU3FrZ0E?oc=5
+
+### 12. European Parliament progresses negotiations on MISP package - Global Regulation Tomorrow
+- 摘要：European Parliament progresses negotiations on MISP package&nbsp;&nbsp;Global Regulation Tomorrow
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 15:17:43 GMT
+- URL：https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFva05KREhObEtoOWtIdlViQ1ZORjlqLXM1UEJRRUMxN3RCVmJLd0JUY2pzekZJaW93VndxQ2hlVDliQUhRdWg2YlBoQXRSSVdrV0F6MHo5QXRGQm1qeGZJY3ViOEdPQjV3dFF4M1Q4Mk4xQ2Vya0NmV1dVU19ORW9nRWxYRkFobHlGQkxXN2RUMDVYeEgzYV9RMHZxVUZFLXhxbjNB?oc=5
+
+### 13. China Takes Cleantech Tariff Fight to COP31 Climate Summit - Impakter
+- 摘要：China Takes Cleantech Tariff Fight to COP31 Climate Summit&nbsp;&nbsp;Impakter
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 16:02:20 GMT
+- URL：https://news.google.com/rss/articles/CBMihwFBVV95cUxQTDZ2WkdUSGpJZ2dlSU9zVzY3N2JHdlJmZmVfMHJSS29hOW92bUtRcFpOVkUwNFJ4RkpReDNiU3pEcnByMkJTb2NvbXJHQTk1WXhtaE9JbXpJMmNpUTMxVzRkU3BBcG83cTNwRXlCVTdLVUdZdVlPc2laaTFZNEROajJQOWFyLUU?oc=5
+
+### 14. Epic's 'Fortnite' to return on Apple's app store in Australia after antitrust ruling - Central Oregon Daily
+- 摘要：Epic's 'Fortnite' to return on Apple's app store in Australia after antitrust ruling&nbsp;&nbsp;Central Oregon Daily
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 16:05:35 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdFNSXy1wdE8yVVlQYjNuNTBNbUtWY2t6S3RlWDNwX3lVWnpidFpjTWNzTkQ5WWVTdjNLS3h1Y29LQ0NrQlFvUlNxUkJUX2V4anJnU3ptQjUyRDZWd2p6SXVYMTZEVFJsdTAzMUVUMnluUFpoaUtpbVF1YWdXc19GVlR3cHZsZ0JWSGFaTVFqS1Y4WXJZYUgxVGJXWkNMZE5SMnhMYWkyY0taN0hlX2I4ZWx3T3pJbm4wOWliWXozLUNaUkhCdGN3SmRLaENZXzNBRjliR1NDZXdlcHphMjRmclN0SUs4MTdwR0FYdVRoSlI0Q0kxZW1aNWN3cUxwb0dIbk1zNlJzcWowV2M?oc=5
+
+### 15. Epic's 'Fortnite' to return on Apple's app store in Australia after antitrust ruling - The Lufkin Daily News
+- 摘要：Epic's 'Fortnite' to return on Apple's app store in Australia after antitrust ruling&nbsp;&nbsp;The Lufkin Daily News
+- 信源：Google News（二级）
+- 日期：Thu, 22 Oct 2026 16:01:49 GMT
+- URL：https://news.google.com/rss/articles/CBMijAJBVV95cUxNMnhybXAzeXZSR0tmV2FYNnZCTGlOLWFaRFY3bTVvb2ZHclJYQlo4U0tNQjJ0bFJuMy0tR01ud3BJdERlQ2ctSVBkaEFKekpiYkN4a0xyZDVndE9ibTFXNnlELWJucTN6SDJrRmh4TFUtMzlpbmtRck5JSVpKUDN1WklzeVlJa2NLSFl0U1U1MXA1dEhmOWRtOE8zN0hoY0xKODItU1R0eldXRkhGSkh3RndHMi1QRy13S1ZCWkpRelR6ZGozMUhRSGMwXzNabU5KNEY2dTJMLTF6U0RySk9TZ2lvZFpUN2tVY1JTR0swUW1jcUQtQk5ZTnhEbkkxUzFSODRNLW1VRlJidE1w?oc=5
+
+
+## 信源采集日志
+
+| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
+|---|------|------|------|----------|----------|----------|
+| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-10-23 00:41 |
+| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-10-23 00:41 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-10-23 00:41 |
+| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-10-23 00:41 |
+| 5 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-10-23 00:41 |
+| 6 | CNET | 二级 | 消费与数码 | RSS自动 | 20条 | 2026-10-23 00:41 |
+| 7 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-10-23 00:41 |
+| 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-10-23 00:41 |

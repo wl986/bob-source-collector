@@ -669,3 +669,677 @@
 | 6 | Engadget | 二级 | 消费与数码 | RSS自动 | 20条 | 2026-11-14 13:34 |
 | 7 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-11-14 13:34 |
 | 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-11-14 13:34 |
+
+---
+
+# 信源缓存（云端自动采集 · 2026-11-15 01:41）
+
+> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
+> 采集时段：evening
+> 有效期：7天
+> 总条目：136条
+
+
+## 科技与AI（20条）
+
+### 1. Here are our favorite deals from REI’s giant Holiday Sale
+- 摘要：Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve al
+- 信源：The Verge（二级）
+- 日期：2026-11-14T10:00:00-05:00
+- URL：https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026
+
+### 2. The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs
+- 摘要：Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode 
+- 信源：The Verge（二级）
+- 日期：2026-11-14T10:00:00-05:00
+- URL：https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+
+### 3. Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print
+- 摘要：Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for
+- 信源：The Verge（二级）
+- 日期：2026-11-14T09:18:36-05:00
+- URL：https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print
+
+### 4. This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers
+- 摘要：As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when 
+- 信源：The Verge（二级）
+- 日期：2026-11-14T09:00:00-05:00
+- URL：https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on
+
+### 5. A gadget to make your dumb house smarter
+- 摘要：Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for takin
+- 信源：The Verge（二级）
+- 日期：2026-11-14T08:00:00-05:00
+- URL：https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer
+
+### 6. Jensen Huang and the decline of the visionary showman founder CEO
+- 摘要：On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps an
+- 信源：The Verge（二级）
+- 日期：2026-11-14T07:00:00-05:00
+- URL：https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
+
+### 7. FAA lifts nationwide ground stop that blocked takeoffs for hours
+- 摘要：Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circ
+- 信源：The Verge（二级）
+- 日期：2026-11-13T20:53:04-05:00
+- URL：https://www.theverge.com/news/1033489/faa-ground-stop
+
+### 8. Amazon has a plan to index the world’s online shopping data
+- 摘要：Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information 
+- 信源：The Verge（二级）
+- 日期：2026-11-13T18:49:11-05:00
+- URL：https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+
+### 9. ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
+- 摘要：After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting tod
+- 信源：The Verge（二级）
+- 日期：2026-11-13T15:45:10-05:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
+
+### 10. CMF’s milk carton-shaped Bluetooth speaker is down to a new low price
+- 摘要：Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its u
+- 信源：The Verge（二级）
+- 日期：2026-11-13T15:30:00-05:00
+- URL：https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale
+
+### 11. The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 13 Nov 2026 13:10:00 +0000
+- URL：https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/
+
+### 12. More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
+- 摘要：Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic lim
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 13 Nov 2026 10:00:00 +0000
+- URL：https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/
+
+### 13. Silicon Valley claims to know the future. So why did it get the midterms so wrong?
+- 摘要：The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming t
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 13 Nov 2026 10:00:00 +0000
+- URL：https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/
+
+### 14. Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility
+- 摘要：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures ca
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 12 Nov 2026 20:16:24 +0000
+- URL：https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+
+### 15. The Download: COP31’s climate challenge and the quest for immortality
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Thu, 12 Nov 2026 13:10:00 +0000
+- URL：https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/
+
+
+## 金融市场（20条）
+
+### 1. Ground stop followed updates to older L3Harris communication system: DOT’s Duffy
+- 摘要：The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Sat
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 16:46:11 GMT
+- URL：https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html
+
+### 2. Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home
+- 摘要：Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 12:00:01 GMT
+- URL：https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html
+
+### 3. Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors
+- 摘要：Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignatio
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 17:35:51 GMT
+- URL：https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html
+
+### 4. SpaceX launches Starship in key test flight of massive rocket
+- 摘要：The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starba
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 01:18:51 GMT
+- URL：https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html
+
+### 5. How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off
+- 摘要："Grand Theft Auto VI" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery an
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 14:54:22 GMT
+- URL：https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html
+
+### 6. Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker
+- 摘要：Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chip
+- 信源：CNBC（二级）
+- 日期：Fri, 13 Nov 2026 23:42:18 GMT
+- URL：https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html
+
+### 7. Berkshire breaks out to record high with fourth-quarter rally reaching 19%
+- 摘要：Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 14:02:39 GMT
+- URL：https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html
+
+### 8. How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts
+- 摘要：ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival ch
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 15:50:43 GMT
+- URL：https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html
+
+### 9. Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials
+- 摘要：Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 15:36:47 GMT
+- URL：https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html
+
+### 10. Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says
+- 摘要：With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 14:30:01 GMT
+- URL：https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html
+
+### 11. Juice your growth and save on taxes in this workplace investment account
+- 摘要：High-deductible medical benefit plans with health savings accounts are on the menu at many employers as enrollment season for 2027 continues.
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 14:08:17 GMT
+- URL：https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html
+
+### 12. Retailers are turning to entertainment to win shoppers’ attention
+- 摘要：Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 13:00:01 GMT
+- URL：https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html
+
+### 13. Meet the seven co-founders of Anthropic
+- 摘要：Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. They're now poised to become multi-billionaire
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 12:15:01 GMT
+- URL：https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html
+
+### 14. Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.
+- 摘要：A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blac
+- 信源：CNBC（二级）
+- 日期：Sat, 14 Nov 2026 15:14:57 GMT
+- URL：https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html
+
+### 15. They train people to avoid 'honeypot' scams—here are the common red flags they spot: 'It feels so good to be wanted'
+- 摘要：Corporate security firms train companies and their employees on strategies for being vigilant against honeypots, and other social engineering attacks.
+- 信源：CNBC（二级）
+- 日期：Fri, 13 Nov 2026 21:06:25 GMT
+- URL：https://www.cnbc.com/make-it/2026/11/13/honeypot-scam-red-flags.html
+
+
+## 中国出海（20条）
+
+### 1. EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters
+- 摘要：EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs&nbsp;&nbsp;Reuters
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 08:05:37 GMT
+- URL：https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5
+
+### 2. Huang Resigns From Nvidia. Here Are the Stakes for U.S. Foreign Policy. - Council on Foreign Relations
+- 摘要：Huang Resigns From Nvidia. Here Are the Stakes for U.S. Foreign Policy.&nbsp;&nbsp;Council on Foreign Relations
+- 信源：Google News（二级）
+- 日期：Thu, 12 Nov 2026 18:15:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdExUODdKM0NuNHYzUTlkZGVTTFBZMlBfVkRaTFFNRXlKRXFXN2hqYVdiVkVtX2dFcGVBYlJ6dkg2XzFfcFFVU3hPRkJnNjN1SEZ0WXFHblJ0aHdoOXp0Q2RtWTJrdnRSbFJoZUxjRmM2NTBGdzVoT3RiYlVwd2pKZ0hFY3FJb2dIaWp2UTJPWVhhbWFyRkRrMTAyTnN3VDZpcEpCbU5mTGE?oc=5
+
+### 3. Rethinking the compliance boundaries of overseas reinvestment rules | China - Law.asia
+- 摘要：Rethinking the compliance boundaries of overseas reinvestment rules | China&nbsp;&nbsp;Law.asia
+- 信源：Google News（二级）
+- 日期：Thu, 12 Nov 2026 15:42:06 GMT
+- URL：https://news.google.com/rss/articles/CBMidkFVX3lxTFBwbENZRUxfRUQzUS1VUEJTRkR4R3VwWC1TeDVub1hObXNZRThPSTI0dnMwb1l2dVJaQ0FONm9hN0QyQjJreEJKckh4ZW50UnZQRmo3bVM2QkZIUHBVNFJPajZTSFNoV2xvOHpWVm1hOW1ZWEpLYkE?oc=5
+
+### 4. Megaspeed's vacant offices raise questions about ties to Nvidia and China - CBS News
+- 摘要：Megaspeed's vacant offices raise questions about ties to Nvidia and China&nbsp;&nbsp;CBS News
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 15:19:08 GMT
+- URL：https://news.google.com/rss/articles/CBMiaEFVX3lxTE52LU1peGdldFJnVUVCNEFTeVVMMUN5c1hqWTBWX29VSU5TOTROUXoxSUNydjdrT3hJSUx1dzhNb0pGVW5QZHNvX3lISmU2dWFuekpVdGFmMmRXWWtSdnNzbnZmVy1FNHEw?oc=5
+
+### 5. “From a Launchpad for Chinese Companies’ Overseas Expansion to a U.S.-China Battleground”: AI Chip War Shakes Singapore, Testing Southeast Asia’s Diplomatic Balancing Strategy - https://economy.ac/
+- 摘要：“From a Launchpad for Chinese Companies’ Overseas Expansion to a U.S.-China Battleground”: AI Chip War Shakes Singapore, Testing Southeast Asia’s Dipl
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 04:56:02 GMT
+- URL：https://news.google.com/rss/articles/CBMiV0FVX3lxTE83VVE5cjFzMFJuYWV0Szg2RWRabDBnMjdiVXRXcDBPRXc1bndqRE94N2c2aVFYWHdOMUh5NW1wZnAwSXhLbW0wc3BndnNrSkxlbFlDWi1HMA?oc=5
+
+### 6. Shifting ground: Human rights, Chinese investment and the rush for transition minerals - Business and Human Rights Centre
+- 摘要：Shifting ground: Human rights, Chinese investment and the rush for transition minerals&nbsp;&nbsp;Business and Human Rights Centre
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 08:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTdQTFUwZGZMTVg0WEFuNVhfeTFHVDlyc2hTeENlWHE2OGhlOEtSZHdON09oZjNVWlZsZW1SbS1CdkFvT1p5THJidWFnMGdQUGwwVVg5b0ZpSWM0VnQzczZzN2dlY1FpeU5Dakh2bmt3a2NYZjItV1h2aEtEcm5qVnZWaTRNNklCMld2V09BdmdSSFFOeVlGcGpqN3NDLTRuWFdWaHZPQ1JVVHR0cGttejZqLThwZ2FXR05LZ1dHajdxOFZEMjdOR19NT0RUUDk5UnBxOGpCRDg5ajg?oc=5
+
+### 7. In Focus | ‘Impossible to hide’: scrutiny complicates Singapore’s role as testbed for China - South China Morning Post
+- 摘要：In Focus | ‘Impossible to hide’: scrutiny complicates Singapore’s role as testbed for China&nbsp;&nbsp;South China Morning Post
+- 信源：Google News（二级）
+- 日期：Wed, 11 Nov 2026 22:00:10 GMT
+- URL：https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFJ2Rll0Y2diR3BkbHhEemI3YXUwTlRBTjJHWUZhWi0wRlFoZC1jOC0xdDFnTkRXakdGYjgyS0dJZXlrTUZSMzRnemY2Nm1WZ212NU1jN3dwS3dRVE5HU3dYSjVZcXo4TnJBd0F4eENabmxodlk1emQ3M2NFTW9hRllXQW5iT1BzWVhyeHkwVy1MY3VDLXdENFJfSnd2S2FNenhqaXJUVU5nMEs2bXV1S1hZZFo5Uy0xVFlPQ2pPNGYyMy1INzFJMm1iZm1RdlJyd2ZhdzVNdGxlVUltLVJoSDFjVEdOZ3cxV191Vmlxdk9fcWF2YTNPaGN1VTc0MnpEZmtz?oc=5
+
+### 8. China Film Pavilion Marks Its Fourth Consecutive Year at AFM - Variety
+- 摘要：China Film Pavilion Marks Its Fourth Consecutive Year at AFM&nbsp;&nbsp;Variety
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 17:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3lBZkxrQnBlZjZ3WTFadEYwS2U1eURrRjc1ZFlLa3VBSnQ5cHozTUczeGRFWVk0anBPX1FOVTFRQUZZUWR3Uno5ejBPSzRJRENrVXpHdVpTMllhNDhEMDV1c2hvMkZ0SmxWOXBaU3lKRG54Y0U3Zzc5NkxKZVlOMS13TnROak83TThET1liR2JkR0NHdFU4Mw?oc=5
+
+### 9. At Shanghai’s International Import Festival, Global Brands Rethink China’s Role - Vogue
+- 摘要：At Shanghai’s International Import Festival, Global Brands Rethink China’s Role&nbsp;&nbsp;Vogue
+- 信源：Google News（二级）
+- 日期：Thu, 12 Nov 2026 05:30:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGJVRExxS0FDRlZlUDJHbGljSEd5QlFla0ZPa1JDakJ2b1k0SW9MVm1CcmlyaEp1eDZWZENRMGlvUnJQYzc3YW4tR1pQendqcFJ6aXhQWlZsd0FvWHNsVkVmeEFBQWd2OW1VVmhoeVBsaWFidmxjZjZ6bDZVSkpQcUtTRW5LZ3hKbS05Ri1FX09ObmMxZUhMQ29LOTZ3OFRrM3Q4dXN3NFo5dw?oc=5
+
+### 10. Citigroup Expects Chinese Yuan to Hit 6.5 per Dollar, Sees Revenue Growth in Supporting Chinese Firms' Overseas Expansion - BigGo Finance
+- 摘要：Citigroup Expects Chinese Yuan to Hit 6.5 per Dollar, Sees Revenue Growth in Supporting Chinese Firms' Overseas Expansion&nbsp;&nbsp;BigGo Finance
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 01:35:00 GMT
+- URL：https://news.google.com/rss/articles/CBMidkFVX3lxTE0wWFI0U1BmcGROc2R4NV9vWk5seWJQX0g4cE1Zek83RFBrUVVKX3JCODR5SUg1bDk0NjhOekdyRldTWVdlTWpoNDVwbFExQ2FaaXY1M1JSV1pIUTl1VG1ONHlZcElGS3RqMllaTUNOTVUxZ1ZXU2c?oc=5
+
+### 11. South Korea should not fear China’s rise, foreign minister says - TimesLIVE
+- 摘要：South Korea should not fear China’s rise, foreign minister says&nbsp;&nbsp;TimesLIVE
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 09:04:36 GMT
+- URL：https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNfNlJuc0VnNFFQdlNja05DNWtORTdqR3J0Qld3Nl90MWI4OFBNUGRIMm9HanNTMk0waXloS3JkZmhidzlGSzdLWmplYzhHX3Azcnc4ckplSGxtRkJnNHNaX21JX2xuRzJpSkwxSWtMUE5vQlVQby1zak5NbTRvOE1VaVhSU2psVTNJb20wcUdRV2JnYXZtbTIzQlB0cnFhNUtuRVliTWNJaC1FZ2w0OEln?oc=5
+
+### 12. Caixin Summit: Foreign Firms See China as Global Growth Engine, BASF Vice President Says - Caixin Global
+- 摘要：Caixin Summit: Foreign Firms See China as Global Growth Engine, BASF Vice President Says&nbsp;&nbsp;Caixin Global
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 09:22:00 GMT
+- URL：https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUhRRzNMOTE2WXV3RlliTDZRTVhMY21zV09ESXNDMFg2OGZpb1lWdU0zX1M4Y1NFWFFwa19hdkNWdHh2WFBYTGZMOVpId2l0TGV3UzF3NUdmRGNvYV9BT1JxX2hUVmNQVkcwaGFpWVJUTFpQUFNkOHhSWGRvOHhXMGs1dy1TZS1jUmpjckJUbVZsaXgtU1h3ZXZEUDNWVXhmcWdTRE9jZlNyNkYzZkhROWl5V1YtcHNzUHhlN3NEbk5vODYzWVNuSHl1SGI3c1k3YVpTR0k3ZGw?oc=5
+
+### 13. Kao elevates China to key innovation hub - China Daily Global Edition
+- 摘要：Kao elevates China to key innovation hub&nbsp;&nbsp;China Daily Global Edition
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 01:46:11 GMT
+- URL：https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0JmZ29NU3JoSW1xMldGRlJIM2dBUEdUemJ2Z1pZekxPLUZ6LUpRYkNaaGtoelZsczhHa0RXTVUzZkZNemxIRWVwLWo1VFVLbHVRRmVWUDRjTnFVOXFrX2liWEg5WmNRd3BkRHp6aWZxQlJXSFNTZVF3b0RBa0FQazFn?oc=5
+
+### 14. Citi turns to China Inc.'s global expansion, yuan to grow cross-border business - Reuters
+- 摘要：Citi turns to China Inc.'s global expansion, yuan to grow cross-border business&nbsp;&nbsp;Reuters
+- 信源：Google News（二级）
+- 日期：Thu, 12 Nov 2026 08:29:17 GMT
+- URL：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFNpalg1VUw0c2hJZE1iYndPQ0dHTU9EZ0pucGVYUWc1Qi0wRzRBODJhajNfdDFxajhabFV3ek1QRk5TQWFfeU5vNTc3eE8waGhmTTFvMlVJV19jb3V5LVdMdVg4ZFAydl85ZFdfZ3RPWnVlSzJHbTVxd05IVENEN21jUm1kazZYQ0xaLUZEMVpTZFFNRkhyZ0tfakk0TmtuUW1FU2Y1TmEzZ0RhTkRkT3lhRmVCal9RSFpKRkwzVF8?oc=5
+
+### 15. Alibaba Sinks 8% on Report U.S. Is Finalizing Curbs on China's Remote AI Chip Access; Baidu Falls 4%, PDD Slides 3% - 24/7 Wall St.
+- 摘要：Alibaba Sinks 8% on Report U.S. Is Finalizing Curbs on China's Remote AI Chip Access; Baidu Falls 4%, PDD Slides 3%&nbsp;&nbsp;24/7 Wall St.
+- 信源：Google News（二级）
+- 日期：Thu, 12 Nov 2026 14:48:00 GMT
+- URL：https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWVLb0Jmc04teDdIWWNxZzZrSE5ENHE4X1FxdHNIYWtUd0NqTnl6YWJLZnFSLVo1WDYtajBpMnJxenJTdTZfODF2cldOU3dOUHlkMUZtWDlLMkZ6ajZPYmtSVGc2c1FkQVAydkFwek5WbTRvVWpET3FFYlhlRFlMR3NzaE1uSVNHdlEwVnpuN1NES0ctNUJLWGdrUmdmWlBJTjlQeEFDTG5KVy1uREhOVVpkOVlBckU5NkpNV1JpSEJ1dHdjWDdTXzRQYTRsYmVENjBEaGRIdmVBbEZwbVJaTkRNRWVkNTQ?oc=5
+
+
+## 地缘政治（20条）
+
+### 1. US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
+- 摘要：Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 16:53:39 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss
+
+### 2. Portugal vs Denmark LIVE: UEFA Nations League
+- 摘要：Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 16:45:00 +0000
+- URL：https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss
+
+### 3. Italy fines Meta $880m over photo privacy
+- 摘要：Regulator said Meta&#039;s &#039;lack of cooperation&#039; and the large number of people affected contributed to size of the fine.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 16:16:15 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss
+
+### 4. Myanmar airstrike kills 12 at displacement camp in Rakhine state
+- 摘要：A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 16:13:43 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss
+
+### 5. EU calls for immediate humanitarian access to Gaza
+- 摘要：The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 15:57:22 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss
+
+### 6. Jerusalem Daily: Israeli forces occupy Palestinian-American’s home
+- 摘要：Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 15:36:37 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss
+
+### 7. NASA’s Voyager 1 to hit new space distance record of one light-day
+- 摘要：The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 15:14:54 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss
+
+### 8. Canada’s Stelco to recall 175 workers after government pressure
+- 摘要：Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 15:06:52 +0000
+- URL：https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss
+
+### 9. Why US Democrats are expected to keep Schumer and Jeffries in power
+- 摘要：The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 14:57:04 +0000
+- URL：https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss
+
+### 10. Empower conference: officials and youth discuss peace and security
+- 摘要：At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 14:49:37 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss
+
+### 11. When tech founders leave, what happens to their companies?
+- 摘要：Nvidia could lose 30 percent of its value following cofounder Jensen Huang&#039;s decision to step down, analysts warns.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 14:24:36 +0000
+- URL：https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss
+
+### 12. Young musicians connect a community across the Line of Control
+- 摘要：Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 13:56:07 +0000
+- URL：https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss
+
+### 13. How does Iran view shift in US approach after JD Vance ordered away?
+- 摘要：Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 13:24:44 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss
+
+### 14. Spain vs England: UEFA Nations League – predictions, how to watch, teams
+- 摘要：Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 13:03:06 +0000
+- URL：https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss
+
+### 15. Russian casualties ‘reach 450,000’: What that means for the Ukraine war
+- 摘要：Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.
+- 信源：Al Jazeera（二级）
+- 日期：Sat, 14 Nov 2026 12:57:36 +0000
+- URL：https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss
+
+
+## 消费与数码（16条）
+
+### 1. I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks
+- 摘要：I tested Apple’s new AI note-taking features in WatchOS 27.3, and now I’m more concerned about my sanity than my privacy.
+- 信源：CNET（二级）
+- 日期：2026-11-14T16:00:00Z
+- URL：https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/
+
+### 2. Which Earbuds Are Best for Voice Calling? Check Out the Pair That Won My Latest Test
+- 摘要：As part of our Holiday Office Hours from the the Labs video series, I pitted four pairs of earbuds against each other on the noisy streets of New York
+- 信源：CNET（二级）
+- 日期：2026-11-14T14:00:00Z
+- URL：https://www.cnet.com/tech/mobile/holiday-office-hours-labs-earbuds-voice-calling/
+
+### 3. Razer’s Wild $1,000 Gaming Chair Has 6 Motors, Built-in Speakers, RGB Lighting
+- 摘要：The Soma Pro and Some Sense HD Haptics are part of an updated vibrating gaming chair lineup promising better immersion and improved comfort.
+- 信源：CNET（二级）
+- 日期：2026-11-13T23:59:49Z
+- URL：https://www.cnet.com/tech/gaming/razer-soma-pro-gaming-chair-1000-has-six-motors-built-in-speakers-rgb-lighting/
+
+### 4. SpaceX Attempts History Friday With the First-Ever Double Catch
+- 摘要：SpaceX is going to catch the Super Heavy rocket and the upper stage of the Starship booster, something never done before.
+- 信源：CNET（二级）
+- 日期：2026-11-13T18:58:24Z
+- URL：https://www.cnet.com/science/space/spacex-starship-flight-15-double-catch/
+
+### 5. After 3 Weeks and More Than 451,000 Folds, the iPhone Duo’s Hinge Is Finally Starting to Fail
+- 摘要：We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple’s phone shows the first major sign of wear.
+- 信源：CNET（二级）
+- 日期：2026-11-13T16:50:08Z
+- URL：https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/
+
+### 6. Why Chefs Save Leftover Pasta Water, and Why You Should, Too
+- 摘要：If you’re skipping this step when making pasta, you’re leaving behind liquid gold.
+- 信源：CNET（二级）
+- 日期：2026-11-13T15:06:55Z
+- URL：https://www.cnet.com/home/kitchen-and-household/why-chefs-save-pasta-water-cooking-tips/
+
+### 7. Animaj Brings ‘Ozzy Fox’ Series to Disney Plus as It Charts a Path for AI in Animation
+- 摘要：Animators using agentic AI? It’s already happening, and this is what it looks like.
+- 信源：CNET（二级）
+- 日期：2026-11-13T13:05:00Z
+- URL：https://www.cnet.com/tech/services-and-software/animaj-ozzy-fox-series-disney-plus-ai-agentic-animation/
+
+### 8. After Jensen Huang, Big Tech Has a Chance to Learn From Nvidia’s Mistakes
+- 摘要：Tech insiders and commentators say Nvidia will survive Huang’s departure, but it’s time for more accountability among CEOs.
+- 信源：CNET（二级）
+- 日期：2026-11-13T01:30:20Z
+- URL：https://www.cnet.com/tech/services-and-software/jensen-huang-big-tech-learn-from-nvidias-mistakes/
+
+### 9. Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock
+- 摘要：Google Wallet can unlock Android users’ doors who have compatible smart locks.
+- 信源：CNET（二级）
+- 日期：2026-11-13T00:49:36Z
+- URL：https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/
+
+### 10. AMD Issues Fix for GPU Software Issue That Wore Down SSDs
+- 摘要：AMD released a new version of its Adrenalin Edition graphics software to address excessive SSD writing.
+- 信源：CNET（二级）
+- 日期：2026-11-12T00:54:34Z
+- URL：https://www.cnet.com/tech/computing/amd-gpu-ssd-bug-fix/
+
+### 11. You Could Learn to Pilot This ‘Flying Car’ in Just 5 Minutes
+- 摘要：Is it a bird? Is it a plane? Is it a… flying Cybertruck? Nope, it’s a modular flying machine that will take to the skies next year.
+- 信源：CNET（二级）
+- 日期：2026-11-12T22:23:22Z
+- URL：https://www.cnet.com/roadshow/xpeng-aridge-land-aircraft-carrier-flying-car/
+
+### 12. Put That Pan Anywhere: Miele’s New Induction Cooktop Is One Big Burner
+- 摘要：The unique full-surface cooktop accommodates up to six pieces of cookware at once, anywhere you place them.
+- 信源：CNET（二级）
+- 日期：2026-11-12T21:48:17Z
+- URL：https://www.cnet.com/home/kitchen-and-household/miele-new-full-surface-induction-cooktop-one-big-burner/
+
+### 13. AI Layoffs Risk Triggering 1.6 Million More US Job Losses
+- 摘要：Tech has already shed more than 200,000 jobs in 2026 — leaving Wall Street to wonder if retail and finance are next.
+- 信源：CNET（二级）
+- 日期：2026-11-09T23:24:46Z
+- URL：https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/
+
+### 14. How You Collaborate With AI on Creative Work Makes All the Difference
+- 摘要：A new study dives into the consequences of collaborating with AI on creative endeavors, and what it means for output and satisfaction at work.
+- 信源：CNET（二级）
+- 日期：2026-11-12T17:17:01Z
+- URL：https://www.cnet.com/tech/services-and-software/ai-collaboration-creative-work-research-findings/
+
+### 15. Whoop’s New ‘Verifiably Human’ Social Network Feature Lets You Share Health Data
+- 摘要：Humans allows members to follow, share, comment and react to each other’s data and achievements.
+- 信源：CNET（二级）
+- 日期：2026-11-12T17:00:00Z
+- URL：https://www.cnet.com/tech/mobile/whoop-users-now-share-health-data-new-social-network-feature/
+
+
+## 民生与社会（20条）
+
+### 1. Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story
+- 摘要：After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Z
+- 信源：Guardian（二级）
+- 日期：Thu, 12 Nov 2026 13:14:38 GMT
+- URL：https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story
+
+### 2. Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities
+- 摘要：Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah bord
+- 信源：Guardian（二级）
+- 日期：Tue, 10 Nov 2026 15:39:26 GMT
+- URL：https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities
+
+### 3. Collision of two trains in Egypt kills at least seven
+- 摘要：President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from CairoSeven people were killed and at least 125 
+- 信源：Guardian（二级）
+- 日期：Sun, 08 Nov 2026 17:51:17 GMT
+- URL：https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision
+
+### 4. How African philosophies inspired a new approach to staging film festivals in Manchester
+- 摘要：See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creativesAfr
+- 信源：Guardian（二级）
+- 日期：Sun, 08 Nov 2026 12:00:39 GMT
+- URL：https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester
+
+### 5. Choking fires, deadly heat and devastating floods: 2026 in extreme weather
+- 摘要：People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastropheAfter the world’s ho
+- 信源：Guardian（二级）
+- 日期：Sat, 14 Nov 2026 13:00:44 GMT
+- URL：https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026
+
+### 6. Storm Charles causes floods and flight cancellations across southern Europe
+- 摘要：Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weat
+- 信源：Guardian（二级）
+- 日期：Fri, 13 Nov 2026 08:49:19 GMT
+- URL：https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather
+
+### 7. Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies
+- 摘要：Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man b
+- 信源：Guardian（二级）
+- 日期：Wed, 11 Nov 2026 22:50:37 GMT
+- URL：https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil
+
+### 8. Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina
+- 摘要：Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custodyA 74-year-old former member of Italy’s radical Marxist 
+- 信源：Guardian（二级）
+- 日期：Wed, 11 Nov 2026 19:00:33 GMT
+- URL：https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina
+
+### 9. Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case
+- 摘要：Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 1
+- 信源：Guardian（二级）
+- 日期：Wed, 11 Nov 2026 16:05:45 GMT
+- URL：https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case
+
+### 10. Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
+- 摘要：US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen HuangUS politics –
+- 信源：Guardian（二级）
+- 日期：Fri, 13 Nov 2026 19:51:28 GMT
+- URL：https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
+
+### 11. Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast
+- 摘要：Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in
+- 信源：Guardian（二级）
+- 日期：Fri, 13 Nov 2026 03:00:06 GMT
+- URL：https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast
+
+### 12. China rules out hosting Cop33 climate summit in 2028
+- 摘要：Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate
+- 信源：Guardian（二级）
+- 日期：Thu, 12 Nov 2026 22:00:15 GMT
+- URL：https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028
+
+### 13. Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
+- 摘要：In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of
+- 信源：Guardian（二级）
+- 日期：Thu, 12 Nov 2026 06:43:31 GMT
+- URL：https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair
+
+### 14. Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment
+- 摘要：Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUk
+- 信源：Guardian（二级）
+- 日期：Wed, 11 Nov 2026 05:33:27 GMT
+- URL：https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia
+
+### 15. Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia
+- 摘要：Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restoredGet our breaking news email,
+- 信源：Guardian（二级）
+- 日期：Sat, 14 Nov 2026 06:19:04 GMT
+- URL：https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia
+
+
+## 政策与监管（20条）
+
+### 1. State antitrust challenges complicate media mergers - Axios
+- 摘要：State antitrust challenges complicate media mergers&nbsp;&nbsp;Axios
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 17:04:31 GMT
+- URL：https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUdQUHluUDZ5ZGdTQWVOcTZKVU1MLU55NmZrQ015MG42WW40dm9ieU9kajZsZjZPdFJNc2Vtem5hTEE4TW9KcXdFNXJoVkFkV3NJUmRYR3A2V1lvbVhwWUhYUGN5dlJiTWdDT3N2T05YOW51b2QyaEIwblk3c1lJV3JZazgxVlYyODVPNkVlWWZOSWMzdEVoQg?oc=5
+
+### 2. Nvidia Scandal Deals Blow to Trump’s Tariff Strategy - Newsweek
+- 摘要：Nvidia Scandal Deals Blow to Trump’s Tariff Strategy&nbsp;&nbsp;Newsweek
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 17:05:00 GMT
+- URL：https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5
+
+### 3. Managing U.S. Tariff Costs: Options for Importers - Kroll
+- 摘要：Managing U.S. Tariff Costs: Options for Importers&nbsp;&nbsp;Kroll
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 05:58:15 GMT
+- URL：https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEdMd1ZVelBRdDRIMG1Ob3VjemdBb09ncVdYaUNWZk1mV00tdG9yMHlMYmZ1d3RRbWNkQ1FZUzRicjNILXFmalZxaWxGQkF2UVd3anR0Q0NoYmRDSFhIUzVUVkpVc0lxM1pUekZaczRuMmgyNWNXTXdQUTV0b1hHbmFqTGZaRER4cmVmQQ?oc=5
+
+### 4. The countries fighting back against Trump's tariff tirade - DW.com
+- 摘要：The countries fighting back against Trump's tariff tirade&nbsp;&nbsp;DW.com
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 05:49:53 GMT
+- URL：https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5
+
+### 5. 3 U.S. Steel Stocks With Tariff Exposure Retail Investors Are Watching - Yahoo Finance
+- 摘要：3 U.S. Steel Stocks With Tariff Exposure Retail Investors Are Watching&nbsp;&nbsp;Yahoo Finance
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 08:09:31 GMT
+- URL：https://news.google.com/rss/articles/CBMikgFBVV95cUxQeTZsaXYzUU01M0NsMzdDYm1RQ29MYVVXVV9PYVJvbU42QUJEeEZLSzJVS1UtLTlKaE5vWUFMbWNGVzJna3AyaDJjbGdzNjdhMGVRRjkwV1ZFYlVQRGlhdzl1UGJxN0VzcVoxdThhZFlEU1c4MGFBd2w0TEJkRzRhRUtWaElLdFY1WkE0ME5fSU5Fdw?oc=5
+
+### 6. How Canadian stocks could be big winners of U.S. midterms - CNBC
+- 摘要：How Canadian stocks could be big winners of U.S. midterms&nbsp;&nbsp;CNBC
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 14:11:48 GMT
+- URL：https://news.google.com/rss/articles/CBMiekFVX3lxTE1PNW5TV3hXaF9mVF9CeTktVGZDOU04OGx3c1U4TFAwVW5Nd1dmbHBJRFJaWEpWQTJjOE9vZWJhSGd1djEyWFdxNWpPcGVKTG1ocXdFSW44TGo5QWk0OXQ2UXY3a0hYSXd5NTk0dHZ5UEhlOWhlZmtiNGpR?oc=5
+
+### 7. Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus - AgroLatam
+- 摘要：Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus&nbsp;&nbsp;AgroLatam
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 16:48:36 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1lQMGUtaWN3ckNPVDBNODZUNGlLVkcxQXNxbTczeG5pWnFaelNiM2JIRGFCV1M1MURaZlg3V2cwUWpYTUoxZVNWMWs4TWdGM0h4N2ZtbDZyS3FTMDhxZnJvV1lOTFlQOGozTnRsUXZPZ1Ewd0ctRklMOVYtSkhYTE80N2s3eDdqOFo4?oc=5
+
+### 8. Opinion | Europe’s green regulations spring a leak - The Washington Post
+- 摘要：Opinion | Europe’s green regulations spring a leak&nbsp;&nbsp;The Washington Post
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 16:47:33 GMT
+- URL：https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUZfTGxibkhHRlZrTFlXY19PektsN0ZmTGc5bDhaUEpmZUxSVFVGTGY0bmxtd2pfdlRvSjV4ZlNwU0Y5S1JfNGZOWDlzTnV0MHl4QXN6SEtFT25ycjhoeVRQeE1WblROd2pJWTBldWhWQUw0UkhTQldXb0twMVo1dm5TZU5IQzRmUUpLaG9EMzljR1Q2a24xcHpzZzhqQWtvcnZYNTZR?oc=5
+
+### 9. The migrant caravan crossing Mexico that has triggered Trump’s new tariff threat: ‘Our fear is that the Mexican president will send us back’ - EL PAÍS English
+- 摘要：The migrant caravan crossing Mexico that has triggered Trump’s new tariff threat: ‘Our fear is that the Mexican president will send us back’&nbsp;&nbs
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 04:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMingJBVV95cUxPUEQ4ZVMzNFdvSi15VUFfSnVpeGRTU2EwR2dmcEQ2LWNqZGxwNnBvMFFkd3VBb2FPck54U1BVZWd0ZkdIVmVxV2QwUURTb2NSR1lxeWhScG43OU5zQ2tmbVlIalo4TmZxaXBxY3ZTMDRXS0FZamxzS0NETHNUeDNqVWFfa25zaXIwdkZ4aDFDSm8tUmZaWWFsbWtoYVlKSDRBaWFzMGRVeE5sbF9IOEh2Yl9Ua0VRdVMzTnZEVHo1TUJ3Rlh5TDRILV9fdjRaZDFGdWJTY1ozblk0OHk4RUtlZjRKOHk2d3Z6TURxWFhzRExQRG52MWJ4NDB6Um8tcXpMZzRVM0V4WlRXTDNWZzhVcXZfR3BLZmV1WEFHamNR0gGyAkFVX3lxTFA1c29ISlVCd3BPVWp0SWlNVTVnN3FhWVVtbGdYVnFyRnVFM2g1Q2U4QkNCUXNyZ3hoSkttSUNnQUIxZm9aM2k4MlVSUldTZ2p2bUp1ekR6QnhqaGRfQ3hTNnhGSGs2SW5CM3NITktlZERKZ0gySFllTWNQakZpVTYxbS1GSVFkN25uTEFZWHlJT215eXBiQ0xjM2NUNHpGRTBUcU1nQ3E4UGhiR29nQWdDb3pzZFZ3YXFJb1ktREZsRzNsUjkya0pkVG9ENUs2ZThabUZnMVhBUmF0OHdITVdZWURTcVo3cjRtSkZTcjZiNEtKeHZtbE5ia1dQYW1ZUURTZjVMMzNWVG1GZ0lQWC1iaFh0TnR3Q3pIU1pOLWhDamNaTVVSdmdKaFVkVXdxYVNfQQ?oc=5
+
+### 10. Made in New Jersey: What America's Drug Tariff Clock Really Means for Small US Generic Makers - BioSpectrum Asia
+- 摘要：Made in New Jersey: What America's Drug Tariff Clock Really Means for Small US Generic Makers&nbsp;&nbsp;BioSpectrum Asia
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 09:36:42 GMT
+- URL：https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGg1ejIwaWV3WEV5UUtSbzg2ekExWTJJb052cjZZVVFwVlJ1XzJPUXVzX2NlcGs2RlZWcnhpSksySnFGa2Z6dnV4UDloMkt2WjBqZ2toRE9jT01YUDU0NDlVOHdjcU9ZUmZjaG91R2FHakJXYVhtTEc5NzJQTVB2aTZ1WUt3STJadmUxVWJxbW9jTE5XTXpub211VzFPcndrV1ZSR29DSnlaZ0FPVzY2NHV3bEk1OEdMdTdjX0FaVnBYSUo0ZENXU0tZOTU0M1YzWlpIeW96bXN2WmVPQzdN?oc=5
+
+### 11. Vietnam Logistics Executive Says Tariff Whiplash Has Companies Planning for Uncertainty - Global Trade Magazine
+- 摘要：Vietnam Logistics Executive Says Tariff Whiplash Has Companies Planning for Uncertainty&nbsp;&nbsp;Global Trade Magazine
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 14:24:42 GMT
+- URL：https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzd4bUthWEUwNC1jZURCYVJVelFJWVc5dTdpV3d3d0diSVhYRjd1RldvNDJ1NnR3STZPWDVGdkd1V0ZfRTgwODRqRUZ1c3ZtTjRRVEo4bVFRUllKUFVHajlRbmN2bjE5XzFObXlvdVZkLUNOR0EyRTV0anptTWsxaFZoTjZoWUd6RFRIbEhUWkplY1RHWHdnV0QtcW05ZHVrYzhIZHowSFBGajZ3R0RLVTIwWjVhSnNfNHhV?oc=5
+
+### 12. Mishandled Data Means No One Knows if California’s New Pesticide Regulation Protects Workers - Inside Climate News
+- 摘要：Mishandled Data Means No One Knows if California’s New Pesticide Regulation Protects Workers&nbsp;&nbsp;Inside Climate News
+- 信源：Google News（二级）
+- 日期：Fri, 13 Nov 2026 23:17:23 GMT
+- URL：https://news.google.com/rss/articles/CBMilwFBVV95cUxPVS1vOVNyUDlvU19qUzhBQXpuWVBGbW9rZVBpNG5fcnJDblBVZE9MaTZ1bDhITDV1dW53a1k0cElDaGpNWU04ZkxBSThBaERoaWlaV2tZY1JxZGh2RkRKOVpXMjA0Vy0zUHdNVEtuZkZfXzd4WHFKc2N5Vkh2UzJNRmp6d1JIcll0MVZ2QkdtRXl3ejg3bVFj?oc=5
+
+### 13. Walleye regulation changes on Minnesota's Upper Red Lake for winter season - Alexandria Echo Press
+- 摘要：Walleye regulation changes on Minnesota's Upper Red Lake for winter season&nbsp;&nbsp;Alexandria Echo Press
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 14:01:01 GMT
+- URL：https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZW1HQy1mRVk4RDNzbXpZTFlXakc0V2EyN2ZMRWxJUHVBR0RvN1J3Y0RmWmlhX3pzbnZRQXhscG5PWHVtSGI1TlZDR1NHRGJNY0UtcWdNYkFkZEk5QVpjRWN4VlRuaFZzRkZoYVdQUmxISElxN2xRdkhhNGI1RWdTVzRtYWRwVHR3R204ZVA0YWZITUFDQjJUaVAzNFFRVjVLbE5zMVk0UEs2R1pMNFNzWXYtTG11ZlZGZmI1ZjRQaE5vcjg?oc=5
+
+### 14. China and US Discuss Tariff Cuts and Agricultural Trade - 8AM Media
+- 摘要：China and US Discuss Tariff Cuts and Agricultural Trade&nbsp;&nbsp;8AM Media
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 17:13:54 GMT
+- URL：https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2tZdFM3QXhFSlJkZDRBVmVJMVR4VGtCTzlyQUhSZGp3VlFjRElGVENZVkJhRXdXYXgyWkVMZm1LekMwZVdkZHRDX2g4bGlPY18tZnNaS1EzLVg5RnItUWEzblp6ZlR1VDRHMllpdy1iOUk3ZjhDOEItOXhzSWUyd0FMY0k?oc=5
+
+### 15. Microsoft’s 1998 Case Still Shapes 3 Big Tech Suits - shattered.io
+- 摘要：Microsoft’s 1998 Case Still Shapes 3 Big Tech Suits&nbsp;&nbsp;shattered.io
+- 信源：Google News（二级）
+- 日期：Sat, 14 Nov 2026 12:19:24 GMT
+- URL：https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2p0MG15V2dYR05ZWE95N2cxejBkWkZhSjNwSUFvNGZrb1RZdi1fN2p4Y29QbnVIUmY3TFNDVnUtQTZjNmM5OF9Yb083VkxmNms3V3FXMmREaHdoTllWX2ZfWlJhR0FBMGpWMldxWVE0emlwLUJvOXp3VjVNSlZWelMzOTY0MzI3bW5kYWd3?oc=5
+
+
+## 信源采集日志
+
+| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
+|---|------|------|------|----------|----------|----------|
+| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-11-15 01:41 |
+| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-11-15 01:41 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-11-15 01:41 |
+| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-11-15 01:41 |
+| 5 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-11-15 01:41 |
+| 6 | CNET | 二级 | 消费与数码 | RSS自动 | 16条 | 2026-11-15 01:41 |
+| 7 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-11-15 01:41 |
+| 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-11-15 01:41 |

@@ -669,3 +669,677 @@
 | 6 | Engadget | 二级 | 消费与数码 | RSS自动 | 20条 | 2026-11-23 14:32 |
 | 7 | BBC | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-11-23 14:32 |
 | 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-11-23 14:32 |
+
+---
+
+# 信源缓存（云端自动采集 · 2026-11-24 07:25）
+
+> 采集方式：GitHub Actions云端自动执行（电脑无需开机）
+> 采集时段：evening
+> 有效期：7天
+> 总条目：137条
+
+
+## 科技与AI（20条）
+
+### 1. The hacker behind early GTA VI leaks has been sentenced — and released
+- 摘要：Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, wa
+- 信源：The Verge（二级）
+- 日期：2026-11-23T18:25:01-05:00
+- URL：https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released
+
+### 2. The Verge’s 2026 holiday gift guide
+- 摘要：Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well yo
+- 信源：The Verge（二级）
+- 日期：2026-11-23T18:14:10-05:00
+- URL：https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026
+
+### 3. Ladybird, the first new browser engine in years, is now available to test
+- 摘要：Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling a
+- 信源：The Verge（二级）
+- 日期：2026-11-23T17:38:09-05:00
+- URL：https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
+
+### 4. Trump engineered a risky comeback for Jensen Huang
+- 摘要：After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Don
+- 信源：The Verge（二级）
+- 日期：2026-11-23T17:25:12-05:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated
+
+### 5. Nvidia CEO Jensen Huang is back. What happens next?
+- 摘要：After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company
+- 信源：The Verge（二级）
+- 日期：2026-11-23T17:10:32-05:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
+
+### 6. Welcome to elite impunity, Jensen Huang
+- 摘要：I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President 
+- 信源：The Verge（二级）
+- 日期：2026-11-23T17:09:26-05:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang
+
+### 7. The Apple Watch Series 12 is cheaper than ever ahead of Black Friday
+- 摘要：If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple W
+- 信源：The Verge（二级）
+- 日期：2026-11-23T16:36:48-05:00
+- URL：https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale
+
+### 8. AI data centers throw another wrench into chaotic UN climate talks
+- 摘要：The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates
+- 信源：The Verge（二级）
+- 日期：2026-11-23T16:09:37-05:00
+- URL：https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit
+
+### 9. Apple renews Ted Lasso for season 5
+- 摘要：One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth
+- 信源：The Verge（二级）
+- 日期：2026-11-23T15:56:00-05:00
+- URL：https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv
+
+### 10. Claude AI can review pull requests and ship fixes on its own now
+- 摘要：Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, C
+- 信源：The Verge（二级）
+- 日期：2026-11-23T15:00:00-05:00
+- URL：https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests
+
+### 11. A legendary philosopher isn’t buying Anthropic’s consciousness argument
+- 摘要：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going
+- 信源：MIT Tech Review（二级）
+- 日期：Mon, 23 Nov 2026 17:36:08 +0000
+- URL：https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
+
+### 12. The Download: AI’s judgment problem and carbon removal’s crop threat
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Mon, 23 Nov 2026 13:10:00 +0000
+- URL：https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
+
+### 13. Why using rocks for carbon removal could eventually reduce crop growth
+- 摘要：Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get sta
+- 信源：MIT Tech Review（二级）
+- 日期：Mon, 23 Nov 2026 11:00:00 +0000
+- URL：https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/
+
+### 14. The most misunderstood graph in AI just got a major update
+- 摘要：A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 20 Nov 2026 18:15:15 +0000
+- URL：https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+
+### 15. The Download: inside the quest to make our minds immortal
+- 摘要：This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 
+- 信源：MIT Tech Review（二级）
+- 日期：Fri, 20 Nov 2026 13:10:00 +0000
+- URL：https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/
+
+
+## 金融市场（20条）
+
+### 1. Nvidia surge: What investors should do with the stock and the AI trade now
+- 摘要：The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 22:43:38 GMT
+- URL：https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html
+
+### 2. Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China
+- 摘要：Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 21:00:59 GMT
+- URL：https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html
+
+### 3. Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'
+- 摘要：Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 20:22:49 GMT
+- URL：https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html
+
+### 4. Fed's John Williams indicates higher interest rates likely 'over time' to address inflation
+- 摘要：The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 21:02:17 GMT
+- URL：https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html
+
+### 5. Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO
+- 摘要：CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 23:14:34 GMT
+- URL：https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html
+
+### 6. CNBC's The China Connection newsletter: AI race spreads from robots to smartphones
+- 摘要：More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartph
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 23:00:01 GMT
+- URL：https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html
+
+### 7. An options strategy for making even more of your money back in Nvidia
+- 摘要：Nvidia shareholders can look to the options market to recoup lost money
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 18:52:46 GMT
+- URL：https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html
+
+### 8. Trump sealed deal for Nvidia to rehire Jensen Huang as CEO
+- 摘要：President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated a
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 23:15:44 GMT
+- URL：https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html
+
+### 9. Trump administration proposes rule that could curb ESG investing in 401(k)s
+- 摘要：The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 19:46:28 GMT
+- URL：https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html
+
+### 10. Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%
+- 摘要：The Nvidia board said it had input from senior levels of the U.S. government.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 21:08:05 GMT
+- URL：https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+
+### 11. ‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now
+- 摘要：Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 18:00:47 GMT
+- URL：https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html
+
+### 12. More Americans pay this Obama-era investment tax every year — how to avoid it
+- 摘要：As more Americans pay net investment income tax, there are strategies to avoid it, experts say.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 13:15:01 GMT
+- URL：https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html
+
+### 13. DNI Jay Clayton tapped as acting national cyber director
+- 摘要：President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director "because I didn't think that person was good en
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 23:02:18 GMT
+- URL：https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html
+
+### 14. Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO
+- 摘要：The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 21:22:13 GMT
+- URL：https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html
+
+### 15. ESPN, NFL to show Super Bowl 61 in Imax theaters
+- 摘要：In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.
+- 信源：CNBC（二级）
+- 日期：Mon, 23 Nov 2026 21:55:27 GMT
+- URL：https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html
+
+
+## 中国出海（20条）
+
+### 1. China’s $150 Billion COP31 Side Show Upstages Negotiations - Bloomberg.com
+- 摘要：China’s $150 Billion COP31 Side Show Upstages Negotiations&nbsp;&nbsp;Bloomberg.com
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 15:14:06 GMT
+- URL：https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0wzQ193NFdYNG82RGhFYVl4MG4tSHpNT2xENDRqOW5pb3NLLVhUcVlFSm5WbjFCbzd5dWYxMVJ1UXNJcEZXUDV2M1Y4VVFDVDZZWkFfUnVacWd2bEhyNUNhZzdYcXZHQlM3b0hDVHZfX3BHVjY2WmJzalNaLUVuR21NR0ZDd0tONTFpZGdjd0VCUEFGM1U1VGk1ZlBSNHpVWWdCWDZrVnl5Yl91?oc=5
+
+### 2. Lawyers report ‘huge’ outbound opportunity as WIPR reveals China Patent Rankings - Life Sciences IP Review
+- 摘要：Lawyers report ‘huge’ outbound opportunity as WIPR reveals China Patent Rankings&nbsp;&nbsp;Life Sciences IP Review
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 21:11:33 GMT
+- URL：https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWt4dG1JZWNsN09VNk9nQm4wNjRJRlZ3b2FId0dnc1MtNkoyR0VBNllzMC1iNFVOY1FBN2ZNVTcycktyRzlwd0xYZi1KZDJ4OENPazFGTFFUS21XZWYwSHNuNDliQVVpOEY3SzZVcFk2OUo3ZDd0UWJYckZVMG43YnJXMENWNzh6NVBxQXRiUzV4czc5VmY4OTgyTllIc0dzTHhkYVdRekVDMEFmeVVmSjZpeFcxRUdkbUdyWVp5ZU9sS1o0REVEYlRYaG5Vcl9xZ21wV1RB?oc=5
+
+### 3. The Nvidia Scandal and the China Business Problem We Keep Seeing - Harris Sliwoski LLP
+- 摘要：The Nvidia Scandal and the China Business Problem We Keep Seeing&nbsp;&nbsp;Harris Sliwoski LLP
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 12:08:29 GMT
+- URL：https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenFmc0h1RlYzOFVqX2ctRXRLZFZ2eWZ2TEN6cGczVThISkdvaS1MUDhYVHBoT2VNNzlBTkphUUt6clFpVTBRcmRzQlBkb3BibU5scWZlUzNMR1ZGOEJiOTlLMW5wRlpMZ0c5cU80clFxaG15ai1YTFU1S3JXZzA5WG1VMGFXbm00MXBtMkZodVNLU0pSYkhWdUJMekVkVzE1Z3JhWEdWT1pWZw?oc=5
+
+### 4. ZF Commercial Vehicles Deepens Local Roots to Support Overseas Expansion - Gasgoo
+- 摘要：ZF Commercial Vehicles Deepens Local Roots to Support Overseas Expansion&nbsp;&nbsp;Gasgoo
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 03:56:17 GMT
+- URL：https://news.google.com/rss/articles/CBMizwFBVV95cUxOR0pfV09BYm9fay0zMGY2Q0psc0tzQV90bjF1a0R4RWlXdzdmcDFPVGpiSXVLX19memdSSVMyQTZrZ085amZ2UzhucHVaNXJpS0VjMlFYcGE0WEV1M1NfVC1WZDdXbVNyckhfVnQybndPbzY0WGMtZ1llSGIyQnM4aTg1RWdrWTdqd0d3YW9tOGdzS1BYY2xlWTdQbU1RUDVqZzRhYW9JQ0tzVHFpZlBubHFhTkUwWXZQanFjNlZneHhRalQxMm1kbmtVdl8xSlU?oc=5
+
+### 5. Honor CEO Li Jian: Overseas Revenue Now Exceeds 50% of Total, Light Flagship Series Could Spin Off as Sub-Brand - BigGo Finance
+- 摘要：Honor CEO Li Jian: Overseas Revenue Now Exceeds 50% of Total, Light Flagship Series Could Spin Off as Sub-Brand&nbsp;&nbsp;BigGo Finance
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 13:25:00 GMT
+- URL：https://news.google.com/rss/articles/CBMidkFVX3lxTE5UUTRkQWMyQ2pZWXVHai16ZFd4dDJnSGNaVlo2YkhGLThfcFpQbnlQS1E2TEV2V0paaHA4Tl9xZUNxZi1GcXNGalRESjVNemdrd3dpMDVQWHRHdlRsOXdyWTRvd2E0Y1IxY0ZqdmJKN2VXdm9XYlE?oc=5
+
+### 6. China opens overseas investment pilot to four reinsurers - Insurance Asia
+- 摘要：China opens overseas investment pilot to four reinsurers&nbsp;&nbsp;Insurance Asia
+- 信源：Google News（二级）
+- 日期：Sun, 22 Nov 2026 22:00:00 GMT
+- URL：https://news.google.com/rss/articles/CBMimgFBVV95cUxPOW4wazBWOUY1Qk5OTGlxNGdtZkttUmRmUFdranNXVVMwUUgtR0ZRbE5sbFRCV0M4T2J2ZnVSTWVRWEs0bWlJRU5JQklpM3BJQ1RuNmp1SWJ3a284RHloR3Rra201OW5pX3JYUXdvOW1lTTI2MUFfUXd6WUVOMzZ2eFpZUHNwUGRIeFRJVFFvX1VpRXpDcm5DTE9B?oc=5
+
+### 7. GAO Finds 1,700 Foreign Risks in Small Business Research Grants - Legis1
+- 摘要：GAO Finds 1,700 Foreign Risks in Small Business Research Grants&nbsp;&nbsp;Legis1
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 17:51:44 GMT
+- URL：https://news.google.com/rss/articles/CBMidEFVX3lxTE55bm5pMWtsN3IzUWQzRTd3dlprdFpiOFFQVkFlUHZlNVF1Q0diYzAwYy1CMWFLTUtNV2tlOXNFNGZBRV9lRGR5SUlVLU8yWVFCSnh6cVlsbF9HZmdSMTJPSnhza1R4WGQxLVlwYlB0bnpvZWhK?oc=5
+
+### 8. Chinese firms explore direct SGX listings as Beijing tightens scrutiny of red-chip structures - 联合早报
+- 摘要：Chinese firms explore direct SGX listings as Beijing tightens scrutiny of red-chip structures&nbsp;&nbsp;联合早报
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 14:16:45 GMT
+- URL：https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHo0QkpXb1Z3cUJoY1A2czY2SS1MMXRPQTRQa1NQT28tWTRkX0p5QUpKMGlGZlNZVWJkVXRwbjh1YUhnZ2VUZGVwb3hqZmtaQ2tYNGZMSHJKcHg0Q3FuWnVNMktNb2x4Q1Utd1JBNUFzU2d2Wlpsa1FtNUkwb1ZHXzczcU1OM3dFbEdsQjM3N2YyMkpVS3FkdzJ1cUIxUV9tTTEzQmJLVnJxZlA2VVBTd1RlcUsyNDRObTlLR21DQ0VQelhFNHE2WWlBMktXSGpFRDNkR3AycFliQkpDZWJ2S3UzdEtEc2pKZzNF?oc=5
+
+### 9. Nvidia's next CEO must tackle the 'complete reorganization of the AI equilibrium,' investor says - Fortune
+- 摘要：Nvidia's next CEO must tackle the 'complete reorganization of the AI equilibrium,' investor says&nbsp;&nbsp;Fortune
+- 信源：Google News（二级）
+- 日期：Sun, 22 Nov 2026 12:30:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE9Oc2JHbjNuM2I1amhILTRQa3lNczRNdEFpbGN1VmpGeEc2dlF3NzY5NzhhQVNucEc3VXBBTUNsS0xuTVU2NTZnRWJxNmpIVVRseXVIN3p0Rkg4M1UwakVYTWVEejhSUFprVnZmbGw0UmdNNF9tSms1clVnSk1xZnpHUXVkLWZRRkhicEhLRzV6TzgtbkQ1dHM4WW1JaGxYM3c?oc=5
+
+### 10. Trump floats 'tremendous tax' on companies that build data centers overseas - WISN
+- 摘要：Trump floats 'tremendous tax' on companies that build data centers overseas&nbsp;&nbsp;WISN
+- 信源：Google News（二级）
+- 日期：Sat, 21 Nov 2026 13:35:13 GMT
+- URL：https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjFhak10anpRUjhURDFKQi03X0ZSSjVjQ09yUGJCVl80bG5IM2oyWUhBbk1DQTR3d2VKM21HbkNmOTJ4WXdLN3hIcWxUV2hod3kwMEkxbnRRRkpEWEx5bHlwWTJOdnQyQ0t0cmM0X2ItdFF6VHRjQ3pLYWdiaVdYb01ERGFRODRucWl4WnBiaUxNOWdUSXBxa2xWbHVXcXRkaVotclB2RnV4NVpkZGZwXw?oc=5
+
+### 11. Five Leading Mini Excavator Distributors in China 2026: Expanding Access to Compact Construction Equipment - The Des Moines Register
+- 摘要：Five Leading Mini Excavator Distributors in China 2026: Expanding Access to Compact Construction Equipment&nbsp;&nbsp;The Des Moines Register
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 17:57:16 GMT
+- URL：https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU2w4WlpDTFRTb0VlOU1XSEc1ZVBzWWRTTUd0czIzMFZBR2pBa25yTFJhYWNIT0Z5aXV0T1ZtekZpVnk4cC0tVEJMZHZjNFZZOTl0UjBCMXVabERzYUUwNUtKaUpMYUo1NDdHVm4wN1VhX2RsSWxvblRtZ0lNVEk4UU1ZbVNVYmhCN0FnMG9OUU9lV3RPQlJTQlhZZWU5ZWxneUszVTVpLV9YRXZRV3FYd1F0RE5OemxoWXUxYUtWSnQxcW0wYWpiNXE0RUtic1hoRU1vNWVqbnQ2VUQtLWFWclVLcXh3STc5STMxRUI4RkJKMXFhcGFXM0pHYw?oc=5
+
+### 12. Beijing to bar young ‘red-chip’ firms from listing outside mainland China: sources - The Business Times
+- 摘要：Beijing to bar young ‘red-chip’ firms from listing outside mainland China: sources&nbsp;&nbsp;The Business Times
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 00:44:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUJpNEVQQ2tlRTJlVlNUeU5UZDh4RXRYT1lBcFVzRlItNzJlTEFBVXp5MTJ1djJEaHNDUEk1QWFhUWF6NW12NlZHYzBfYTRYZUthYWZEMXdROVJ1RnppNDdGckNLbkVqUUhGMnNCeDVuUnI5cWk5TWt0UU9RTEVtYlRibFA3aE8tMi1zYTV0NVBRdVlJTjZCY0lsNVE2ZmZ5YXJYbnZKRldwbzctcFRnTFZSTWNLX0h5NEM2dkszUFdxdWc?oc=5
+
+### 13. China's industrial strength benefits global growth - China Daily Global Edition
+- 摘要：China's industrial strength benefits global growth&nbsp;&nbsp;China Daily Global Edition
+- 信源：Google News（二级）
+- 日期：Sun, 22 Nov 2026 23:26:11 GMT
+- URL：https://news.google.com/rss/articles/CBMiggFBVV95cUxONHdDX0xtM2RUMDB6NC1MR2E5Sk1nRzJWVVV1MWlRcHdKbmtMZzNUcVZVQkI1c3E1NV9fcy1ST3pkVXRPTXFPdzZlZ3pXcjhoYkRnQncxeTlEMTNyZDJEOXV6cGRreGpiVDY4eVFIUmtDcHpmS1dLTU9qejZKN2l2dHh3?oc=5
+
+### 14. China Tightens Grip on Offshore-Registered Firms' Overseas Listings - Seoul Economic Daily
+- 摘要：China Tightens Grip on Offshore-Registered Firms' Overseas Listings&nbsp;&nbsp;Seoul Economic Daily
+- 信源：Google News（二级）
+- 日期：Sun, 22 Nov 2026 23:00:05 GMT
+- URL：https://news.google.com/rss/articles/CBMingFBVV95cUxOa0JZdmstX1BFdmpVa096aml0UzhLRHcyUkFfakg3MDhKN2g1MzI2NHdJWUFRS0NzU2ZpZXVIWWtpZW9FaHJsa0dqVlV6OGVyZnJza1F2aGM3aGRzdnJIaGJWMHUtb1VoSHFZMGVwVTVhdXZtMHJ5dlB0VElNMVd3a1RPUE9QVmQtTlhuNjBrY25fV1BOOTBWQllackxsQQ?oc=5
+
+### 15. Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas - South China Morning Post
+- 摘要：Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas&nbsp;&nbsp;South China Morning Post
+- 信源：Google News（二级）
+- 日期：Sat, 21 Nov 2026 00:48:00 GMT
+- URL：https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFZBT3FvQTd1eTFaalFzS2w3TC1xZFZiVnNWMXpvUllCUDFwVWhhYnAzMl9BbFBsUFdMcVAxTVkyWC1lOVRDRWhGbEcwV0h3dngyVU91eldIal9yaUk0aUpjdURxbGVVS2pFUzlaQmNyWUNMUEJObnVpV2lXRlc2OHczQlduWlZhTDRudEQ5bmkzMWlKaURpdkstNmJyZ3cycG44Q3o3cEtkMnA2dzJaODg5NEZmcWtXVTlZdUhCTjh6RHNXdU41WUhTMXZVaU03R0xJM1Uwd3lYQdIB2gFBVV95cUxPYjFfTXRaenpnNWpCZEtGUGtsb3dNU242bWMteHh4T3pfMlZjNlJyZE05Ynhub1ktbXllZGFacVFia0hWcEJ5OXZLbHF0dW9TeVJIempfcnBIclM5ZUk4cnN1WWZvV1hkbWhrQnZuN0pSZHdfS1JvWTdyT3RuY3ZYallpT1dYdUFBNzZaZmpxUlRXT1pxNFpqb0VLN2E5NENFYTFZSEI2LXBOY2IzSTFzRjNSejEyTzRsZGY1dWZiOG82d0NmSUhpdmFpTVFGamZjaUZvb284aUo3UQ?oc=5
+
+
+## 地缘政治（20条）
+
+### 1. What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?
+- 摘要：Trump claims credit for Huang&#039;s return, raising concerns over federal government meddling in corporate board decisions.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 23:06:03 +0000
+- URL：https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss
+
+### 2. Trump postpones US Army plan to detonate toxic explosives in Iowa
+- 摘要：President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 22:54:47 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss
+
+### 3. US escalates sanctions on Iran, targets ‘shadow banking’ networks
+- 摘要：US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 21:30:40 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss
+
+### 4. Israel’s southern Syria incursion triggers fear and destruction
+- 摘要：Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 21:19:17 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss
+
+### 5. US states sue SpaceX over Grok AI’s creation of child sexual abuse material
+- 摘要：Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 21:15:33 +0000
+- URL：https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss
+
+### 6. US drug prices leave patients facing impossible choices
+- 摘要：Despite having jobs and health insurance, some of the US&#039;s sickest patients have trouble affording medicines they need.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 21:02:00 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss
+
+### 7. Iran flogs singer Parastoo Ahmadi for performing without headscarf
+- 摘要：Ahmadi and four production team members also face two-year bans on travel and artistic activity.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:41:56 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss
+
+### 8. Iran hits US bases and civilian sites in the Gulf after a lull
+- 摘要：Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:26:40 +0000
+- URL：https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss
+
+### 9. Turkish police hunting for lioness stalking Istanbul
+- 摘要：Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:22:28 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss
+
+### 10. Jensen Huang reinstated as Nvidia chief: How did we get here?
+- 摘要：Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:22:12 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss
+
+### 11. Protesting Bangladesh garment workers reject pay offer
+- 摘要：Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:03:48 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss
+
+### 12. Trump delays explosive detonation in US state of Iowa amid legal battles
+- 摘要：Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 20:01:41 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss
+
+### 13. As tech outages mount, some New Yorkers prepare for the worst
+- 摘要：As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 19:43:45 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss
+
+### 14. CEO Jensen Huang returns to Nvidia’s office
+- 摘要：Employees at Nvidia cheered as CEO Jensen Huang returned to the office
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 19:40:41 +0000
+- URL：https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss
+
+### 15. Russia threatens ‘hostile’ Estonia with ‘open war’
+- 摘要：Moscow accuses Tallinn of &#039;hostile actions&#039; citing border closure and claiming it is allowing Ukraine to launch attacks.
+- 信源：Al Jazeera（二级）
+- 日期：Mon, 23 Nov 2026 19:20:30 +0000
+- URL：https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss
+
+
+## 消费与数码（17条）
+
+### 1. Nothing’s AI Earbuds Will Serve as an All-in-One Conversation Recorder
+- 摘要：While most AI-powered peripherals record only phone calls or in-person chats, the Ear Note is designed to capture every conversation.
+- 信源：CNET（二级）
+- 日期：2026-11-23T22:45:22Z
+- URL：https://www.cnet.com/tech/mobile/nothing-ear-note-ai-earbuds/
+
+### 2. Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261
+- 摘要：Need a Connections hint today? Get a hint for each color group in NYT Connections  No. 1,261 on Monday, Nov. 23, then all four answers.
+- 信源：CNET（二级）
+- 日期：2026-11-22T21:00:00Z
+- URL：https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/
+
+### 3. Everything Is Falling Apart, and AI’s Fingerprints Are Everywhere
+- 摘要：AI is rewriting the web in its own imperfect image, making software flaws easier to find and easier to exploit, while introducing plenty of its own im
+- 信源：CNET（二级）
+- 日期：2026-11-20T13:30:00Z
+- URL：https://www.cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai/
+
+### 4. I Put Xiaomi’s 18 Pro Max Camera to the Test and I Love the Results
+- 摘要：Xiaomi’s bonkers dual-screen phone is here and I’ve tested its camera.
+- 信源：CNET（二级）
+- 日期：2026-11-16T17:48:03Z
+- URL：https://www.cnet.com/tech/mobile/i-put-xiaomis-18-pro-max-camera-to-the-test-and-love-the-results-2/
+
+### 5. Jensen Huang Is Back as Nvidia CEO With the US Government’s Blessing
+- 摘要：The decision was made with “input from senior levels of the United States government,” according to the board.
+- 信源：CNET（二级）
+- 日期：2026-11-23T14:16:02Z
+- URL：https://www.cnet.com/tech/services-and-software/jensen-huang-reinstated-nvidia-ceo-news/
+
+### 6. Marvel Drops Final ‘Avengers: Doomsday’ Trailer and You Can Get Tickets on Disney Plus
+- 摘要：See Cyclops, Kate Bishop, Steve Rogers and more as the official countdown to Doomsday begins.
+- 信源：CNET（二级）
+- 日期：2026-11-23T14:58:51Z
+- URL：https://www.cnet.com/culture/entertainment/marvel-drops-final-avengers-doomsday-trailer-and-you-can-get-tickets-on-disney-plus/
+
+### 7. Andrew Garfield on Becoming Sam Altman in ‘Artificial’: ‘I’m Dying to Understand This Person’
+- 摘要：At an SFFilm screening of the biopic, the actor tells CNET about the physical and mental process of trying to grasp the “central truths” about OpenAI’
+- 信源：CNET（二级）
+- 日期：2026-11-22T13:00:00Z
+- URL：https://www.cnet.com/culture/entertainment/andrew-garfield-becoming-sam-altman-artificial/
+
+### 8. Genesis Launches Hybrids at the LA Auto Show, EREV Coming in 2027
+- 摘要：Genesis adds a 347-horsepower hybrid powertrain to its most popular G80 sedan and GV80 SUV, and teases a 640-mile extended-range EV for early 2027.
+- 信源：CNET（二级）
+- 日期：2026-11-22T11:00:00Z
+- URL：https://www.cnet.com/roadshow/automobiles/genesis-g80-gv80-hybrids-laas-debut-arriving-in-2027/
+
+### 9. New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash
+- 摘要：The redesigned compact sedan features Hyundai’s new AI voice assistant, Gleo AI, and an updated regenerative braking system with EV-like one-pedal dri
+- 信源：CNET（二级）
+- 日期：2026-11-21T11:00:00Z
+- URL：https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/
+
+### 10. Even the Iconic Google Home Page Can’t Survive the Push for More AI
+- 摘要：The search giant is revamping Google.com with AI options.
+- 信源：CNET（二级）
+- 日期：2026-11-21T00:01:42Z
+- URL：https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/
+
+### 11. Google Is Killing the Nest App. Here’s What Comes Next
+- 摘要：Don’t panic: All your devices should transfer over to Google Home fairly seamlessly.
+- 信源：CNET（二级）
+- 日期：2026-11-20T22:27:07Z
+- URL：https://www.cnet.com/home/smart-home/nest-app-google-assistant-sunset/
+
+### 12. Streamline Your Prestige TV Viewing With This New DirecTV Bundle That Has Netflix, HBO Max and Apple TV
+- 摘要：This new, discounted add-on will save up to 20% on three great streamers.
+- 信源：CNET（二级）
+- 日期：2026-11-20T20:39:23Z
+- URL：https://www.cnet.com/tech/streamline-your-prestige-tv-viewing-with-this-new-directv-bundle-that-has-netflix-hbo-max-and-apple-tv/
+
+### 13. Fluance’s Upgraded RT86 Could Be Turntable to Beat for $700
+- 摘要：The Fluance RT86 comes with a carbon fiber tonearm and either an Ortofon or Audio-Technica cartridge.
+- 信源：CNET（二级）
+- 日期：2026-11-20T20:21:22Z
+- URL：https://www.cnet.com/tech/fluances-upgraded-rt86-could-be-turntable-to-beat-for-700/
+
+### 14. Are We There Yet? NASA’s Escapade Is Heading to Mars in a ‘Pioneering’ Maneuver
+- 摘要：No space agency has ever staged spacecraft in orbit for a year before sending them on to Mars.
+- 信源：CNET（二级）
+- 日期：2026-11-20T20:06:58Z
+- URL：https://www.cnet.com/science/space/nasa-escapade-mars-gravity-assist/
+
+### 15. Signal Is Blocking Screenshots to Protect Your Messages from AI Agents
+- 摘要：Encryption can’t protect your messages from an AI agent peeking over your shoulder.
+- 信源：CNET（二级）
+- 日期：2026-11-20T19:48:39Z
+- URL：https://www.cnet.com/tech/services-and-software/signal-text-message-screenshots/
+
+
+## 民生与社会（20条）
+
+### 1. Ukraine confirms it used naval drones to strike two Russian ships off Libya
+- 摘要：Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warshipEurope live – latest updatesUkraine h
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 11:42:51 GMT
+- URL：https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya
+
+### 2. Russian warship sinks in Benghazi after suspected Ukrainian drone attack
+- 摘要：No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port 
+- 信源：Guardian（二级）
+- 日期：Sun, 22 Nov 2026 21:33:44 GMT
+- URL：https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya
+
+### 3. California’s coastal communities on alert as biggest waves in years hit state
+- 摘要：Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this
+- 信源：Guardian（二级）
+- 日期：Fri, 20 Nov 2026 09:03:20 GMT
+- URL：https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state
+
+### 4. Race to replant five South African baobabs after export blocked
+- 摘要：The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing 
+- 信源：Guardian（二级）
+- 日期：Thu, 19 Nov 2026 11:03:24 GMT
+- URL：https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe
+
+### 5. One in four women globally unable to refuse sex within marriage, says UN
+- 摘要：Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have
+- 信源：Guardian（二级）
+- 日期：Thu, 19 Nov 2026 04:00:16 GMT
+- URL：https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa
+
+### 6. Butt of the joke: Trump impersonator mocks president at Canada press dinner
+- 摘要：Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event OttawaCanada’s prime minister, Mark Carn
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 22:41:48 GMT
+- URL：https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner
+
+### 7. Barbados town’s three-year deal with Bristol ‘part of the reparative process’
+- 摘要：Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave tradeA town in Barbados kn
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 16:53:13 GMT
+- URL：https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations
+
+### 8. Trump administration deported US citizen to Mexico, DoJ admits in court
+- 摘要：Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants droppedThe Trump administration 
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 11:00:56 GMT
+- URL：https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico
+
+### 9. Bank of England directors illegally profited from post-abolition enslavement in Cuba
+- 摘要：New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people• Slave-tr
+- 信源：Guardian（二级）
+- 日期：Sun, 22 Nov 2026 08:00:22 GMT
+- URL：https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba
+
+### 10. Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid
+- 摘要：Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI
+- 信源：Guardian（二级）
+- 日期：Sat, 21 Nov 2026 17:46:55 GMT
+- URL：https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested
+
+### 11. Lucy Powell to visit China to promote UK education weeks after MI5 warning
+- 摘要：Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interferenceThe education secretary, Lucy Po
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 16:42:09 GMT
+- URL：https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning
+
+### 12. At least 24 killed and dozens missing in confectionery factory fire in Indonesia
+- 摘要：Rescuers brave unstable structures in search for missing as DNA needed to identify victimsIndonesia has confirmed the deaths of 24 people in a fire th
+- 信源：Guardian（二级）
+- 日期：Mon, 23 Nov 2026 05:45:12 GMT
+- URL：https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta
+
+### 13. South Korean minister quits after AI cheating scandal engulfs university exams
+- 摘要：Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measuresSouth Korea’s education minis
+- 信源：Guardian（二级）
+- 日期：Sun, 22 Nov 2026 12:12:07 GMT
+- URL：https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams
+
+### 14. China commits to low-carbon electrification and help for others to improve
+- 摘要：Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035China is pushing for rapid electrifica
+- 信源：Guardian（二级）
+- 日期：Sat, 21 Nov 2026 09:47:57 GMT
+- URL：https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve
+
+### 15. Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad
+- 摘要：President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday
+- 信源：Guardian（二级）
+- 日期：Fri, 20 Nov 2026 21:47:41 GMT
+- URL：https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house
+
+
+## 政策与监管（20条）
+
+### 1. EU opens antitrust investigation into Coca-Cola bottler CCEP - Reuters
+- 摘要：EU opens antitrust investigation into Coca-Cola bottler CCEP&nbsp;&nbsp;Reuters
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 16:51:37 GMT
+- URL：https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNjdlBtR2k2WGZjVFhHN1Q2dkcySlNlMlhLbTBUcHlveFpETHBnazN1Vy1fU2hvTjAzUWpTZVQ5UG9ERUNpbEZ5MG5fTkNVbF95eFNkYkhSWTNkYkJ3Mk90dlZLQlNOLUx1T081aWF3dEU3Tkd2R1Bwa3BYWFh1ano4eUY3dGdZS1FOR2lnYnFxWU5DNjNjbUw0QnZJMEpaVUJTQ1Nyb3E5WUFpTzRVZVMyVQ?oc=5
+
+### 2. A Fresh Look at Antitrust Enforcement, Led by Two Stanford Law Students - Stanford Law School
+- 摘要：A Fresh Look at Antitrust Enforcement, Led by Two Stanford Law Students&nbsp;&nbsp;Stanford Law School
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 19:59:49 GMT
+- URL：https://news.google.com/rss/articles/CBMivgFBVV95cUxPUW1oaUVvOVZwNkU1REFncjZwSTVhUUtEeWRXdHpzYWF2QndhWVhFUlhjNjN1VEVNaXZGT1NZOFRhVVNDSjU3MmgydVFzNUNOdkFQU3FORFM3SmxISWxwMkROTjJMcVVraFVmYVgzdENKVE1XTUhRb0tUUW9UMG92MmJIdDZEbzFzVlJqTVo5R0FsMXJ1TDVYel90NUFwZGlDdENBa041Yko3VE03TEswWHNxRDVxODhpdXotS0t3?oc=5
+
+### 3. DOJ closes NextEra-Dominion antitrust probe as state hearings continue - Utility Dive
+- 摘要：DOJ closes NextEra-Dominion antitrust probe as state hearings continue&nbsp;&nbsp;Utility Dive
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 18:36:27 GMT
+- URL：https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWNiSGY5ZW4zdTNVU0VNS1RyakRzRmJKUXZKME9UWVJiaDNTZGxoUzFtd1ByYnpZVnkwWGFFS0dvYmVSX2JxSDlwSlRhLW5sX3NCQ3FEY3BzcjdkNThQMmV1Ry00WDJsR1RHT2xOalhIWHFYc05WLXBnMzh5Wk1KSGxTc1NrQnVjdk9BZ01FdnBySmlOYnZFUUdIQnA1TGxGSjJFMzdsZmVBRkN5blpNWQ?oc=5
+
+### 4. CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics - The New York Times
+- 摘要：CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics&nbsp;&nbsp;The New York Times
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 10:03:26 GMT
+- URL：https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGk4a0diSTNQaHV3LWw2Zk5haEVsa0FqcjU0T1lVYjJqQnlUSThaQlJBMDR6Q1p6UkU2N2ZXMlRpc3RFdUxHODdwTE0tckRveVItVGxoYU85YjdDeHJaek1GU3Jlem82dGIyOEJnZktjd3VnNFdjRGR4Q1MwNlhNRVJhM01ZOHRqSWlyajF1SmZNMmdPWHVuUmhCWjY1SGtTSWVR?oc=5
+
+### 5. Companies use tariff refunds to pay executive bonuses, investigation finds - WBUR
+- 摘要：Companies use tariff refunds to pay executive bonuses, investigation finds&nbsp;&nbsp;WBUR
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 17:05:04 GMT
+- URL：https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WEJQS0t2RnVmNUI3NzBYakVydDN4aGk0NHVBd3NyLTBMQlMycWc1VVRQR1ZDdGc0VUpreGpoeTVaanRfN1hhM3d3Vk51aDQ5TG1mWVdJWURyTmFKQTE4WXdRUVRucVBPaXdWMXdJQnlKZms0OHg0?oc=5
+
+### 6. Editorial: California needs to curb its worst antitrust instincts - Orange County Register
+- 摘要：Editorial: California needs to curb its worst antitrust instincts&nbsp;&nbsp;Orange County Register
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 22:15:59 GMT
+- URL：https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWR4LUZZZDZRbU43N2Z6ME4tNkRCZk80a1pzY25QZE9ydjlxdHBoSVk4bjJtQjZKYUdGREZycmtpUzdXWTdOdVNVQ0lKQWJsc0hLaUJLYXhYMHdoZ0Nqa2hrMHlGS3dvVGxGNi1YRzAzNk55TWdyR2FqYmIyS0lhT3ZzOXVIVGlEM2U2VFQ5TXNmQ2Jjc2xMVVliMFpHWS13QnhkZ1Jn?oc=5
+
+### 7. EU Probes Coca-Cola Bottler, Citing Antitrust Concerns - WSJ
+- 摘要：EU Probes Coca-Cola Bottler, Citing Antitrust Concerns&nbsp;&nbsp;WSJ
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 17:27:00 GMT
+- URL：https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTdfR2pRTktJSFc1dmdlcnE2QTR2N1NYZWN4UW14cG1aNV9YSUFIM3Y1VHN1NXJhakFfb3M1QjVocC1yWjk4Yi10ZUFrMHZnSnVWRFQwaGx3TmhRR2Eydm1tSk80c3lxWTgtMFphb1FtYmVzQm1Bb28yS0Zxd1NjVTV5SzRhREJHdGFCaXY2SkpsTko1RVZKd1RwNA?oc=5
+
+### 8. Autism-related repetitive behavior may support child's self-regulation - Medical Xpress
+- 摘要：Autism-related repetitive behavior may support child's self-regulation&nbsp;&nbsp;Medical Xpress
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 18:20:25 GMT
+- URL：https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVlIczVleFlYQmtHQTBMV3BZWHRRd3FrMXNtWVBnVG1ENTNEaTBRbnZueC05REJWdWhQSDRCOUxyY2dHOG44alBZaklNWVE0MTcyMVhMa2JKU20waEV6bUVONnhCa1AzZ0VvVjBwdWt2UHE3bjZOejJTMXVtNDJDaDRB?oc=5
+
+### 9. Q3 2026 Healthcare Antitrust and Competition Update - JD Supra
+- 摘要：Q3 2026 Healthcare Antitrust and Competition Update&nbsp;&nbsp;JD Supra
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 22:08:00 GMT
+- URL：https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEk3WkRqcDlLcDJ5bVlMZUk2QzV2NmlvWVhkdERuLXJ6SjYzaVkzN3JTTVZVaWFmQncyZGJmUlhwcW5aV2pIUDRwVnJ1aGs3WGhYOXpQZXJTNkhoRXl1NnZGdzV6Z2NJWlFjVVo1V1h4UV9jQkVHOTBaSjJDcUp2NQ?oc=5
+
+### 10. How DNA's surroundings shape gene regulation - Phys.org
+- 摘要：How DNA's surroundings shape gene regulation&nbsp;&nbsp;Phys.org
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 20:20:01 GMT
+- URL：https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pYjJUQlRwalVlZjRqZnF0NERUbGtsNjh5Q1lxSDdKYUdLdTc1UkxGS21BSzdYUEJUUmk5Vm9TV2oxdlA1Z3NKRWlMd1VjN1lqQXJKUGFn?oc=5
+
+### 11. Linklaters Enlists Weil’s Hulsmann for Antitrust in London - Bloomberg Law News
+- 摘要：Linklaters Enlists Weil’s Hulsmann for Antitrust in London&nbsp;&nbsp;Bloomberg Law News
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 20:08:00 GMT
+- URL：https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHl2WWRKY1M5WUhpUUd5R2FJU0JQOEdlVFdfZjViNE1UYUd0VWFVcElyS3hmWmtYYklJcUJ3UEZOOWZ1RjEwalJuVzl2TEtEY09hX1VCeUZLSXpNUHdrSS11ZENkbDJnV0FLYnIzWF90cTdZVFpUeVhhblNNUmdmb0RYc29faHdiQTMwUzR4Vk1ydUVyemI4dndUMld4bXJ0U2RwQWV6RFFFSkc4UXc?oc=5
+
+### 12. Sen. Schumer introduces tariff legislation, blasts Trump in visit to Massena - North Country Now
+- 摘要：Sen. Schumer introduces tariff legislation, blasts Trump in visit to Massena&nbsp;&nbsp;North Country Now
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 22:07:38 GMT
+- URL：https://news.google.com/rss/articles/CBMiuAFBVV95cUxONThPNjM1aUxNcmUwMXUyMjV1N2FXdXNFWUgzeWhORjZrMEFncFgtaUdkYVNjUnZEX29Ddmo1VEVNYWdVRzBtTDlJT09JRkpkd2kwa05ZUVYzdkd2UzNMMUZlZUdVQTVnNnhtUDBxNXRORFRHMzUyWmtCZzF6ZVJ6SlcwaGZtTmRSRVVpVG92bGltWHdsS0JMVW1KUng0dXRqb1ZQNFoybjBEcXNmOEVYZTFSZ0RFaGNJ?oc=5
+
+### 13. North Country farmers getting $2.17M in tariff relief - WWNY
+- 摘要：North Country farmers getting $2.17M in tariff relief&nbsp;&nbsp;WWNY
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 19:57:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVZXajZZUG5KbHU2YmpYQ3Z3Ym82dkFIelRROXBpWWRKUnFSWUlJWEJ1R3IzdUU0b2pVcTQza3dUYTh3U3ZoNWtpMHZra2twdnMtZEc1OWdPNWJWTmh1UWFaTjVoMHhrdWdzbk43Y2xnR3VRMDhlcHo4UW1RZGNpaGIyNGZXbU8tNU1r?oc=5
+
+### 14. Southern Tier farms receive nearly $1.8M in state tariff relief payments - WBNG
+- 摘要：Southern Tier farms receive nearly $1.8M in state tariff relief payments&nbsp;&nbsp;WBNG
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 22:57:00 GMT
+- URL：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm5ycFVabFA2M1ZTVG9zNEdHaExRVF9LVEkwaHgteDhqaXE3Z0FFN21jc0VkYy1aTDNkTFVJZUpyYV9zclA0T2s2RWZmTmxCUU8wYVk1N2FUSTFjXy1aS3FIR1FRNGZKNmhNUVNKU0ZnOEFRS0g4amxQUHo2MWkycl9GekJUaF9BRFBUZTAxb3V3cE9OQzZnOHBMTXpSY1R1TmxKZ254dVk1dw?oc=5
+
+### 15. New York farmers to get $23M tariff ‘relief’ payments - The Center Square
+- 摘要：New York farmers to get $23M tariff ‘relief’ payments&nbsp;&nbsp;The Center Square
+- 信源：Google News（二级）
+- 日期：Mon, 23 Nov 2026 20:15:00 GMT
+- URL：https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTI1aGx5ME9CSlpEVkQ0aExMeFcxb1FLTmUxMjl0V3RhajR3UTAzSHBFUUR0ZV9UQ0hrV1Z4am1JNVN3QjY2RWphVTZhaE91d1Z6ZGFYTmhNQWE2SE1jaktqN1J5SV9PMnRTX0J4UlNTbWVDb25maUdZRkpQYTlGQThqRHE2QzJwdDdkNFlkeHhMTzUy0gGaAUFVX3lxTE5zOXlXcnJYVFlBNHJQVkpIYnk0YUd2R1llNW1STnpQMVNFbzBnNFFJdFcwY1BoZHRtZHBnSjBhQzQ0SWczSDE2eUxzUUMwSWNzSWpUbDFXQjZOcG5GbXVKbW1OdlhXVnZjRmNMV3ZLRVNKNTFnZEMtRXZJYVJsVG5JN0g1ZkxTdXJYNEpENXV4SGtneE9OSlI1clE?oc=5
+
+
+## 信源采集日志
+
+| # | 信源 | 级别 | 方向 | fetch方式 | 抓取条目 | 采集时间 |
+|---|------|------|------|----------|----------|----------|
+| 1 | The Verge | 二级 | 科技与AI | RSS自动 | 10条 | 2026-11-24 07:25 |
+| 2 | MIT Tech Review | 二级 | 科技与AI | RSS自动 | 10条 | 2026-11-24 07:25 |
+| 3 | CNBC | 二级 | 金融市场 | RSS自动 | 20条 | 2026-11-24 07:25 |
+| 4 | Google News | 二级 | 中国出海 | RSS自动 | 20条 | 2026-11-24 07:25 |
+| 5 | Al Jazeera | 二级 | 地缘政治 | RSS自动 | 20条 | 2026-11-24 07:25 |
+| 6 | CNET | 二级 | 消费与数码 | RSS自动 | 17条 | 2026-11-24 07:25 |
+| 7 | Guardian | 二级 | 民生与社会 | RSS自动 | 20条 | 2026-11-24 07:25 |
+| 8 | Google News | 二级 | 政策与监管 | RSS自动 | 20条 | 2026-11-24 07:25 |
